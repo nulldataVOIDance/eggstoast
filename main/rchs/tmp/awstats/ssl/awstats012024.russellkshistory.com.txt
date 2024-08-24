@@ -1,0 +1,2725 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202401 will be lost/reset.
+# Last config file used to build this data file was /home3/russems1/tmp/awstats/ssl/awstats.russellkshistory.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2022                
+POS_TIME 2706                
+POS_VISITOR 51310               
+POS_DAY 94011               
+POS_DOMAIN 3684                
+POS_LOGIN 4539                
+POS_ROBOT 4694                
+POS_WORMS 6654                
+POS_EMAILSENDER 6785                
+POS_EMAILRECEIVER 6928                
+POS_SESSION 94954               
+POS_SIDER 95167               
+POS_FILETYPES 7063                
+POS_DOWNLOADS 7436                
+POS_OS 7836                
+POS_BROWSER 8687                
+POS_SCREENSIZE 16550               
+POS_UNKNOWNREFERER 16624               
+POS_UNKNOWNREFERERBROWSER 19197               
+POS_ORIGIN 20476               
+POS_SEREFERRALS 20626               
+POS_PAGEREFS 20935               
+POS_SEARCHWORDS 21929               
+POS_KEYWORDS 22393               
+POS_MISC 2369                
+POS_ERRORS 22736               
+POS_CLUSTER 4395                
+POS_SIDER_404 22967               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240201000556 554 188673 16782854459526
+FirstTime 20240101000551
+LastTime 20240131220813
+LastUpdate 20240201050944 554 0 553 0 0
+TotalVisits 1341                
+TotalUnique 971                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 1132                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 77 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 105 153 12621829 179 375 1099818
+1 100 212 33216778 242 409 1126530
+2 62 113 10899005 136 305 3940672
+3 181 419 4229858 191 345 602358
+4 152 486 15024442 507 962 6710681
+5 64 400 12254163 192 362 711487
+6 133 563 37767584 138 334 11677087
+7 104 609 46156087 154 458 4809711
+8 154 1032 56469970 265 521 1076354
+9 289 948 32568460 179 365 10028977
+10 193 807 32435112 160 409 2132482
+11 113 1112 52156814 136 343 951557
+12 168 1126 30530670 172 434 566640
+13 119 831 31640644 116 304 1342929
+14 206 957 57508045 206 578 2260283
+15 103 993 49563956 271 539 652426
+16 135 928 24204506 122 324 9898791
+17 77 749 54177746 150 346 1371792
+18 136 647 29480462 187 556 2346736
+19 138 651 24299695 239 458 30338352
+20 207 986 38822593 333 606 3200596
+21 313 967 53624744 355 583 13959086
+22 89 683 21821277 211 376 11823225
+23 104 359 18487077 171 291 588557
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 43
+us 2629 14895 688170416
+ca 145 390 8928268
+cn 114 344 13576127
+gb 65 186 3433066
+de 59 95 10635235
+fr 55 61 369528
+bg 51 111 1519349
+lt 51 52 10723743
+pl 44 44 168230
+ru 32 133 3672293
+in 29 59 608496
+cl 27 27 131861
+id 26 26 98449
+jp 25 29 653530
+se 22 22 139588
+kr 11 36 1967185
+nl 11 12 166691
+ua 8 10 182005
+lv 6 10 304948
+ro 5 5 34402
+pa 4 4 17718
+zz 3 110 3093532
+ir 3 3 25816
+es 3 4 77118
+gr 3 3 15168
+sc 0 1 55616
+eg 1 3 402781
+ch 0 1 113919
+ng 1 1 5056
+by 0 1 18927513
+th 1 1 0
+md 1 8 92871
+il 2 2 10112
+hu 0 1 113919
+sa 2 2 38468
+no 0 1 48146
+at 1 1 19234
+au 1 1 5056
+cz 1 1 5056
+tw 1 1 3247
+ph 1 32 737428
+mx 0 1 113919
+pk 1 1 5056
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 47
+Googlebot/ 882 24472151 20240131211457 0
+bingbot/ 561 4335412 20240131220051 1
+spider 491 5819744 20240131042201 0
+Applebot/ 454 3321776 20240131191334 0
+feed 320 4136978 20240123122847 0
+bot[\s_+:,\.\;\/\\-] 139 4113605 20240131050434 0
+crawl 116 2450356 20240131225842 0
+baidu 82 5072366 20240131020346 0
+no_user_agent 75 1580162 20240131031023 0
+facebookexternalhit/ 67 13092514 20240131023705 0
+Go\-http\-client/ 65 1233800 20240131154057 0
+robot 48 176674 20240129200047 0
+seek 48 627450 20240125200514 0
+DuckDuckGo\-Favicons\-Bot/ 45 227520 20240131102340 0
+Googlebot\-Image/ 43 512895 20240131134026 0
+(firefox/)([0-9]\.|[0-1][0]\.) 42 194445 20240129084015 0
+YandexBot/ 40 250745 20240131121348 0
+nbot 34 9830721 20240123131121 0
+link 31 196702 20240124095606 0
+DomainStatsBot/ 24 294491 20240103075538 0
+Baiduspider/ 20 29417486 20240131020341 0
+scanner 10 77326 20240122102816 0
+Mail\.RU_Bot/ 10 50560 20240128205516 0
+Konqueror/ 9 85729 20240129084057 0
+scrapy 8 103273 20240119080158 0
+Googlebot\-Mobile/ 1 11742 20240123023026 0
+W3C_Validator/ 1 11746 20240123023026 0
+FAST\-WebCrawler/ 1 2530 20240102101132 0
+Velen 2 6580 20240113222729 0
+libwww\-perl 2 1794 20240128151631 0
+Xenu[\x20]Link[\x20]Sleuth 1 2530 20240102101009 0
+ELinks/ 1 11746 20240122123206 0
+Dalvik/ 1 10531901 20240109060655 0
+SurdotlyBot/ 1 5056 20240114163826 0
+msnbot/ 1 11752 20240124095705 0
+DuckDuckBot-Https 5 25280 20240129163145 0
+MojeekBot 2 5546 20240119220737 0
+unknown 1 26 20240125060643 1
+[\s_+:,\.\;\/\\-]bot 5 22893 20240129182942 0
+curl 2 127514 20240121075803 0
+Apache\-HttpClient/ 6 0 20240102201024 0
+yandex 5 87193 20240121031449 0
+validator 1 2530 20240104062101 0
+LinkCheck 3 11169 20240122072503 0
+Yahoo![\x20]Slurp 1 41565 20240102101038 0
+bingpreview 1 73045 20240105222459 0
+ELinks[\x20]\( 1 11753 20240128151618 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 16
+css 1151 2047450 0 0
+jpg 2382 294339461 0 0
+php 10 94029 0 0
+aspx 6 70567 0 0
+json 12 141483 0 0
+svg 9 96632 0 0
+pdf 30 311199049 0 0
+gif 6617 4416931 0 0
+esp 8 94079 0 0
+png 870 106073765 0 0
+html 3379 20514303 0 0
+Unknown 25 463151 0 0
+js 2219 29769641 0 0
+env 3 35253 0 0
+txt 8 30789 0 0
+woff 2 23576 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 10
+/RCHS_Spring23--ReaderSpreads.pdf 20 4 188286435
+/RCHS_Spring2022.pdf 11 2 126382814
+//wp-includes/ID3/license.txt 5 0 6805
+/Membership_Donor.pdf 4 0 1201496
+/RCHS_FALL21_Comp.pdf 4 0 75710052
+/Membership--Donor-Form-2019.pdf 2 0 109322
+/core/CHANGELOG.txt 1 0 11763
+/wp-includes/ID3/license.txt 1 0 463
+/Fall22RCHS.pdf 1 0 0
+/CHANGELOG.txt 1 0 11758
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 54
+android10 1665 76
+androidhoneycomb 2 0
+androidnougat 39 23
+win8.1 108 28
+winxp 120 19
+unix 302 20
+blackberry 2 1
+macosx5 1 1
+win8 24 19
+androidjellybean 2 1
+macosx7 1 1
+winunknown 1 0
+macosx12 6 5
+androidfroyo 2 0
+Unknown 813 711
+ios_ipad 539 94
+androidpie 103 8
+android 1113 63
+winlong 30 26
+winme 1 0
+bsdfreebsd 3 0
+win7 230 150
+win98 1 1
+os/2 3 0
+macosx14 31 28
+androidoreo 202 7
+macosx15 1761 401
+macosx6 5 3
+androidlollipop 2 1
+ios_iphone 3360 228
+androidkitkat 5 3
+macosx13 34 2
+win95 1 0
+win2000 2 1
+androidics 1 0
+linux 373 177
+beos 1 0
+macosx11 202 98
+win10 5251 978
+winnt 1 0
+winphone 3 0
+androidcupcake 4 1
+macosx 145 132
+win2003 1 1
+macosx9 35 34
+linuxubuntu 87 48
+androidmarshmallow 53 8
+wince 23 23
+macosx10 26 22
+macosx8 1 0
+irix 1 0
+bsdnetbsd 2 0
+symbian 10 2
+j2me 3 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 379
+chrome99.0.4844.83 1 1
+edge13 5 2
+opera11.62 1 0
+chrome99.0.4812.0 1 0
+chrome120.0.6099.230 315 17
+chrome52.0.2919.98 5 5
+android 14 5
+chrome97.0.4692.71 3 0
+chrome70.0.3538.77 10 10
+chrome94.0.4606.81 33 32
+chrome41.0.2272.105 1 0
+chrome120.0.6099.193 2 0
+netscape4.77 1 0
+safari15.0 1 0
+safari8.0 1 1
+chrome110.0.5478.0 45 1
+chrome100.0.4896.133 1 1
+opera72.0.3815.465 4 1
+chrome41.0.2224.3 2 2
+firefox77.0 5 5
+chrome120.0.0.0 4744 256
+chrome58.0.3029.110 25 20
+chrome66.0.3359.117 4 4
+chrome80.0.3987.149 20 20
+chrome80.0.3987.132 87 27
+chrome63.0.3239.132 4 3
+opera36.0.2130.46 1 0
+firefox54.0 40 16
+chrome101.0.4951.54 57 2
+chrome4.0.302.2 1 1
+chrome34.0.1847.131 1 1
+chrome53.0.2785.143 1 1
+chrome101.0.4951.67 1 1
+opera79.5.4195.76987 64 4
+chrome51.0.2704.81 1 0
+msie7.0 9 5
+chrome112.0.0.0 5 1
+chrome41.0.2228.0 3 3
+safari8.0.8 1 0
+chrome60.0.3112.107 29 17
+chrome79.0 2 2
+chrome98.0.4758.141 2 0
+chrome109.0.0.0 122 16
+firefox21.0 1 1
+safari7.0 1 0
+firefox19.0 2 0
+chrome43.0.2327.5 1 1
+chrome78.0.3251.115 2 2
+chrome99.0.4844.84 97 5
+chrome15.0.874.120 1 0
+chrome86.0.4240.75 33 30
+safari17.1.2 335 20
+firefox102.0 6 2
+chrome120.0.6099.234 444 17
+chrome115.0.0.0 159 8
+chrome62.0.2135.181 2 2
+safari3.1.1 1 0
+chrome74.0.3729.157 1 1
+safari17.2 893 36
+opera10.5 1 1
+chrome79.0.2432.139 2 2
+chrome103.0.0.0 31 2
+opera9.80 1 0
+dillo 1 0
+firefox78.0 1 1
+chrome72.0.3555.184 2 2
+chrome20.0.1090.0 1 0
+msie5.5 1 0
+chrome100.0.4896.60 19 18
+chrome100.0.4896.58 1 0
+chrome120.0.6099.125 31 1
+safari9.0 3 3
+opera28.0.1750.51 1 0
+safari16.0 2 0
+chrome79.0.2041.54 2 2
+netscape2.02 1 0
+chrome67.0.3396.99 1 1
+chrome36.0.1944.0 1 0
+chrome76.0.3809.89 1 0
+safari12.1.12 1 1
+chrome64.0.2179.100 2 2
+chrome71.0.3578.98 1 0
+chrome43.0.2376.69 2 2
+chrome51.0.2704.106 1 1
+chrome42.0.0.9757 1 1
+chrome20.0.0000.00 1 0
+chrome74.0.3729.169 16 15
+opera32.0.1948.25 1 1
+chrome108.0.5374.212 1 1
+chrome87.0.4280.66 1 1
+chrome87.0.4280.88 202 13
+chrome100.0.4758.11 1 1
+chrome73.0.3952.122 2 2
+opera8.60 1 0
+chrome93.0.4577.107 29 1
+chrome77.0.3196.115 2 2
+safari13.4.1 1 1
+chrome102.0.5005.63 3 3
+opera9.20 1 0
+chrome64.0.3282.0 1 1
+safari7.2.1.0 1 0
+opera11.01 1 0
+chrome117.0.5938.132 92 2
+netscape5.0 8 8
+chrome79.0.3840.102 2 2
+chrome106.0.0.0 49 5
+opera55.0.2994.44 1 1
+chrome72.0.3626.121 1 1
+chrome9.0.597.15 1 0
+chrome101.0.4951.64 5 1
+opera12.00 1 0
+firefox62.0 1 1
+chrome64.0.3282.119 1 1
+chrome120.0.6099.210 45 1
+firefox25.0 3 1
+chrome84.0.4115.0 2 2
+safari13.1.2 30 1
+chrome55.0.2883.95 1 1
+chrome73.0.3683.86 2 0
+chrome77.0.3255.13 2 2
+safari15.4 91 2
+chrome71.0.3578.80 1 1
+chrome66.0.3359.158 1 1
+chrome100.0.4896.75 5 4
+opera66.2.3445.62346 1 0
+safari5.0.4 2 2
+safari4.0.4 1 0
+safari17.1 1 0
+firefox17.0 94 4
+chrome103.0.5042.0 2 1
+opera89.0.4447.51 76 75
+chrome74.0.2119.139 2 2
+firefox38.0 4 0
+chrome99.0.4844.74 1 0
+chrome107.0.0.0 2 2
+chrome79.0.3945.88 1 1
+chrome100.0.4896.127 11 4
+opera28.0.1750.40 2 1
+chrome85.0.4183.101 1 0
+opera9.60 1 1
+safari15.6.1 58 2
+chrome99.0.4844.88 2 1
+safari16.4 8 2
+opera15.0.1147.24 1 0
+opera93.0.0.0 1 1
+chrome79.0.3945.130 36 36
+chrome75.0.3278.62 2 2
+chrome89.0.4389.114 12 5
+opera50.0.2762.67 1 1
+safari 607 23
+arora 2 0
+chrome88.0.4240.193 4 4
+safari10.0 1 0
+multizilla 1 0
+opera12.16 1 1
+chrome76.0.3809.132 1 1
+omniweb 1 0
+safari17.0.1 1 0
+firefox41.0 1 1
+chrome98.0.4758.80 2 2
+chrome111.0.0.0 30 2
+msie9.0 122 68
+opera6.20 1 1
+safari5.0.2 1 0
+firefox36.0 1 1
+chrome26.0.1410.63 1 0
+chrome49.0.2623.75 1 1
+firefox103.0 31 26
+chrome94.0.4606.113 1 0
+chrome91.0.4472.114 34 14
+chrome19.0.1042.0 2 2
+opera11.50 2 2
+chrome92.0.4515.131 3 3
+chrome73.0.3683.75 1 0
+firefox52.0 201 97
+safari15.6.6 45 1
+chrome94.0.4606.71 2 0
+chrome108.0.0.0 95 47
+netscape4.8 1 0
+firefox73.0 1 1
+chrome64.0.3404.67 2 2
+firefox114.0 74 74
+msie10.0 2 0
+chrome114.0.0.0 287 227
+chrome72.0.2232.50 2 2
+chrome101.0.4951.41 12 1
+chrome83.0.4103.61 16 4
+chrome116.0.0.0 150 132
+chrome98.0.4758.109 2 0
+chrome87.0.4280.144 1 0
+edge16 2 2
+firefox72.0 36 0
+msie8.0 1 1
+safari6.0 6 5
+chrome30.0.1599.103 1 0
+chrome76.0.3809.100 4 2
+chrome95.0.4638.69 5 0
+iphone 566 42
+opera18.0.1284.49 1 0
+edge44 98 98
+chrome66.0.3359.181 1 1
+chrome81.0.4044.113 1 0
+firefox 3 3
+safari16.5 120 3
+chrome100.0.4896.57 1 0
+blackberry 2 1
+firefox53.0 3 3
+chrome57.0.2987.98 1 0
+opera10.61 1 0
+chrome60.0.3405.65 2 2
+firefox122.0 177 5
+chrome92.0.4515.107 1 0
+chrome72.0.2961.18 2 2
+safari16.1 496 20
+firefox115.0 69 3
+chrome84.0.4147.89 2 2
+safari4.0 1 0
+safari5.0 1 0
+chrome100.0.4895.86 2 2
+chrome101.0.4951.61 6 1
+chrome103.0.5060.134 4 4
+chrome120.0.6099.224 1 0
+safari15.3 1 1
+opera12.10 1 0
+chrome117.0.0.0 380 170
+chrome59.0.3071.125 4 0
+chrome32.0.1700.99 1 0
+chrome5.0.309.0 1 0
+chrome81.0.4044.138 2 2
+nokia 6 1
+chrome74.0.2672.74 2 2
+opera11.1 1 0
+chrome101.0.0.0 1 0
+chrome75.0.3354.53 2 2
+itunes 1 0
+chrome65.0.3428.56 2 2
+chrome98.0.4758.102 4 3
+chrome68.0.3440.106 2 2
+chrome95.0.4638.54 2 2
+safari13.0.3 75 75
+safari2.0.1 2 0
+chrome103.0.5060.71 1 1
+chrome56.0.2924.87 5 4
+chrome97.0.4280.67 3 3
+safari15.1 3 0
+firefox117.0 1 1
+chrome92.0.4515.166 2 1
+safari11.0 3 2
+firefox88.0 3 1
+chrome107.0.5304.87 8 0
+chrome34.0.1847.114 1 1
+chrome66.0.3294.197 2 2
+opera9.64 2 1
+safari16.3 114 5
+chrome11.0.696.65 1 1
+opera8.01 1 0
+chrome67.0.3459.166 2 2
+opera85.0.4341.75 3 1
+chrome118.0.0.0 128 10
+chrome96.0.4664.93 1 0
+chrome76.0.3508.1 2 2
+opera62.5.2254.61243 1 0
+chrome80.0.3987.87 3 0
+chrome110.0.0.0 5 5
+safari12.1 1 1
+safari17.2.1 320 12
+chrome83.0.4103.83 1 1
+firefox63.0 4 4
+chrome104.0.0.0 34 34
+chrome118.0.5993.80 1 1
+netscape7.1 1 1
+chrome44.0.2403.130 1 0
+chrome78.0.3904.108 11 10
+edge12 2 1
+msie11.0 13 10
+firefox75.0 1 1
+chrome39.0.2171.95 14 14
+firefox119.0 1 1
+chrome79.0.3992.117 2 2
+chrome70.0.3538.102 1 0
+chrome83.0.4103.97 21 15
+firefox67.0 1 1
+csscheck 1 0
+chrome71.0.2623.112 4 4
+safari16.6 350 16
+chrome80.0.3987.162 1 1
+chrome71.0.3995.16 2 2
+firefox28.0 1 0
+opera10.10 5 4
+chrome35.0.2117.157 1 0
+chrome76.0.3969.63 2 2
+safari17.1.1 29 1
+firefox20.0 1 0
+safari10.1.0.2342 1 0
+chrome103.0.5060.114 11 7
+chrome60.0.3112.90 25 25
+chrome22.0.1229.79 1 0
+safari14.1 1 0
+chrome24.0.1290.1 1 1
+chrome104.0.5112.34 10 10
+firefox91.0 2 2
+chrome35.0.1916.47 32 32
+firefox35.0 2 0
+chrome55.0.2883.87 1 0
+chrome102.0.4997.0 1 0
+chrome120.0.6099.144 36 2
+safari12.1.2 101 57
+chrome62.0.3121.108 2 2
+chrome102.0.0.0 5 4
+chrome31.0.1615.0 1 1
+chrome70.0.3538.67 1 1
+chrome79.0.3945.79 90 2
+chrome77.0.2032.61 2 2
+chrome119.0.0.0 198 16
+chrome60.0.3112.113 10 10
+edge17 2 1
+chrome121.0.0.0 481 32
+chrome120.0.6099.194 30 1
+opera9.25 1 0
+chrome72.0.3626.96 1 0
+chrome22.0.1229.56 1 0
+chrome30.0.1599.101 1 0
+chrome75.0.3770.80 1 1
+chrome55.0.2869.0 1 0
+chrome74.0.3729.61 2 2
+chrome60.0.3112.78 1 1
+chrome76.0.3809.87 1 1
+chrome72.0.3556.89 2 2
+firefox49.0 2 2
+opera10.54 2 2
+chrome100.0.4896.88 3 1
+safari15.2 40 3
+firefox58.0 2 2
+chrome34.0.1960.212 1 1
+chrome66.0.3359.30 46 1
+chrome64.0.2203.197 2 2
+chrome84.0.4147.105 8 7
+chrome76.0.3809.111 3 1
+chrome113.0.0.0 12 9
+Unknown 707 662
+chrome37.0.2049.0 1 0
+chrome68.0.2400.29 2 2
+firefox60.0 1 1
+safari16.2 46 1
+chrome95.0.4624.0 1 0
+chrome61.0.3570.6 2 2
+firefox68.0 4 4
+opera11.00 1 1
+chrome65.0.3565.106 2 2
+chrome67.0.3140.17 2 2
+chrome91.0.4472.77 2 0
+chrome71.0.3369.191 2 2
+mozilla 659 211
+chrome78.0.3547.166 2 2
+chrome70.0.3825.41 2 2
+sonyericsson 1 0
+galeon 1 0
+chrome105.0.0.0 13 11
+firefox56.0 2 2
+chrome73.0.3796.86 2 2
+chrome32.0.1667.0 1 0
+chrome62.0.3191.0 1 0
+chrome90.0.4430.93 1 0
+chrome89.0.4389.90 1 0
+chrome22.0.1207.1 1 0
+edge18 1 1
+chrome75.0.3770.143 1 0
+chrome88.0.4324.150 1 0
+chrome89.0.4389.82 3 0
+seamonkey 1 0
+chrome71.0.2685.155 2 2
+chrome59.0.3071.115 4 1
+firefox121.0 213 8
+safari5.0.3 1 1
+safari17.0 176 11
+chrome69.0.2926.84 2 2
+chrome75.0.3770.101 1 1
+chrome96.0.4664.110 5 5
+chrome68.0.3440.91 12 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 36
+Python/3.11_aiohttp/3.9.1 20240106165900
+ClaudeBot 20240126095458
+Buck/2.3.2;_(_https://app.hypefactors.com/media-monitoring/about.html) 20240131063541
+Roku/DVP-4.1_(024.01E01250A) 20240129084018
+nook_browser/1.0 20240129084016
+TheInternetSearch 20240103194943
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240131205822
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20240121065447
+WordPress/6.4.2;_https://roxieontheroad.com 20240111162126
+Python/3.8_aiohttp/3.9.1 20240125035149
+OPR/72.0.3815.465_(Edition_Yx_GX) 20240122091350
+udu/1.6.5 20240121082529
+TheWebInternetSearcher 20240129070338
+Mozilla/4.0_(compatible;_Dillo_3.0) 20240107041228
+Mozilla/5.0_(compatible;_Example3/1.0;__https://www.example3.com/domain/russellkshistory.com) 20240122001417
+Mozilla/4.0_(compatible;_Synapse) 20240121230027
+domain_research_project_(_https://trentwil.es/domains.html) 20240121210934
+Safari/537.36 20240121211726
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240118123529
+Mozilla/5.0_(BB10;_Touch)_AppleWebKit/537.10__(KHTML,_like_Gecko)_Version/10.1.0.2342_Mobile_Safari/537.10_ 20240128151549
+Googlebot 20240131090813
+Mozilla/5.0_(MeeGo;_NokiaN9)_AppleWebKit/534.13_(KHTML,_like_Gecko)_NokiaBrowser/8.5.0_Mobile_Safari/534.13 20240107041303
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20240125195452
+okhttp/4.9.0 20240121121932
+Opera/9.80_(S60;_SymbOS;_Opera_Tablet/9174;_U;_en)_Presto/2.7.81_Version/10.5 20240101052850
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240103064025
+scalaj-http/2.4.2 20240131062801
+Mozilla/5.0_(PlayBook;_U;_RIM_Tablet_OS_2.1.0;_en-US)_AppleWebKit/536.2__(KHTML_like_Gecko)_Version/7.2.1.0_Safari/536.2_ 20240129084051
+colly_-_https://github.com/gocolly/colly/v2 20240114140920
+CSSCheck/1.2.2 20240129083942
+Mozilla/5.0_(l9scan/2.0.5363e2430313e2435323e2337313;__https://leakix.net) 20240121210813
+Avant_Browser/1.2.789rel1_(http://www.avantbrowser.com) 20240129084020
+SonyEricssonW660i/R6AD_Browser/NetFront/3.3_Profile/MIDP-2.0_Configuration/CLDC-1.1 20240123023114
+ApacheBench/2.3 20240128115648
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_compatible;_GoogleOther)_Chrome/120.0.6099.224_Safari/537.36 20240129092601
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240130185144
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 21
+ApacheBench/2.3 20240128115648
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240130185144
+TheWebInternetSearcher 20240129070338
+Uzbl_(Webkit_1.3)_(Linux_i686_[i686]) 20240129084015
+WordPress/6.4.2;_https://roxieontheroad.com 20240111162126
+Python/3.8_aiohttp/3.9.1 20240125035149
+colly_-_https://github.com/gocolly/colly/v2 20240114140920
+scalaj-http/2.4.2 20240131062801
+NetSurf/1.2_(NetBSD;_amd64) 20240124095705
+udu/1.6.5 20240121082529
+Avant_Browser/1.2.789rel1_(http://www.avantbrowser.com) 20240129084020
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20240125195452
+TheInternetSearch 20240103194943
+okhttp/4.9.0 20240121121932
+Python/3.11_aiohttp/3.9.1 20240106165900
+Buck/2.3.2;_(_https://app.hypefactors.com/media-monitoring/about.html) 20240131063541
+ClaudeBot 20240126095458
+domain_research_project_(_https://trentwil.es/domains.html) 20240121210934
+Roku/DVP-4.1_(024.01E01250A) 20240129084018
+nook_browser/1.0 20240129084016
+Googlebot 20240131090813
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2142 2759
+From1 9 19
+From2 320 449
+From3 99 196
+From4 875 13314
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 9
+duckduckgo 15 16
+search_yahoo_com 7 7
+images_search_yahoo_com 0 2
+www_bing_com 10 20
+baidu 4 4
+google_com 2 8
+search 1 1
+www_google_co_uk 0 1
+www_google_com 281 390
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 25
+https://lm.facebook.com 16 16
+https://www.krsl.com 13 13
+http://m.facebook.com 13 13
+https://highlifemagazine.net 10 10
+https://l.facebook.com 7 7
+https://www.onlyinyourstate.com 7 7
+https://www.travelks.com 5 5
+https://krsl.com 4 4
+http://mail.russellkshistory.com 4 4
+https://www.smokyhilltrail.com 4 4
+http://russellkshistory.org 3 3
+https://recipes.house-experts.co.uk 2 2
+http://m.facebook.com 2 2
+https://en.wikipedia.org 2 2
+https://www.smokyhilltrail.com 1 1
+https://ruspublib.org 1 1
+https://lm.facebook.com 1 1
+https://house-experts.co.uk 1 1
+http://www.westminstervillage.com 1 1
+https://www.snapchat.com 1 1
+https://www.travelks.com/tour-kansas/partners/russell-russell-county/ 1 1
+https://www.bail-so-gh.shop 0 1
+https://mail.russellkshistory.com 0 90
+https://mail.russellkshistory.com/engine1/style.css 0 4
+https://afuncan.com 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 6
+https+//russellkshistory.com/html/robert-j-dole.html 2
+https+//russellkshistory.com/html/oil-patch-museum.html 1
+https+//russellkshistory.com/html/paradise.html 1
+https+//russellkshistory.com/html/russell.html 1
+https+//russellkshistory.com/html/bunker-hill.html 1
+https+//russellkshistory.com/html/hours.html 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 7
+https 7
+//russellkshistory.com/html/robert-j-dole.html 2
+//russellkshistory.com/html/russell.html 1
+//russellkshistory.com/html/paradise.html 1
+//russellkshistory.com/html/oil-patch-museum.html 1
+//russellkshistory.com/html/bunker-hill.html 1
+//russellkshistory.com/html/hours.html 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 13
+500 205 0
+400 231 11284
+307 1 96
+401 106 5070
+206 5 65443
+406 747 166110
+502 3 9507
+421 5 1610
+409 144 11952
+503 206 0
+404 4289 0
+308 24 2382
+403 18 2412
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 608
+/4pric.php 1 http://russellkshistory.com//4pric.php
+/ecp/ 9 -
+/css/iR7SzrsOUEP.php 1 http://russellkshistory.com//css/iR7SzrsOUEP.php
+/marijuana.php 1 -
+/wp-admin/css/colors/blue/blue.php 2 http://russellkshistory.com//wp-admin/css/colors/blue/blue.php
+/wordpress 14 -
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 2 -
+/admin/.git/config 4 -
+/wp-admin/user/iR7SzrsOUEP.php 1 http://russellkshistory.com//wp-admin/user/iR7SzrsOUEP.php
+/wp-admin/images/license.php 1 http://russellkshistory.com//wp-admin/images/license.php
+/magmi-importer/conf/magmi.ini 1 -
+/../html/get-involved.html 4 -
+/bk 7 http://russellkshistory.com/bk
+/.config/sftp.json 4 -
+/cgi-bin/iR7SzrsOUEP.php 1 http://russellkshistory.com//cgi-bin/iR7SzrsOUEP.php
+/sftp.json 6 -
+/wp-includes/css/dist/editor/fxp.php 1 http://russellkshistory.com//wp-includes/css/dist/editor/fxp.php
+/wp-content/plugins/press/wp-class.php 1 http://russellkshistory.com//wp-content/plugins/press/wp-class.php
+/wp-admin/repeater.php 2 -
+/systems.php 2 https://russellkshistory.com/systems.php
+/wp-content/plugins/install.php 4 http://russellkshistory.com//wp-content/plugins/install.php
+/../html/russell.html 3 -
+/wp-admin/images/cloud.php 2 -
+/sitemapindex.xml 1 -
+/Public/home/js/check.js 3 -
+/web_system.php 1 https://russellkshistory.com/web_system.php
+/bc 7 http://russellkshistory.com/bc
+/cgi-bin/wp-signup.php 1 http://russellkshistory.com//cgi-bin/wp-signup.php
+/s/5363e2430313e2435323e2337313/_/ 3 -
+/career 1 -
+/wp-content/repeater.php 2 -
+/.well-known/assetlinks.json 1 -
+/Wp 1 http://russellkshistory.com/Wp
+/component-init.php.php 1 -
+/_all_dbs 3 -
+/new 9 http://russellkshistory.com/new
+/owa/auth/logon.aspx 9 -
+/wp-content/themes/buddyboss-theme/style.css 1 -
+/oldwebsite 5 -
+/admin/adminer.php 2 -
+/cgi-bin/class_api.php 3 -
+/../html/waldo.html 5 -
+/wp-content/languages/themes/class.api.php 1 http://russellkshistory.com//wp-content/languages/themes/class.api.php
+/debug/default/view 3 -
+/../html/fairport.html 4 -
+/.well-known/acme-challenge/license.php 1 http://russellkshistory.com//.well-known/acme-challenge/license.php
+/wp-includes/Requests/Cookie/my1.php 1 http://russellkshistory.com//wp-includes/Requests/Cookie/my1.php
+/.well-known/acme-challenge/about.php 2 www.google.com
+/Shop 1 http://russellkshistory.com/Shop
+/wp-content/plugins/auxin-elements/README.txt 2 -
+/wp-content/plugins/mw-wp-form/css/admin-common.css 2 -
+/RCHS_Spring23--ReaderSpreads.pdf 2 https://russellkshistory.com/index.html
+/wp-content/uploads/typehub/custom/snjfg/.null.php 1 http://russellkshistory.com
+/wp-admin/css/colors/coffee/about.php 1 http://russellkshistory.com//wp-admin/css/colors/coffee/about.php
+/404.php 3 -
+/wsoyanz.php 2 -
+/wp-admin/maint/class.api.php 1 http://russellkshistory.com//wp-admin/maint/class.api.php
+/icons/sphere1.png 2 -
+/wp-22.php 4 www.google.com
+/html/ford-dole.html 2 -
+/../html/robert-j-dole.html 3 -
+/wp-admin/js/about.php 6 http://russellkshistory.com//wp-admin/js/about.php
+/.svn/wc.db 4 -
+/assets/text/plain 1 -
+/delpaths.php 1 http://russellkshistory.com//delpaths.php
+/about 3 -
+/util/login.aspx 2 -
+/WordPress 1 http://russellkshistory.com/WordPress
+/fm1.php 3 http://russellkshistory.com//fm1.php
+/tmp/cmd.php 1 -
+/wp-content/plugins/include.php 2 http://russellkshistory.com//wp-content/plugins/include.php
+/wp-content/plugins/alfa-rex.php 1 -
+/html/genealogy.html 3 -
+/wp-content/style-css.php 1 http://russellkshistory.com//wp-content/style-css.php
+/robots.txt 496 -
+/ws.php/wp-content/plugins/index.php 1 -
+/engine1/text/xml 1 -
+/wp-admin/images/revision.php 1 http://russellkshistory.com//wp-admin/images/revision.php
+/manifest.json 1 -
+/sitemap_index/xml 1 -
+/rindex.php 1 http://russellkshistory.com//rindex.php
+/alfanew.PhP7 2 -
+/wp-includes/random_compat/class_api.php 1 http://russellkshistory.com//wp-includes/random_compat/class_api.php
+/wp-content/themes/hello-element/footer.php 1 http://russellkshistory.com//wp-content/themes/hello-element/footer.php
+/wp-admin/images/wp-login.php 4 http://russellkshistory.com//wp-admin/images/wp-login.php
+/administrator/language/en-GB/en-GB.xml 1 -
+/site 3 http://russellkshistory.com/site
+/4price.php 1 http://russellkshistory.com//4price.php
+/.env.production.local 1 -
+/wp-includes/js/jcrop/about.php 1 http://russellkshistory.com//wp-includes/js/jcrop/about.php
+/wp-admin/css/colors/cloud.php 2 -
+/html/engine1/jquery.js 586 https://russellkshistory.com/html/fairport.html
+/classsmtps.php 1 http://russellkshistory.com//classsmtps.php
+/WP 1 http://russellkshistory.com/WP
+/about-us 1 -
+/wp-content/themes/tflow/up.php 3 -
+/yanz.php 2 -
+/ninjawebshell.php 1 -
+/core/start.php 1 http://russellkshistory.com/core/start.php
+/wp-admin/includes/themes.php 1 http://russellkshistory.com//wp-admin/includes/themes.php
+/wp-p.php7 2 -
+/adminer.php 1 -
+/wp-content/languages/themes/class_api.php 1 http://russellkshistory.com//wp-content/languages/themes/class_api.php
+/css/xmrlpc.php 7 -
+/jquery.php 1 -
+/lol.php 3 www.google.com
+/../html/dorrance.html 2 -
+/wp-admin/js/widgets/iR7SzrsOUEP.php 1 http://russellkshistory.com//wp-admin/js/widgets/iR7SzrsOUEP.php
+/testing 2 -
+/contact-us 2 -
+/wp-includes/wp-class.php 2 -
+/wp-includes/Requests/class_api.php 1 http://russellkshistory.com//wp-includes/Requests/class_api.php
+/.env.production 1 -
+/wp-includes/customize/termps.php 1 http://russellkshistory.com//wp-includes/customize/termps.php
+/mobi/ 1 http://russellkshistory.com/mobi/
+/common/img/class_api.php 1 http://russellkshistory.com//common/img/class_api.php
+/wp-admin/network/iR7SzrsOUEP.php 1 http://russellkshistory.com//wp-admin/network/iR7SzrsOUEP.php
+/telescope/requests 3 -
+/cgi-bin/my1.php 1 http://russellkshistory.com//cgi-bin/my1.php
+/old 9 http://russellkshistory.com/old
+/general.php 7 www.google.com
+/wp-includes/block-supports/themes.php 1 http://russellkshistory.com//wp-includes/block-supports/themes.php
+/.env.prod 1 -
+/../html/rchs.html 5 -
+/wp-includes/Requests/Text/4price3.php 1 http://russellkshistory.com//wp-includes/Requests/Text/4price3.php
+/Test 1 http://russellkshistory.com/Test
+//cdn.ywxi.net/js/1.js 38 -
+/wp-content/inputs.php 2 -
+/wp-header.php 1 -
+/xmrlpc.php 7 -
+/alfa-rex.php7 2 -
+/wp-content/plugins/seoo/wsoyanz1.php 1 -
+/xleet-shell.php 1 http://russellkshistory.com//xleet-shell.php
+/wp-content/plugins/ai-engine/app/index.js 3 -
+/app/.git/config 3 -
+/www 1 http://russellkshistory.com/www
+/../html/attractions.html 6 -
+/auto_seo.php 2 -
+/apple-touch-icon-precomposed.png 118 -
+/../html/milberger.html 4 -
+/home 13 -
+/img/xmrlpc.php 7 -
+/magento_version 3 -
+/php/login.php 10 -
+/sts.php 1 -
+/var/cache/mage--2/ 1 -
+/script.js 37 -
+/.well-known/ai-plugin.json 1 -
+/wp-plain.php 1 www.google.com
+/resources/.git/config 1 -
+/wp-admin/images/iR7SzrsOUEP.php 1 http://russellkshistory.com//wp-admin/images/iR7SzrsOUEP.php
+/OLD/wp-admin/setup-config.php 3 www.google.com
+/api/.git/config 4 -
+/.env_1 1 -
+/support//vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/wp-includes/SimplePie/index.php 1 http://russellkshistory.com//wp-includes/SimplePie/index.php
+/2020 1 http://russellkshistory.com/2020
+/admin.php 5 http://russellkshistory.com//admin.php
+/wp-includes/Requests/Text/admin.php 2 -
+/wp-includes/js/crop/cropper.php 1 http://russellkshistory.com//wp-includes/js/crop/cropper.php
+/wp-include/auto_seo.php 2 -
+/sitemap.xml.gz 3 -
+/2018 1 http://russellkshistory.com/2018
+/taf.php 1 http://russellkshistory.com//taf.php
+/wp-includes/IXR/class.api.php 1 http://russellkshistory.com//wp-includes/IXR/class.api.php
+/common/css/class_api.php 1 http://russellkshistory.com//common/css/class_api.php
+/var/resource_config.json 1 -
+/cw.php 1 www.google.com
+/../html/gorham.html 2 -
+/wp-config.php 3 -
+/text.php 1 http://russellkshistory.com//text.php
+/mailto:rchs@russellks.net 1 http://russellkshistory.com/mailto:rchs@russellks.net
+/cgi-bin/cgi-bin/about.php7 4 http://russellkshistory.com//cgi-bin/cgi-bin/about.php7
+/options.php 1 -
+/BKP 5 -
+/wp-admin/js/widgets/cloud.php 2 -
+/apple-touch-icon-120x120.png 2 -
+/wp-includes/fonts/wp-login.php 4 http://russellkshistory.com//wp-includes/fonts/wp-login.php
+/.well-known/openid-configuration 1 -
+/helpdesk//vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/wp-includes/IXR/class_api.php 1 http://russellkshistory.com//wp-includes/IXR/class_api.php
+/wp-content/plugins/core-plugin/include.php 1 http://russellkshistory.com//wp-content/plugins/core-plugin/include.php
+/html/mailto:info@mehmarketing.com 1 http://russellkshistory.com/html/mailto:info@mehmarketing.com
+/wp-includes/pomo/wp-login.php 4 http://russellkshistory.com//wp-includes/pomo/wp-login.php
+/updates.php 2 -
+/Www 1 http://russellkshistory.com/Www
+/blog/ 3 -
+/.well-known/admin.php 1 http://russellkshistory.com//.well-known/admin.php
+/wp-includes/images/include.php 2 http://russellkshistory.com//wp-includes/images/include.php
+/wp-admin/css/colors/blue/xmrlpc.php 7 -
+/wp-content/plugins/fix/up.php 11 -
+/wp-content/plugins/about.php 1 -
+/wp-login.php 181 -
+/assets/application/x-www-form-urlencoded 1 -
+/Mshell.php 1 http://russellkshistory.com//Mshell.php
+/wp-admin/maint/wp-login.php 4 http://russellkshistory.com//wp-admin/maint/wp-login.php
+/wp-includes/ID3/wp-login.php 1 -
+/.env.dev 1 -
+/gawean.PhP7 2 -
+/.env.local 1 -
+/wp-admin/images/install.php 4 http://russellkshistory.com//wp-admin/images/install.php
+/Res/images/nopic.jpg 1 -
+/contact 2 -
+/about.php 4 russellkshistory.com
+/src/.git/config 1 -
+/ms.php 1 http://russellkshistory.com//ms.php
+/ai.txt 8 -
+/simple.php 16 -
+/magmi/conf/magmi.ini 1 -
+/wp-admin/images/admin.php 2 http://russellkshistory.com//wp-admin/images/admin.php
+/shop/app/etc/local.xml 1 -
+/wp-admin/css/colors/blue/cloud.php 2 -
+/wp-includes/install.php 4 http://russellkshistory.com//wp-includes/install.php
+/wp-content/plugins/ango/sett.php 1 http://russellkshistory.com//wp-content/plugins/ango/sett.php
+/ninja.php 1 -
+/author-sitemap.xml 2 -
+/chosen.php 4 www.google.com
+/engine1/text/plain 1 -
+/wp-includes/rest-api/classwithtostring.php 1 http://russellkshistory.com//wp-includes/rest-api//classwithtostring.php
+/wp-admin/user/xmrlpc.php 4 -
+/libraries/vendor/updates.php 2 -
+/wp-admin/css/colors/coffee/cloud.php 2 -
+/wp-content/themes/about.php 1 -
+/ee.php 4 http://russellkshistory.com//ee.php
+/misc/drupal.js 3 -
+/wp-admin/maint/termps.php 1 http://russellkshistory.com//wp-admin/maint/termps.php
+/wp-admin/network/class_api.php 1 http://russellkshistory.com//wp-admin/network/class_api.php
+/wp-admin/user/cloud.php 2 -
+/.env.prod.local 1 -
+/OLDSITE 5 -
+/wp-content/plugins/wordpresss3cll/includes.php 1 http://russellkshistory.com//wp-content/plugins/wordpresss3cll/includes.php
+/composer.php 1 https://russellkshistory.com/composer.php
+/html/mailto:rchs@russellks.net 1 http://russellkshistory.com/html/mailto:rchs@russellks.net
+/.env.russellkshistory 1 -
+/wp-content/languages/themes/license.php 1 http://russellkshistory.com//wp-content/languages/themes/license.php
+/wp-admin/network/xmrlpc.php 7 -
+/cache-compat.php 1 -
+/wp-content/plugins/background-image-cropper/ups.php 1 http://russellkshistory.com//wp-content/plugins/background-image-cropper/ups.php
+/wp-admin/css/wp-login.php 4 http://russellkshistory.com//wp-admin/css/wp-login.php
+/.tmb/wp-login.php 4 http://russellkshistory.com//.tmb/wp-login.php
+/wp-includes/widgets/include.php 2 http://russellkshistory.com//wp-includes/widgets//include.php
+/wp-admin/maint/maint/ajax-actions.php 1 -
+/./RestAPI/LogonCustomization 11 -
+/wp-admin/maint/moon.php 4 http://russellkshistory.com//wp-admin/maint/moon.php
+/.well-knownold/ 3 -
+/cgi-bin/install.php 4 http://russellkshistory.com//cgi-bin/install.php
+/archivarix.cms.php 1 -
+/wzy.php 4 www.google.com
+/M1.php 3 http://russellkshistory.com//M1.php
+/wp-includes/certificates/iR7SzrsOUEP.php 1 http://russellkshistory.com//wp-includes/certificates/iR7SzrsOUEP.php
+/woh.php 3 -
+/css/license.php 1 http://russellkshistory.com//css/license.php
+/wp-content/plugins/wordpresss3cll/wp-login.php 1 http://russellkshistory.com//wp-content/plugins/wordpresss3cll/wp-login.php
+/inputs.php 12 www.google.com
+/img/cloud.php 2 -
+/.well-known/acme-challenge/install.php 4 http://russellkshistory.com//.well-known/acme-challenge/install.php
+/wp-include/inputs.php 2 -
+/test 8 -
+/../html/paradise.html 3 -
+/dropdown.php 7 http://russellkshistory.com//dropdown.php
+/jeeSpringStatic/plugs/jquery/jquery-2.1.1.min.js 1 -
+/apple-app-site-association 12 -
+/cgi-bin/license.php 1 http://russellkshistory.com//cgi-bin/license.php
+/wp 14 -
+/wp-includes/customize/wp-login.php 4 http://russellkshistory.com//wp-includes/customize/wp-login.php
+/wp-admin/user/wp-login.php 4 http://russellkshistory.com//wp-admin/user/wp-login.php
+/.well-known/acme-challenge/wp-signup.php 1 http://russellkshistory.com//.well-known/acme-challenge/wp-signup.php
+/wp-content/plugins/hellopress/wp_filemanager.php 3 -
+/wp-apxupx.php 3 http://russellkshistory.com//wp-apxupx.php
+/wp-content/install.php 4 http://russellkshistory.com//wp-content/install.php
+/.tmb/termps.php 1 http://russellkshistory.com//.tmb/termps.php
+/wp-content/themes/include.php 2 http://russellkshistory.com//wp-content/themes/include.php
+/.well-known/gpc.json 1 -
+/BACKUP 6 -
+/../html/oil-patch-museum.html 2 -
+/wp-consar.php 1 -
+/css/cloud.php 2 -
+/js/Pan.js 10 -
+/ioxi-rex.php 1 http://russellkshistory.com//ioxi-rex.php
+/.env.development.local 1 -
+/autoload_classmap.php 1 -
+/wp-content/auto_seo.php 3 -
+/wp-includes/random_compat/about.php 1 http://russellkshistory.com//wp-includes/random_compat/about.php
+/Wordpress 1 http://russellkshistory.com/Wordpress
+/SITE 1 http://russellkshistory.com/SITE
+/alfacgiapi/perl.alfa 1 www.google.com
+/wp-includes/js/tinymce/plugins/compat3x/css/index.php 4 http://russellkshistory.com//wp-includes/js/tinymce/plugins/compat3x/css/index.php
+/sitemap/sitemap.xml 1 -
+/wp-admin/maint/atomlib.php 1 http://russellkshistory.com//wp-admin/maint/atomlib.php
+/wp-includes/SimplePie/plugins.php 2 http://russellkshistory.com//wp-includes/SimplePie/plugins.php
+/login.action 3 -
+/wp-admin/images/xmrlpc.php 7 -
+/alfa-rex.php 1 -
+/.well-known/acme-challenge/iR7SzrsOUEP.php 1 http://russellkshistory.com//.well-known/acme-challenge/iR7SzrsOUEP.php
+/.well-known/security.txt 11 http://www.russellkshistory.com/.well-known/security.txt
+/wp-admin/js/widgets/about.php7 2 -
+/defaul1.php 1 http://russellkshistory.com//defaul1.php
+/wp-content/updates.php 2 -
+/th1s_1s_a_4o4.html 31 -
+/wp-content/plugins/core/include.php 2 -
+/feed/ 2 -
+/cms 2 -
+/wp-content/themes/seoplugins/db.php 1 http://russellkshistory.com//wp-content/themes/seoplugins/db.php
+/sftp-config.json 2 -
+/wp-content/pm.php 2 -
+/sitemap1.xml 1 -
+/apple-touch-icon-152x152-precomposed.png 113 -
+/WORDPRESS 1 http://russellkshistory.com/WORDPRESS
+/wp-admin/css/colors/xmrlpc.php 7 -
+/demo 8 -
+/wp-admin/network/class.api.php 1 http://russellkshistory.com//wp-admin/network/class.api.php
+/wp-content/about.php 1 http://russellkshistory.com//wp-content/about.php
+/ws.php 1 -
+/server-status 3 -
+/.git/config 20 http://mail.russellkshistory.com/.git/config
+/.env_sample 1 -
+/Backup 1 http://russellkshistory.com/Backup
+/install.php 5 http://russellkshistory.com//install.php
+/wp-admin/js/widgets/class.api.php 3 -
+/cn/css/css_whir.css 1 -
+/css/install.php 4 http://russellkshistory.com//css/install.php
+/humans.txt 7 http://www.russellkshistory.com/humans.txt
+/tmp 2 -
+/static/admin/javascript/hetong.js 3 -
+/.DS_Store 5 -
+/css/css_whir.css 1 -
+/c.php 1 -
+/wp-content/uploads/ 7 http://russellkshistory.com//wp-content/uploads/
+/dev 7 -
+/max.php 1 -
+/atomlib.php 1 -
+/wp-admin/xmrlpc.php 7 -
+/autodiscover/autodiscover.json 18 -
+/wp-includes/certificates/wp-login.php 4 http://russellkshistory.com//wp-includes/certificates/wp-login.php
+/vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/sitemap.xml 47 -
+/OLD 1 http://russellkshistory.com/OLD
+/wp-admin/css/colors/blue/license.php 1 http://russellkshistory.com//wp-admin/css/colors/blue/license.php
+/mar.php 1 -
+//feed/ 5 -
+/../html/events.html 3 -
+/wp-content/themes/seotheme/db.php 3 -
+/.vscode/sftp.json 9 -
+/Blog 1 http://russellkshistory.com/Blog
+/apple-touch-icon-152x152.png 113 -
+/../html/luray.html 3 -
+/wp-content/admin.php 1 http://russellkshistory.com//wp-content/admin.php
+/images/cloud.php 2 -
+/a 11 -
+/sitemap.txt 5 -
+/wp-admin/js/about.php7 4 http://russellkshistory.com//wp-admin/js/about.php7
+/wp-content/uploads/2022/09/.null_lrxyi.php 1 http://russellkshistory.com
+/cgi-bin/xmrlpc.php 7 -
+/old/wp-admin/setup-config.php 3 www.google.com
+/test/.git/config 1 -
+/shell.php 2 -
+/wp-admin/includes/cloud.php 2 -
+/wp-content/plugins/WordPressCore/include.php 2 http://russellkshistory.com//wp-content/plugins/WordPressCore/include.php
+/million.php 1 http://russellkshistory.com//million.php
+/MARIJUANA.php 1 -
+/.well-known/trust.txt 1 -
+/sitemap.php 1 -
+/ajax-actions.php 1 -
+/wp-content/uploads/2023/index.php 1 http://russellkshistory.com//wp-content/uploads/2023/index.php
+/libraries/legacy/updates.php 2 -
+/wp-admin/user/class_api.php 1 http://russellkshistory.com//wp-admin/user/class_api.php
+/wp-includes/rest-api/fields/cache/index.php 1 http://russellkshistory.com//wp-includes/rest-api/fields/cache/index.php
+/store/app/etc/local.xml 1 -
+/wp-content/plugins/wordpresss3cll/up.php 1 http://russellkshistory.com//wp-content/plugins/wordpresss3cll/up.php
+/wp-includes/SimplePie/about.php 1 http://russellkshistory.com//wp-includes/SimplePie/about.php
+/wso-x569.php 1 http://russellkshistory.com//wso-x569.php
+/zero.php 1 -
+/class_api.php 3 -
+/bak 1 http://russellkshistory.com/bak
+/beta 5 -
+/libraries/phpmailer/updates.php 2 -
+/apple-touch-icon-120x120-precomposed.png 2 -
+/sitemap_index.xml 4 -
+/users.php 3 http://russellkshistory.com//users.php
+/wp-cron.php 2 http://russellkshistory.com//wp-cron.php
+/admin-heade.php 1 http://russellkshistory.com//admin-heade.php
+/../html/fossil-station-museum.html 4 -
+/admin-post.php 1 -
+/cong.php 6 -
+/../html/bunker-hill.html 4 -
+/.env.stage 1 -
+/../html/gernon-house-museum.html 4 -
+/wp-admin/css/colors/coffee/index.php 1 http://russellkshistory.com//wp-admin/css/colors/coffee/index.php
+/.well-known/acme-challenge/admin.php 1 http://russellkshistory.com//.well-known/acme-challenge/admin.php
+/wp-admin/dropdown.php 6 http://russellkshistory.com//wp-admin/dropdown.php
+/.well-known/dnt-policy.txt 1 -
+/.well-known/about.php 2 -
+/core/.git/config 3 -
+/wp-atom.php 2 -
+/themes/.git/config 1 -
+/README.md 1 -
+/wp-admin/maint/iR7SzrsOUEP.php 1 http://russellkshistory.com//wp-admin/maint/iR7SzrsOUEP.php
+/wp-content/plugins/Cache/dropdown.php 4 http://russellkshistory.com//wp-content/plugins/Cache/dropdown.php
+/admin/ 2 -
+/cmd.php 1 -
+/wp-includes/js/500.php 1 http://russellkshistory.com//wp-includes/js//500.php
+/4price3.php 1 http://russellkshistory.com//4price3.php
+/wp-admin/images/my1.php 1 http://russellkshistory.com//wp-admin/images/my1.php
+/engine1/application/x-www-form-urlencoded 1 -
+/wp-includes/Text/about.php 4 http://russellkshistory.com//wp-includes/Text/about.php
+/v2/_catalog 3 -
+/uploads/cmd.php 1 -
+/xxl.php 2 http://russellkshistory.com//xxl.php
+/mailto:info@mehmarketing.com 1 http://russellkshistory.com/mailto:info@mehmarketing.com
+/.well-known/nodeinfo 1 -
+/Old 6 -
+/worm0.PhP7 2 -
+/admin/.env 2 -
+/alfadheat.php 2 -
+/.well-known/acme-challenge/xmrlpc.php 7 -
+/old-site 6 -
+/nf_tracking.php 1 -
+/wp-content/plugins/backup-backup/includes/backup-heart.php 14 -
+/wp-admin/css/index.php 1 -
+/wp-hoard.php 1 -
+/css/class_api.php 1 http://russellkshistory.com//css/class_api.php
+/assets/text/xml 1 -
+/wp-content/plugins/ioptimization/IOptimize.php 1 http://russellkshistory.com//wp-content/plugins/ioptimization/IOptimize.php
+/.well-known/ai.txt 8 -
+/web 2 -
+/sitemap/index.xml 1 -
+/staging 5 -
+/careers 1 -
+/images/wp-login.php 4 http://russellkshistory.com//images/wp-login.php
+/global-protect/portal/css/login.css 10 -
+/app/etc/local.xml 2 -
+/wp-admin/js/widgets/class_api.php 1 http://russellkshistory.com//wp-admin/js/widgets/class_api.php
+/about.php7 1 -
+/.well-known/apple-app-site-association 11 -
+/assets/class_api.php 1 http://russellkshistory.com//assets/class_api.php
+/New 1 http://russellkshistory.com/New
+/mt/mt-xmlrpc.cgi 1 -
+/backup/ 3 -
+/global-protect/portal/images/logo-pan-48525a.svg 10 -
+/wp-includes/IXR/themes.php 2 http://russellkshistory.com//wp-includes/IXR/themes.php
+/wp-head.php 11 -
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/wp-admin/includes/wp-login.php 4 http://russellkshistory.com//wp-admin/includes/wp-login.php
+/cgi-bin/cloud.php 2 -
+/wp-content/themes/intense/block-css.php 2 -
+/.well-known/acme-challenge/cloud.php 4 www.google.com
+/dup-installer/main.installer.php 1 http://russellkshistory.com/dup-installer/main.installer.php
+/config.json 3 -
+/wp-includes/js/jcrop/cjfuns.php 1 http://russellkshistory.com//wp-includes/js/jcrop/cjfuns.php
+/wp-includes/IXR/wp-login.php 4 http://russellkshistory.com//wp-includes/IXR/wp-login.php
+/cjfuns.php 7 http://russellkshistory.com//cjfuns.php
+/blog/mt/mt-xmlrpc.cgi 1 -
+/app-ads.txt 4 -
+/SHOP 1 http://russellkshistory.com/SHOP
+/wp-content/cong.php 1 http://russellkshistory.com//wp-content/cong.php
+/test/ 3 -
+/wp-old 1 http://russellkshistory.com/wp-old
+/.env.www 1 -
+/wordpress/ 10 -
+/composere.php 2 https://russellkshistory.com/composere.php
+/wordpress/wp-admin/setup-config.php 3 www.google.com
+/class.api.php 8 -
+/radio.php 4 -
+/images/xmrlpc.php 7 -
+/adminfuns.php 1 http://russellkshistory.com//adminfuns.php
+/tag-sitemap.xml 1 -
+/wp-content/include.php 1 http://russellkshistory.com//wp-content/include.php
+/exec.php 1 -
+/wp-admin/js/index.php 1 http://russellkshistory.com//wp-admin/js/index.php
+/wp-includes/Requests/Text/votes.php 1 http://russellkshistory.com//wp-includes/Requests/Text/votes.php
+/wp-content/plugins/wp-login.php 4 http://russellkshistory.com//wp-content/plugins/wp-login.php
+/../html/heym-oliver-museum.html 3 -
+/wp-admin/network/wp-login.php 4 http://russellkshistory.com//wp-admin/network/wp-login.php
+/wp-content/themes/twentyfive/include.php 3 http://russellkshistory.com//wp-content/themes/twentyfive/include.php
+/wp-includes/css/dist/customize-widgets/about.php 1 http://russellkshistory.com//wp-includes/css/dist/customize-widgets/about.php
+/.env. 1 -
+/wp-admin/css/colors/coffee/xmrlpc.php 7 -
+/wp-admin/js/widgets/license.php 1 http://russellkshistory.com//wp-admin/js/widgets/license.php
+/.well-known/traffic-advice 51 -
+/wp-admin/js/widgets/xmrlpc.php 7 -
+/st.php 7 http://russellkshistory.com//st.php
+/glpi/vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/old_files 5 -
+/.well-known/ 3 -
+/apple-touch-icon.png 129 -
+/wp-json/wp/v2/users 2 -
+/themes.php 1 http://russellkshistory.com//themes.php
+/wp-content/plugins/td-composer/license.txt 4 -
+/backup/.git/config 1 -
+/core/misc/drupal.js 3 -
+/../index.html 4 -
+/wp-content/themes/sketch/404.php 2 http://russellkshistory.com//wp-content/themes/sketch/404.php
+/.env.live 1 -
+/text/xml 1 -
+/wowslider.js 38 -
+/category-sitemap.xml 1 -
+/wp-content/themes/twenty/twenty.php 4 http://russellkshistory.com//wp-content/themes/twenty/twenty.php
+/text/html 1 -
+/newsite 2 -
+/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/repeater.php 6 -
+/old/ 3 -
+/2019 1 http://russellkshistory.com/2019
+/../html/towns.html 4 -
+/wp-includes/Text/Diff/termps.php 1 http://russellkshistory.com//wp-includes/Text/Diff//termps.php
+/classwithtostring.php 4 -
+/jobs 1 -
+/wp-content/languages/wp-login.php 4 http://russellkshistory.com//wp-content/languages/wp-login.php
+/assets/text/html 1 -
+/Site 1 http://russellkshistory.com/Site
+/wp-includes/repeater.php 2 -
+/.well-known/acme-challenge/class_api.php 1 http://russellkshistory.com//.well-known/acme-challenge/class_api.php
+/images/class.api.php 1 http://russellkshistory.com//images/class.api.php
+/wp-admin/cloud.php 2 -
+/wp-admin/ajax-actions.php 1 -
+/alfanew.php 3 -
+/NEW 1 http://russellkshistory.com/NEW
+/wp-content/plugins/classic-editor/wp-login.php 4 http://russellkshistory.com//wp-content/plugins/classic-editor/wp-login.php
+/sitemaps.xml 2 -
+/wp-content/plugins/backup-backup/includes/hro.php 5 -
+/wp-admin/user/class.api.php 1 http://russellkshistory.com//wp-admin/user/class.api.php
+/wp-includes/Requests/Utility/about.php 1 http://russellkshistory.com//wp-includes/Requests/Utility/about.php
+/sitio 1 http://russellkshistory.com/sitio
+/main 9 http://russellkshistory.com/main
+/wp-content/plugins/yyobang/mar.php 1 http://russellkshistory.com//wp-content/plugins/yyobang/mar.php
+/wp-content/plugins/linkpreview/db.php 1 http://russellkshistory.com//wp-content/plugins/linkpreview/db.php
+/sitemap-index.xml 1 -
+/style.php 19 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 3 -
+/.tmb/class_api.php 1 http://russellkshistory.com//.tmb/class_api.php
+/wp-admin/network/cloud.php 2 -
+/2021 1 http://russellkshistory.com/2021
+/wp-content/upgrade/class_api.php 1 http://russellkshistory.com//wp-content/upgrade/class_api.php
+/cgi-bin/cgi-bin/about.php 4 http://russellkshistory.com//cgi-bin/cgi-bin/about.php
+/backup 14 -
+/blogs/.git/config 1 -
+/.well-known/tdmrep.json 8 -
+/Enigma.php 1 -
+/alfanew.PHP7 1 http://russellkshistory.com//alfanew.PHP7
+/wp-includes/ 4 www.google.com
+/shop 1 http://russellkshistory.com/shop
+/../html/hours.html 4 -
+/WWW 1 http://russellkshistory.com/WWW
+/wp-admin/includes/xmrlpc.php 7 -
+/m/ 1 -
+/wp-content/plugins/seoo/wsoyanz.php 2 -
+/wp-content/plugins/Update/wp-blog.php 1 http://russellkshistory.com//wp-content/plugins/Update/wp-blog.php
+/wp-content/plugins/seoo/alfa-ioxi.php 1 http://russellkshistory.com//wp-content/plugins/seoo/alfa-ioxi.php
+/text/plain 1 -
+/cloud.php 2 -
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php 1 http://russellkshistory.com//wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php
+/portal 2 -
+/cgi-bin/wp-login.php 4 http://russellkshistory.com//cgi-bin/wp-login.php
+/wp-admin/images/class.api.php 3 -
+/temp/ 3 -
+/../html/lucas.html 3 -
+/class.api.php7 1 http://russellkshistory.com//class.api.php7
+/jquery.js 38 -
+/old1 5 -
+/wp-pano 4 -
+/sample.php 2 www.google.com
+/wp-content/plugins/backup-backup/includes/b0x.php 5 -
+/bac 1 http://russellkshistory.com/bac
+/cgi/mt/mt-xmlrpc.cgi 1 -
+/TEST 1 http://russellkshistory.com/TEST
+/ticket/vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/../html/mission.html 3 -
+/my1.php 6 http://russellkshistory.com//my1.php
+/gqyrgrxg.php 1 www.google.com
+/BLOG 1 http://russellkshistory.com/BLOG
+/wp-content/themes/wp-pridmag/up.php 3 -
+/input.php 4 www.google.com
+/old2 5 -
+/wp-content/languages/class_api.php 1 http://russellkshistory.com//wp-content/languages/class_api.php
+/wp-config-sample.php 2 -
+/wp.php 2 -
+/wp-content/patior/ 4 http://russellkshistory.com//wp-content/patior/
+/BAK 5 -
+/wp-content/dropdown.php 4 http://russellkshistory.com//wp-content/dropdown.php
+/oldsite 1 http://russellkshistory.com/oldsite
+/new/ 3 -
+/.env.save 1 -
+/application/x-www-form-urlencoded 1 -
+/wp-content/plugins/Cache/Cache.php 2 -
+/website-sitemap.xml 2 -
+/2022 1 http://russellkshistory.com/2022
+/wp-admin/css/ 6 binance.com
+/wp/ 3 -
+/ads.txt 51 -
+/sito 1 http://russellkshistory.com/sito
+/title= 1 -
+/wp-admin/includes/class_api.php 1 http://russellkshistory.com//wp-admin/includes/class_api.php
+/.well-known/acme-challenge/my1.php 1 http://russellkshistory.com//.well-known/acme-challenge/my1.php
+/html/gernon-house-museum.html/robots.txt 1 -
+/blog 8 -
+/.well-known/acme-challenge/wp-login.php 4 http://russellkshistory.com//.well-known/acme-challenge/wp-login.php
+/mobile 1 -
+/wp-content/upgrade/ 3 -
+/html/engine1/style.css 582 https://russellkshistory.com/html/fairport.html
+/wp-content/plugins/post-smtp/style/testEmail.html 2 -
+/beence.php 1 http://russellkshistory.com//beence.php
+/wp-admin/cong.php 1 http://russellkshistory.com//wp-admin/cong.php
+/engine1/text/html 1 -
+/component-init.php 1 -
+/security.txt 10 http://www.russellkshistory.com/security.txt
+/global-protect/login.esp 10 -
+/wp-includes/rest-api/about.php 4 http://russellkshistory.com//wp-includes/rest-api/about.php
+/wp-content/plugins/admin.php 1 http://russellkshistory.com//wp-content/plugins/admin.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1132
+154.38.189.54 147 147 539758 20240130145938
+69.10.100.204 118 118 596608 20240130155546
+47.76.35.19 81 99 489956 20240125092741
+98.186.37.225 57 101 2211188 20240131181556
+84.32.41.136 51 52 10723743 20240131003829
+34.78.99.177 51 104 19474 20240110032617
+35.195.252.39 50 101 22398 20240125035151
+104.164.173.109 49 49 573491 20240122094811
+154.28.229.250 48 48 561306 20240122094811
+154.28.229.116 48 48 561556 20240121210946
+154.28.229.60 48 48 561047 20240121210945
+163.5.138.192 48 48 176674 20240116201545
+172.241.241.251 33 33 120829 20240110204559
+162.241.24.44 26 26 28332 20240111162126
+172.191.45.163 26 29 19225521 20240115183752
+102.129.232.126 25 25 93393 20240129200417
+84.54.147.59 25 25 93393 20240129101944
+23.27.3.197 25 25 93393 20240116114848
+181.214.166.10 25 25 93393 20240115063556
+218.0.112.42 25 25 93393 20240109105820
+107.173.235.25 25 25 93393 20240123100702
+104.239.105.226 24 24 88337 20240111144755
+18.182.40.206 24 54 9915479 20240114140916
+104.164.173.174 24 41 191943 20240122094810
+154.28.229.159 24 31 182438 20240121210945
+64.90.88.150 0 1 74163 
+67.212.127.246 1 29 539582 20240115095357
+51.158.103.83 1 4 48125 20240111091424
+142.93.35.106 1 1 3434 20240117213946
+130.44.215.64 0 1 306652 
+208.100.26.236 1 2 5056 20240125002639
+20.120.74.197 1 2 5056 20240112105545
+38.2.45.62 3 52 2082678 20240123204205
+35.92.94.199 1 1 5056 20240111065023
+173.249.52.120 0 4 229335 
+198.235.24.212 1 1 19234 20240113061619
+180.191.70.12 0 2 65186 
+43.143.225.185 0 1 306652 
+99.125.81.135 1 29 581427 20240121194110
+35.208.218.215 16 16 73019 20240118060022
+185.153.179.58 0 2 162065 
+3.255.221.107 0 8 91994 
+174.28.84.28 0 1 113919 
+34.241.27.229 1 14 152075 20240107041210
+35.87.111.186 1 1 5056 20240115105309
+34.74.241.120 10 10 39504 20240121082529
+174.250.209.192 1 30 717753 20240109174459
+107.178.207.117 0 8 95455 
+35.209.128.225 16 16 61241 20240128163220
+143.110.184.222 1 1 5056 20240116001137
+193.186.4.207 16 16 64204 20240129055852
+3.238.117.115 1 1 0 20240106130646
+101.44.251.249 0 1 73270 
+198.235.24.211 1 1 19234 20240125181939
+205.210.31.175 1 1 19234 20240127090353
+159.65.138.217 1 1 19234 20240121210809
+94.156.64.43 1 2 44132 20240128110829
+52.18.96.134 1 1 19234 20240106232915
+208.100.26.249 7 7 42081 20240115204847
+199.45.155.19 5 5 31965 20240122022514
+54.88.179.33 11 11 211574 20240125170515
+38.152.33.21 1 45 1928052 20240118201009
+192.208.166.151 3 57 3079811 20240131173215
+183.136.225.45 2 2 24290 20240123063216
+154.51.142.189 1 12 177948 20240123100636
+51.158.126.132 1 4 48357 20240111083645
+217.76.48.181 1 1 5056 20240124151517
+199.244.88.231 1 1 5056 20240109195558
+73.146.219.225 1 46 1930211 20240124044549
+34.209.138.97 1 1 19234 20240130023334
+128.14.211.210 1 1 5056 20240114071127
+172.56.65.156 1 45 1928052 20240109130850
+24.225.24.11 1 41 655456 20240108084719
+165.154.244.2 1 1 11749 20240117075608
+170.178.154.109 1 1 3247 20240102165334
+137.184.160.250 1 1 5066 20240116201415
+72.0.208.132 1 29 647885 20240116091301
+43.133.72.69 1 1 5056 20240127181401
+172.58.166.208 1 46 11341401 20240108072754
+98.164.30.11 0 1 46044 
+110.54.149.97 0 1 48011 
+159.223.209.135 2 2 10112 20240111082734
+174.247.10.255 1 29 647885 20240113124741
+74.91.19.2 0 1 74163 
+209.160.116.224 1 1 0 20240109082329
+104.128.37.221 1 29 619409 20240114165239
+174.45.11.133 0 1 91073 
+72.202.137.107 0 1 44125 
+35.89.37.39 1 1 5056 20240131200538
+34.145.227.243 2 4 56425 20240116082423
+54.210.136.236 1 1 3956 20240126094403
+141.193.111.154 1 1 5056 20240112002440
+52.203.148.8 1 1 3277 20240126094218
+172.234.192.59 3 3 57702 20240107172502
+198.235.24.106 1 1 19234 20240109222006
+24.223.111.103 1 30 565399 20240128135530
+174.210.165.103 2 33 629799 20240106044618
+128.92.226.154 0 1 73045 
+43.143.28.57 2 2 10112 20240105143705
+141.98.255.144 1 1 5056 20240102150303
+34.209.236.180 1 1 19234 20240121215649
+93.158.91.237 1 1 5056 20240116164739
+93.158.90.169 1 1 5056 20240126234324
+174.210.164.54 1 45 1928052 20240126141250
+27.44.204.190 0 1 74163 
+68.47.92.81 3 51 2013592 20240108055330
+24.225.20.41 8 78 2031239 20240111124622
+52.36.121.233 1 1 5056 20240115065027
+174.247.147.204 1 29 607458 20240105111209
+35.195.171.208 1 1 19234 20240125152829
+174.210.160.142 1 29 539582 20240112081129
+35.208.99.20 16 16 76893 20240131063541
+34.201.141.128 1 1 5056 20240114181143
+172.59.75.33 2 49 1980980 20240125184232
+35.160.57.34 1 32 321438 20240128151532
+34.245.74.146 1 1 36431 20240120175958
+198.235.24.246 1 1 19234 20240109082706
+198.210.76.63 1 33 608849 20240117163912
+154.36.141.119 0 1 74163 
+165.23.193.30 3 81 2772619 20240124154400
+8.217.51.203 0 1 73045 
+35.209.239.181 16 16 86326 20240107190729
+198.210.79.188 1 45 1928052 20240121151547
+45.141.215.9 2 2 10112 20240121135320
+173.208.169.58 0 1 73045 
+64.44.118.231 1 45 1928052 20240108122155
+54.185.198.23 6 6 72870 20240126231802
+69.105.146.54 1 29 579749 20240124080653
+68.102.180.95 2 55 2520243 20240120231540
+193.32.248.175 1 1 5056 20240121210904
+54.80.14.51 1 1 5056 20240128181024
+43.163.8.36 2 2 10112 20240130012506
+193.186.4.205 8 8 28019 20240129133838
+172.191.45.179 1 1 4314 20240119050810
+1.1.220.150 1 1 0 20240104042832
+35.208.109.140 16 16 80455 20240108153921
+174.138.27.57 0 1 1361 
+47.88.101.3 1 1 5056 20240122091820
+198.210.69.186 8 213 16148027 20240131085825
+139.190.224.98 1 1 5056 20240127154831
+35.162.162.245 2 2 24290 20240112231611
+43.133.38.182 1 1 5056 20240109141009
+70.176.33.112 2 50 1983139 20240127100057
+142.93.167.76 1 1 5056 20240117171955
+24.225.21.89 1 29 581427 20240128182629
+120.92.72.96 1 2 46414 20240109202911
+168.75.181.8 0 1 113919 
+31.220.93.201 2 2 27937 20240118003013
+154.28.229.51 1 1 11745 20240122094806
+34.209.232.140 1 1 19234 20240109031157
+5.9.157.219 1 1 11014 20240115232237
+107.151.182.62 1 1 5056 20240103095548
+172.59.75.3 2 30 581427 20240126225408
+67.214.200.115 0 2 690126 
+199.244.88.219 1 1 5056 20240131161042
+130.255.166.97 1 1 5056 20240111122342
+101.44.248.195 1 1 3177 20240123105310
+104.164.173.119 1 1 11748 20240122094806
+207.244.64.39 1 1 5056 20240121100424
+172.191.45.146 1 1 3879 20240119071513
+172.56.169.188 1 45 1928052 20240123225839
+221.229.106.25 1 1 5056 20240104034538
+143.198.61.149 1 1 3687 20240117223327
+93.158.90.71 1 1 5056 20240115092613
+134.209.231.61 1 1 11746 20240111224411
+91.107.222.0 1 1 5056 20240126142201
+103.113.228.78 1 1 5056 20240118132058
+64.188.161.232 8 81 3143605 20240116234024
+52.35.114.232 1 1 19234 20240122162039
+65.109.155.164 3 3 33306 20240115172808
+52.31.163.85 1 1 19234 20240106185822
+35.208.82.100 16 16 76481 20240124071940
+188.166.55.158 1 1 3353 20240117122515
+70.167.32.146 1 30 579205 20240109082012
+209.148.113.228 1 31 557694 20240113165019
+117.33.163.216 2 2 10112 20240126085308
+146.190.123.101 1 1 2943 20240119095945
+54.245.209.164 0 1 31402 
+34.70.34.30 1 1 5056 20240113205907
+172.59.224.40 0 3 1416969 
+205.210.31.223 1 1 36431 20240123094608
+188.166.55.150 1 1 5056 20240116192250
+178.128.170.244 2 2 10112 20240122190811
+75.133.162.204 3 50 719613 20240129083225
+35.208.119.103 16 16 59954 20240105033613
+106.119.167.146 1 1 5056 20240110133944
+165.22.74.203 1 1 19234 20240121210809
+104.236.67.183 1 1 3316 20240119103640
+209.160.116.52 1 1 0 20240122045353
+20.219.75.214 1 1 0 20240105153027
+3.91.80.34 1 1 3309 20240126094355
+5.161.188.96 1 1 3434 20240105173628
+20.106.90.9 1 1 5056 20240126102350
+68.103.37.228 1 29 581427 20240118100526
+40.94.27.87 0 19 11427 
+67.214.200.21 5 66 3143310 20240124054724
+96.242.116.219 0 28 576026 
+146.190.132.40 1 1 3956 20240117094955
+35.209.236.244 16 16 63297 20240103095025
+52.212.197.130 1 1 19234 20240108214250
+71.34.208.192 1 32 582927 20240126161822
+5.133.192.94 1 1 5056 20240122083109
+172.191.45.101 1 1 5066 20240119050031
+76.154.187.92 2 68 2171450 20240131163431
+35.209.166.65 16 16 66433 20240119235040
+34.252.161.133 1 1 19234 20240113215307
+35.208.214.220 16 16 62299 20240126012730
+166.198.250.21 2 31 721056 20240114221717
+172.58.182.210 0 1 91073 
+167.71.87.142 1 1 5056 20240118003322
+124.156.192.3 0 2 147208 
+188.126.94.218 1 1 19234 20240126230311
+103.133.214.59 1 1 5056 20240109012056
+45.156.129.27 1 1 5056 20240113093607
+65.109.155.252 5 5 55056 20240115144246
+35.238.32.242 1 1 5056 20240117114331
+35.89.244.88 1 1 5056 20240118134013
+208.100.26.248 4 4 26915 20240126164213
+8.42.80.224 5 80 2022478 20240125093202
+107.207.87.165 1 29 581427 20240126194834
+152.132.9.71 0 1 59403 
+172.98.33.249 2 23 242855 20240119155750
+15.204.227.40 3 3 0 20240121210934
+198.210.69.66 1 29 647885 20240126152113
+208.100.26.233 3 3 15168 20240121221325
+8.42.95.141 7 152 7413158 20240131180701
+136.144.43.211 1 29 581427 20240119155733
+3.255.154.226 1 1 19234 20240106232550
+149.56.150.193 12 12 182005 20240103013737
+52.41.54.193 0 1 48011 
+8.42.81.23 1 34 1920426 20240130124047
+8.217.4.157 0 1 74163 
+209.213.41.211 1 29 607458 20240128115439
+68.34.202.144 1 31 762348 20240120180723
+35.208.109.84 16 16 53336 20240127185938
+34.222.228.110 1 1 3434 20240101111623
+65.154.226.170 2 46 1933108 20240130103548
+73.235.163.76 1 29 564728 20240131220813
+51.158.127.157 1 4 48758 20240111084153
+18.201.190.192 1 1 36458 20240106223801
+71.19.217.93 1 34 807055 20240127181303
+5.133.192.166 1 1 5056 20240128154110
+192.36.109.73 1 1 5056 20240104005548
+174.224.207.185 1 29 579749 20240114135226
+69.247.199.238 2 72 833541 20240116175823
+125.94.144.102 2 2 10112 20240115021444
+35.208.81.39 16 16 85301 20240122134448
+73.169.83.100 2 49 1979302 20240114143749
+199.45.154.65 1 1 5056 20240131205822
+165.154.224.222 4 4 20224 20240118022157
+175.6.217.4 2 2 10112 20240115165707
+34.255.161.224 4 4 47104 20240108210235
+174.214.16.164 1 45 1928052 20240109172715
+52.91.148.99 1 1 0 20240112084032
+43.129.20.47 0 1 73270 
+43.134.142.8 2 2 10112 20240122195713
+111.7.100.34 1 1 5056 20240116194833
+42.83.147.53 2 2 10112 20240115235521
+193.186.4.57 2 2 6296 20240119114000
+199.244.88.222 1 1 5056 20240130005358
+184.154.76.16 13 24 548859 20240131042145
+99.50.129.14 1 46 1928723 20240128041115
+82.8.95.50 0 1 113919 
+205.210.31.249 1 1 19234 20240119180011
+63.117.14.68 2 52 1957996 20240113165007
+67.214.200.129 3 59 1972875 20240124014012
+199.244.88.225 1 1 5056 20240108081530
+182.42.110.255 3 3 15168 20240117022121
+174.196.36.177 0 1 18927513 
+47.254.16.187 1 1 11745 20240122091820
+206.189.117.136 1 1 11746 20240123073737
+163.220.189.82 0 1 74163 
+18.201.87.225 1 1 36470 20240113224353
+172.59.229.72 3 78 2491361 20240112102653
+104.28.116.107 0 1 113919 
+8.218.13.95 0 2 147208 
+5.133.192.203 1 1 5056 20240131203254
+198.235.24.116 1 1 19234 20240111125015
+43.155.160.173 2 2 10112 20240131212100
+164.90.184.41 2 2 16801 20240121210850
+182.44.8.254 2 2 10112 20240124032201
+34.251.182.164 1 1 36458 20240106223707
+162.55.95.164 1 1 3879 20240102001241
+91.92.245.162 5 5 96170 20240128203833
+199.195.53.75 0 1 113919 
+69.160.160.52 23 68 2008436 20240115044539
+3.91.183.58 1 1 0 20240128105226
+101.44.250.65 1 1 3650 20240103144521
+198.210.97.46 1 29 619409 20240115165447
+8.36.241.73 10 99 2547927 20240102143525
+23.114.254.248 1 45 1928052 20240123231125
+73.114.227.209 0 1 113919 
+159.65.178.51 1 1 5056 20240123232852
+35.171.144.152 7 7 134638 20240125124209
+34.239.207.83 1 1 19234 20240126235439
+3.253.73.196 2 5 58825 20240106222816
+117.62.235.53 1 1 5056 20240103165410
+35.187.118.85 1 1 19234 20240130010015
+146.190.25.124 1 1 5056 20240109015729
+24.225.100.141 0 1 113919 
+3.250.192.63 1 1 19234 20240113214338
+146.70.126.172 1 1 5056 20240121210904
+24.255.134.145 11 97 2665008 20240123222508
+46.249.102.65 1 1 19234 20240124061816
+40.94.27.25 0 16 1802235 
+223.15.245.170 1 1 5056 20240131100309
+109.70.100.66 1 1 19234 20240118003031
+172.98.33.234 0 1 86090 
+125.75.66.97 2 2 10112 20240130082718
+50.27.239.236 1 29 606302 20240128185935
+66.232.221.191 1 69 2169119 20240126095936
+89.149.15.118 2 2 5056 20240122152539
+120.92.122.205 0 1 306652 
+40.91.80.231 20 20 74722 20240122123124
+198.235.24.166 1 1 36431 20240112014726
+167.94.138.33 1 1 5056 20240130230258
+188.166.51.91 1 1 3148 20240119123710
+174.231.24.93 1 45 1928052 20240129071512
+64.225.79.245 1 1 19234 20240129112834
+35.89.53.218 1 1 5056 20240127064043
+120.92.12.137 0 1 73045 
+43.163.1.85 2 2 10112 20240126144239
+34.213.184.122 1 1 11103 20240116110455
+27.44.204.196 0 1 74163 
+183.136.225.46 1 1 19234 20240118093617
+205.210.31.209 2 2 38468 20240122124509
+98.172.115.19 1 29 581427 20240123082920
+70.130.119.183 2 60 20888478 20240129095844
+47.205.185.172 2 35 619814 20240101084033
+174.210.170.78 2 28 578045 20240117115642
+66.38.29.245 1 45 1928052 20240121155056
+216.195.36.170 1 23 1439382 20240122133136
+199.87.205.62 0 1 37104 
+172.59.76.245 1 29 607458 20240107130136
+70.118.208.69 1 29 539582 20240118112106
+156.227.0.129 1 1 5056 20240115041746
+51.15.130.182 1 4 48196 20240111105640
+68.183.201.204 1 1 5056 20240124235447
+185.220.100.246 2 2 10112 20240114110408
+72.202.141.204 2 68 2171450 20240101155556
+2.58.56.44 1 1 5056 20240122045010
+73.149.110.212 1 29 607458 20240130052406
+38.22.152.71 3 33 1697591 20240112151351
+38.59.20.6 0 1 73045 
+199.45.154.49 1 1 5056 20240103005216
+86.127.230.214 1 1 19234 20240128081130
+54.76.253.128 1 1 36443 20240106182707
+198.235.24.170 1 1 19234 20240130185144
+107.151.182.58 1 1 5056 20240124043755
+198.176.247.51 1 31 649129 20240119152824
+149.56.150.242 1 1 19234 20240103064025
+198.235.24.21 1 1 19234 20240124073544
+24.151.202.106 1 47 11343560 20240124141832
+203.33.203.148 2 2 10112 20240111203546
+36.111.67.189 2 2 10112 20240107184204
+47.254.25.10 1 1 11749 20240122091818
+208.100.26.235 0 14 164715 
+205.210.31.221 1 1 36431 20240110103113
+205.210.31.218 1 1 19234 20240104201656
+85.191.54.62 2 2 38468 20240116132558
+162.253.68.181 0 1 1361 
+172.58.57.144 0 28 621083 
+174.210.163.86 1 29 625533 20240115075416
+34.68.184.172 1 1 3650 20240113205907
+119.145.28.208 0 1 73270 
+35.209.187.240 16 16 70101 20240130101811
+130.44.212.113 0 1 306652 
+20.163.118.32 1 1 0 20240129061148
+184.154.76.11 10 16 292103 20240128041739
+125.124.133.75 2 2 10112 20240120055112
+8.36.252.125 1 50 1932778 20240103133156
+70.182.99.174 0 1 121309 
+45.80.158.170 1 1 0 20240130154055
+111.172.249.49 1 1 5056 20240128102951
+68.102.8.215 0 1 10531901 
+222.79.104.23 2 2 10112 20240118163338
+34.136.104.224 1 1 5066 20240113205908
+76.23.30.163 2 34 629358 20240102162423
+178.254.12.183 1 1 5056 20240128074537
+3.250.225.242 4 4 47102 20240106235846
+169.233.1.32 0 3 686574 
+38.170.230.26 3 3 13546 20240121002231
+73.206.177.140 1 45 1928052 20240124093603
+54.91.211.40 1 1 3247 20240126094205
+54.144.16.44 1 1 5056 20240121181327
+167.86.110.100 0 2 78152 
+35.190.204.246 2 2 38468 20240112180847
+110.76.128.154 1 1 5056 20240131201450
+43.163.8.148 1 1 5056 20240118050428
+101.44.248.10 1 1 5340 20240103092930
+69.28.90.107 1 1 5056 20240110093800
+104.248.240.114 1 1 5056 20240105070136
+23.22.99.5 1 1 5066 20240126095458
+51.15.201.90 1 4 48364 20240111083819
+52.25.133.55 1 1 5056 20240114073650
+36.110.175.162 0 1 73270 
+178.254.24.91 2 2 10112 20240124104547
+149.50.216.226 1 1 13218 20240131001617
+66.232.200.204 7 87 11590964 20240123211212
+43.155.136.16 1 1 5056 20240117232156
+178.254.38.45 2 2 10112 20240108042451
+165.201.70.2 1 42 614018 20240111130532
+14.116.239.35 0 1 306652 
+140.143.164.90 0 1 306652 
+167.94.138.35 1 1 5056 20240131180942
+146.190.246.173 2 2 10112 20240131034323
+159.242.210.142 1 46 1930211 20240122133300
+18.236.102.169 1 1 5056 20240125030430
+172.59.223.70 7 116 2524853 20240120145350
+51.158.96.104 1 7 98217 20240110163225
+174.210.168.50 5 64 3113495 20240124094413
+120.92.12.104 0 1 306652 
+205.210.31.8 1 1 19234 20240124083905
+93.158.91.252 1 1 5056 20240121205027
+178.79.152.61 1 1 5056 20240107071941
+167.99.141.224 1 1 3177 20240118134543
+43.134.89.111 1 1 5056 20240109043642
+192.81.133.147 1 1 19234 20240102165153
+167.71.254.25 2 2 7008 20240117080947
+93.158.98.56 1 1 5056 20240120133518
+99.112.180.82 0 3 21063804 
+173.17.82.231 2 50 1936938 20240127124514
+3.249.255.36 1 1 36470 20240107002852
+65.20.136.212 1 1 5056 20240112063920
+104.28.48.75 1 29 579749 20240123212025
+185.220.100.254 1 1 5056 20240116183929
+165.23.226.132 2 47 1935267 20240114100359
+35.209.240.231 16 16 65306 20240123105437
+152.67.124.221 0 1 306652 
+185.180.143.141 1 1 5056 20240126204953
+170.106.101.31 1 1 5056 20240104132559
+34.122.220.54 1 1 3077 20240113205907
+208.100.26.237 4 4 20224 20240125002640
+204.52.179.146 1 29 647885 20240119092109
+35.87.235.158 2 2 38468 20240111022549
+116.203.62.38 5 5 65740 20240101172412
+34.86.239.201 1 2 12854 20240124080654
+74.134.42.244 1 45 1928052 20240129181125
+198.210.77.230 1 45 1928052 20240112122502
+130.44.215.110 0 1 306652 
+12.75.40.119 7 65 2250285 20240123201230
+44.222.237.239 3 10 148404 20240125215215
+35.209.225.81 16 16 52269 20240117084958
+8.36.254.174 2 47 1866096 20240118183559
+35.209.221.246 16 16 62885 20240125044414
+73.118.168.56 1 37 613542 20240127214727
+3.239.49.14 2 2 7182 20240126094136
+199.45.155.16 1 1 5056 20240120234135
+68.232.50.61 1 29 581427 20240118124824
+104.218.89.248 1 45 1928052 20240109103759
+66.169.157.19 2 50 1983139 20240124155606
+199.45.154.50 3 3 21851 20240131183954
+174.210.165.241 2 50 12457679 20240117144022
+54.187.75.246 2 2 10112 20240130035125
+3.236.193.169 1 1 5056 20240118060535
+167.71.107.255 1 1 3247 20240117044440
+27.44.204.91 0 1 73045 
+114.235.193.152 1 1 19234 20240128115647
+159.203.34.198 1 1 3650 20240119020029
+45.20.252.51 2 51 890627 20240101121324
+170.178.154.21 1 1 3434 20240102165332
+71.27.240.170 1 1 5340 20240128013153
+135.181.141.56 1 2 654254 20240116222409
+128.199.111.230 1 1 3480 20240119074215
+104.164.173.128 23 26 128316 20240109210738
+47.251.14.232 0 1 11766 
+35.88.163.154 0 1 31402 
+104.239.105.93 1 1 0 20240122120351
+36.228.22.249 1 1 3247 20240115052927
+194.163.155.246 1 1 5056 20240120123718
+104.234.204.32 3 3 35253 20240123124849
+58.150.183.142 9 9 45504 20240121125020
+198.235.24.117 1 1 19234 20240126111707
+64.250.52.161 1 29 578534 20240131110056
+103.191.198.91 2 2 19234 20240130013339
+121.229.185.160 1 1 5056 20240113183630
+76.154.249.161 0 1 45581 
+27.44.204.176 0 1 73045 
+94.130.131.80 1 1 19234 20240125002813
+20.25.165.55 2 2 38468 20240117130318
+50.35.72.174 0 1 113919 
+3.252.10.75 1 1 36458 20240113190055
+184.154.76.10 11 19 407205 20240120041643
+107.151.182.54 2 2 10112 20240111230311
+5.9.158.7 5 5 68708 20240115140545
+45.37.136.184 1 46 1930211 20240130175546
+205.210.31.148 1 1 19234 20240117100506
+192.36.109.116 1 1 5056 20240110042115
+62.109.24.243 1 4 40485 20240122091048
+72.193.145.144 0 1 73045 
+174.208.227.137 1 35 592576 20240127162455
+35.209.1.22 16 16 53373 20240102133214
+205.210.31.214 1 1 19234 20240119195954
+204.228.96.23 1 29 647885 20240117171318
+94.23.61.200 1 1 19234 20240106083231
+93.158.90.153 1 1 5056 20240130172500
+51.178.133.151 2 2 38468 20240117071538
+69.167.28.143 1 1 0 20240110230104
+36.99.136.137 0 3 48277 
+101.44.250.211 1 1 5056 20240123234256
+178.128.239.144 1 1 5056 20240111235047
+206.189.125.207 1 1 3303 20240117000728
+54.174.115.14 1 1 3480 20240126093741
+34.94.160.125 2 2 38468 20240112164604
+3.129.248.28 6 26 229580 20240125141302
+209.137.205.208 3 67 903722 20240126201504
+185.243.244.124 2 22 209356 20240128113355
+40.114.182.172 1 1 5056 20240103125710
+206.85.68.178 1 47 1930770 20240103132309
+51.158.105.137 1 4 48469 20240111083703
+120.92.12.170 0 1 74163 
+34.105.37.64 6 6 75001 20240124182749
+64.23.151.60 1 1 5056 20240110235635
+8.36.251.48 0 1 113919 
+35.208.49.115 16 16 62988 20240115132846
+76.192.140.201 1 31 581215 20240127175214
+35.208.210.206 16 16 63725 20240121172853
+107.131.110.128 5 100 2328181 20240120121713
+209.184.178.52 1 23 1439382 20240116082422
+173.185.74.225 1 1 19234 20240111045546
+5.133.192.171 1 1 5056 20240116011010
+167.94.90.168 1 1 19234 20240121230027
+66.232.194.79 1 47 617380 20240104135305
+67.6.38.15 1 45 1928052 20240124102747
+67.220.86.160 2 2 10112 20240124035340
+159.223.207.227 1 1 5056 20240126000015
+139.144.150.45 2 2 48200 20240121210813
+73.1.32.233 4 4 17870 20240110232232
+179.43.191.18 4 4 17718 20240131090813
+101.47.80.44 0 1 306652 
+199.87.205.143 1 29 606302 20240128120513
+24.225.22.105 5 28 55952 20240124124636
+35.208.200.151 16 16 55233 20240112235334
+98.146.187.78 1 11 104678 20240107205256
+54.165.162.147 1 1 3285 20240126094459
+82.146.44.21 1 5 42887 20240121211014
+198.235.24.68 1 1 19234 20240112173829
+195.211.77.140 2 2 0 20240122094616
+63.35.192.66 2 5 58822 20240106223155
+185.216.231.30 2 73 2952387 20240106063005
+49.82.219.82 1 1 19234 20240128115646
+124.237.181.136 1 1 5056 20240125191046
+58.220.27.185 1 1 5056 20240120180411
+137.184.170.39 1 1 3277 20240117005358
+174.210.166.10 3 52 866973 20240128190256
+24.124.17.165 1 45 1928052 20240113164951
+72.14.201.206 4 4 14639 20240126185928
+216.49.181.251 1 31 752392 20240105222433
+18.237.38.163 1 1 5056 20240115105214
+199.45.154.51 1 1 5056 20240111034545
+35.209.236.252 16 16 75354 20240120195829
+193.118.51.130 1 1 5056 20240102142050
+120.92.12.230 0 1 73045 
+185.180.143.148 1 1 5056 20240128234112
+34.145.165.227 1 2 24794 20240116082422
+23.95.23.138 2 2 10112 20240123074651
+85.25.93.236 3 3 12223 20240108035133
+44.205.2.62 1 1 5056 20240107051544
+91.92.247.204 2 2 0 20240119024252
+45.153.232.145 3 33 314034 20240117235230
+83.97.23.179 1 1 19234 20240129095015
+45.27.246.194 1 29 581427 20240129200151
+35.209.115.88 16 16 67650 20240109125845
+27.44.204.19 0 1 74163 
+157.230.120.156 1 1 5056 20240120003707
+72.44.236.28 0 1 113919 
+128.199.152.93 2 2 38468 20240112005153
+54.155.228.177 2 5 58806 20240120203003
+52.91.24.63 1 1 11677 20240124215552
+52.10.174.182 1 1 19234 20240123200554
+192.53.165.202 1 1 19234 20240122001417
+104.28.103.189 1 29 579749 20240101194032
+3.250.194.135 1 1 36443 20240113195018
+43.155.169.133 1 1 5056 20240126004321
+24.196.30.175 3 73 1580998 20240117181152
+67.209.10.139 1 23 1439382 20240102042706
+17.58.56.7 2 2 38468 20240126224414
+68.162.66.77 2 70 1213292 20240128093654
+35.209.70.212 16 16 60059 20240104070010
+205.210.31.231 1 1 19234 20240129143531
+8.36.250.91 4 54 2015328 20240126164041
+185.192.68.155 0 1 91073 
+54.71.35.127 1 1 11677 20240124215550
+199.45.154.19 1 1 5056 20240131181114
+184.72.79.16 1 1 3316 20240126094038
+96.241.11.52 1 29 647885 20240129181421
+149.102.237.35 1 1 5056 20240124055544
+66.232.220.170 1 46 1930211 20240124164243
+172.59.229.208 0 1 113919 
+99.43.58.80 1 44 1459850 20240123213533
+81.181.56.59 1 1 5056 20240106165900
+27.44.125.70 0 1 73045 
+50.168.42.42 1 36 765604 20240108152129
+35.231.119.49 0 1 91073 
+65.21.136.254 0 2 52958 
+93.159.230.89 1 1 5056 20240112144055
+3.252.172.244 1 1 36470 20240107002543
+18.236.7.105 1 1 5056 20240123082920
+124.237.181.137 1 1 5056 20240108113908
+54.189.71.56 1 1 5056 20240111064852
+37.19.223.99 1 1 5056 20240105205045
+184.154.76.12 11 20 417164 20240130042733
+176.124.32.105 1 1 19234 20240113210239
+107.175.179.14 2 2 38468 20240106190144
+52.205.160.182 0 1 91073 
+24.49.216.91 2 30 651841 20240102111520
+67.158.145.157 2 39 816142 20240115175819
+164.92.84.255 2 2 48183 20240121210806
+139.59.185.174 1 1 5056 20240130003526
+47.89.193.162 0 1 11762 
+128.14.209.34 1 1 5056 20240124140520
+152.69.171.90 0 1 91073 
+134.122.34.101 1 1 11746 20240120094020
+14.17.95.12 0 1 74163 
+23.80.155.41 15 15 55839 20240110204642
+136.33.153.0 2 50 2008536 20240131180048
+205.210.31.2 1 1 36431 20240115203029
+35.209.48.52 16 16 62060 20240119021859
+54.81.16.40 1 1 3434 20240126093833
+91.92.240.122 1 1 0 20240115173221
+64.39.223.156 1 45 1928052 20240124054414
+85.209.176.123 2 2 38468 20240114042120
+5.161.69.95 1 1 3148 20240128181901
+193.186.4.206 9 9 33769 20240129133558
+170.106.104.42 1 1 5056 20240107232823
+120.92.12.39 0 1 74163 
+18.237.53.39 1 1 19234 20240117102908
+35.209.118.235 16 16 78569 20240129125655
+172.203.228.184 1 1 19234 20240117081036
+35.209.231.27 16 16 79324 20240126224319
+63.245.150.60 15 407 8102419 20240113050209
+35.87.128.101 1 4 50102 20240102231229
+120.92.72.147 0 1 41565 
+216.126.34.8 1 47 1930927 20240102041331
+176.123.7.11 1 8 92871 20240118060700
+35.208.230.178 16 16 77174 20240116121517
+3.101.16.113 1 10 179229 20240104062002
+163.172.155.149 2 2 0 20240108002836
+24.35.185.6 0 1 74163 
+75.107.24.93 1 30 578534 20240101160453
+23.29.32.74 2 2 10112 20240114191949
+193.36.224.155 1 1 5056 20240104214955
+8.36.244.74 21 399 10796400 20240130105139
+146.190.25.53 1 1 5056 20240109235011
+204.236.215.44 1 1 5056 20240107172957
+140.228.182.136 1 29 647885 20240129141605
+91.92.241.173 1 4 50102 20240101053651
+83.36.188.58 0 1 44125 
+166.196.65.5 0 1 113919 
+67.161.154.177 2 92 3860422 20240110114554
+123.6.49.47 1 46 1930211 20240109110416
+156.246.14.195 0 1 306652 
+207.90.20.242 1 1 3077 20240102165334
+107.203.134.228 1 29 625533 20240106221309
+35.225.82.182 3 3 49571 20240119152823
+43.155.152.154 1 1 5056 20240104070640
+212.47.247.37 1 4 48351 20240111084721
+13.201.172.202 1 15 132594 20240123023009
+73.76.245.44 1 29 579749 20240118222206
+3.250.104.50 1 1 36431 20240113180933
+35.209.65.115 16 16 76288 20240101161041
+147.182.182.11 1 1 5056 20240114014443
+51.38.95.97 2 2 10112 20240105235235
+199.45.154.18 1 1 5056 20240120224131
+54.247.220.223 1 16 144394 20240124095552
+158.51.167.49 1 29 581427 20240107174412
+95.111.244.68 0 2 78152 
+185.81.128.21 2 2 10112 20240120051905
+85.255.20.171 1 1 0 20240120230109
+8.36.243.11 2 50 2047996 20240129185303
+51.158.103.6 1 4 47991 20240111084028
+45.90.196.109 1 1 19234 20240127034617
+101.32.216.180 0 1 91073 
+108.147.2.79 0 1 113919 
+120.92.107.212 0 1 73270 
+68.103.3.164 4 69 2057053 20240113081318
+96.245.85.187 0 1 113919 
+3.229.248.49 4 180 7712208 20240106063417
+124.225.164.130 5 5 25280 20240129050124
+81.106.232.46 2 2 10112 20240126150109
+70.179.198.11 1 30 540126 20240122190224
+3.249.153.32 4 4 47107 20240113185129
+199.45.155.35 2 2 10112 20240111021059
+47.242.224.70 3 15 208183 20240122055703
+167.71.254.83 1 1 3077 20240117061051
+71.63.76.88 1 47 1930770 20240122142157
+108.147.94.34 2 90 3856104 20240126122837
+140.228.193.125 2 74 2507801 20240128174502
+168.151.60.160 1 1 5056 20240102165333
+84.252.114.1 3 58 946434 20240130061929
+34.217.82.2 1 1 5056 20240117024435
+163.172.138.233 1 4 48325 20240111084225
+180.110.203.108 2 2 10112 20240129201104
+172.59.79.20 1 29 606302 20240108160520
+192.208.170.159 1 46 11341401 20240124133406
+65.154.226.169 1 47 2307974 20240121211242
+104.168.75.12 1 1 5056 20240109024944
+188.40.172.78 1 4 12764 20240128143524
+3.252.15.83 1 1 19234 20240113233447
+36.99.136.129 1 1 5056 20240114161847
+34.219.87.189 0 2 79413 
+172.59.123.145 3 52 866973 20240109162840
+76.205.179.138 0 1 74163 
+45.86.1.151 1 1 19234 20240127040707
+207.91.139.202 1 29 606302 20240108105930
+64.140.135.189 1 1 3723 20240102165333
+79.121.51.41 0 1 113919 
+94.247.172.129 2 2 10112 20240124223710
+34.240.253.27 1 1 36431 20240107000309
+93.158.90.29 1 1 5056 20240125170024
+82.145.211.220 4 64 1978352 20240117034956
+67.204.45.25 0 1 113919 
+47.251.15.21 2 2 10112 20240122091820
+216.21.168.105 1 38 611145 20240127153029
+198.235.24.69 1 1 36443 20240102000708
+54.154.45.194 4 4 47087 20240120192515
+5.183.255.133 23 28 9738056 20240115192928
+114.235.151.31 1 1 19234 20240128115648
+101.44.249.198 1 1 5056 20240121051934
+45.156.129.2 1 1 5056 20240120122629
+52.154.171.87 2 2 10112 20240115201428
+8.36.250.184 11 327 13370755 20240128081733
+188.166.51.87 1 1 5340 20240117064023
+162.142.125.12 1 1 5056 20240131012223
+144.217.135.227 1 45 1928052 20240103013752
+3.249.108.191 1 1 19234 20240106232704
+34.212.205.119 1 1 5056 20240111064913
+146.70.129.19 1 1 13218 20240128221056
+2.29.218.61 0 1 113919 
+193.118.53.109 2 2 10112 20240120160048
+91.92.247.104 1 1 19234 20240129110104
+174.210.160.107 0 1 642115 
+162.229.24.240 3 68 2092656 20240119074714
+51.15.199.48 1 4 50386 20240111083652
+107.178.207.49 1 7 98217 20240125195453
+40.94.27.51 1 10 114390 20240119101912
+51.15.226.161 1 3 44107 20240111083719
+136.33.246.92 1 29 606302 20240121192932
+64.140.131.173 1 1 5056 20240102165326
+3.234.253.74 1 1 3650 20240126094026
+64.238.188.10 1 29 581427 20240112123851
+98.96.193.67 1 1 5056 20240110002922
+52.210.53.116 2 5 58822 20240106222933
+34.219.181.98 1 1 5056 20240110205122
+77.74.177.119 1 1 5056 20240126113646
+205.169.39.133 2 52 2026269 20240121210925
+34.68.72.6 1 1 3879 20240113205907
+208.100.26.246 1 1 5056 20240121221329
+17.58.59.23 1 1 13218 20240126120252
+183.164.53.116 1 1 5056 20240121005020
+174.228.34.246 0 1 74163 
+103.248.61.25 1 1 5056 20240119034458
+18.236.158.61 1 1 5056 20240131063621
+34.79.246.102 1 1 19234 20240123104437
+98.52.119.127 1 30 606875 20240131204328
+159.203.61.19 1 1 11748 20240126024946
+68.103.36.204 0 1 10531901 
+88.99.26.177 1 1 5056 20240122095347
+31.220.0.86 2 2 23507 20240116023637
+174.199.96.96 1 29 647885 20240123075352
+24.60.188.245 1 29 581427 20240121190509
+65.109.127.29 1 1 12670 20240115223157
+174.211.164.16 1 29 647885 20240116132255
+182.42.105.144 1 1 5056 20240131001507
+164.68.103.101 1 1 0 20240120061457
+68.102.249.114 1 29 581427 20240126190703
+199.45.154.48 2 2 10112 20240122041953
+72.133.229.70 3 39 638590 20240112112042
+34.222.0.170 1 1 5056 20240121024150
+174.210.161.94 1 29 579749 20240127133423
+34.240.207.107 1 1 19234 20240120202440
+198.210.108.145 1 29 619409 20240108123412
+35.208.199.163 16 16 82489 20240106214128
+76.92.192.17 3 38 683728 20240110210528
+35.209.252.144 16 16 66358 20240110092227
+18.206.208.175 2 2 23511 20240124191653
+128.138.65.58 1 29 647885 20240125112426
+172.59.72.1 4 55 2133385 20240129052004
+106.110.102.43 1 1 19234 20240128115645
+193.186.4.204 9 9 35942 20240130103543
+68.52.11.63 1 46 1930211 20240116074949
+74.135.85.25 1 46 1930211 20240114131530
+34.170.44.128 1 1 3723 20240113205905
+163.172.135.247 1 7 98217 20240111084257
+3.236.69.16 1 1 19234 20240107211348
+216.14.152.65 1 46 1930211 20240116163600
+142.93.167.192 1 1 3309 20240117015349
+95.79.137.241 1 1 5056 20240123070034
+27.155.144.27 1 1 5056 20240101092038
+68.102.135.137 1 29 564728 20240109194810
+166.94.14.53 0 1 45581 
+43.130.47.136 1 1 5056 20240103215053
+209.99.178.248 1 1 5066 20240102165333
+65.109.87.98 1 1 19234 20240116223953
+161.35.221.108 1 1 5056 20240123125857
+45.201.227.142 0 1 55616 
+169.38.101.196 1 1 5056 20240126003002
+178.254.12.205 1 1 3879 20240109111754
+34.223.248.227 1 1 11103 20240130221627
+138.197.154.10 1 1 5056 20240122191712
+188.126.94.245 1 1 19234 20240126040200
+195.211.77.142 2 2 10112 20240122094627
+34.245.39.191 2 5 58822 20240113233255
+198.210.78.60 5 72 2164131 20240130093013
+198.252.62.50 1 1 3879 20240102165332
+3.80.4.111 1 1 3687 20240126094127
+123.6.49.18 2 92 3860422 20240109110754
+54.216.125.211 4 4 47078 20240113214811
+5.188.62.174 1 1 5056 20240111083710
+46.38.255.27 1 1 5056 20240129161508
+101.44.249.244 2 2 7317 20240124183754
+31.220.98.127 1 1 5056 20240108004723
+36.110.175.148 0 1 91073 
+3.249.62.86 1 1 36431 20240107000100
+120.92.72.2 1 1 5056 20240102184644
+54.234.76.128 1 1 5056 20240110220905
+103.133.107.41 2 2 38468 20240107120646
+20.163.112.91 2 2 0 20240128090551
+3.93.70.131 1 1 5056 20240107180411
+162.142.125.226 1 1 5056 20240130010120
+43.128.100.220 3 3 15168 20240129101638
+104.248.8.40 1 1 0 20240128204946
+180.102.134.69 2 2 10112 20240107040813
+18.202.21.161 1 1 19234 20240113215415
+182.42.104.32 2 2 10112 20240127025109
+205.210.31.193 1 1 19234 20240120034706
+34.123.240.16 4 139 5795689 20240113205920
+35.209.99.100 3 3 10112 20240116103820
+34.102.43.195 1 1 19234 20240102115927
+95.217.23.11 1 1 19234 20240129210649
+210.183.172.229 1 26 1916625 20240114181632
+35.153.73.227 1 1 4314 20240126094043
+172.59.73.139 3 39 1703322 20240130220027
+157.185.169.100 1 1 5056 20240110194701
+174.250.210.2 1 22 996865 20240118200001
+3.252.1.132 1 1 19234 20240106220903
+8.42.81.191 13 87 2840331 20240124165808
+15.204.182.106 2 2 10112 20240112191601
+174.234.15.229 0 1 113919 
+172.59.76.109 1 29 647885 20240119214827
+50.84.192.2 2 51 2050155 20240115151244
+65.154.226.168 2 2 10112 20240123111705
+14.17.85.218 0 1 73045 
+101.42.20.100 0 1 73270 
+174.208.167.26 1 29 647885 20240127162707
+44.204.192.84 1 1 3077 20240126094002
+5.9.157.139 2 2 30337 20240115122052
+3.85.7.180 2 2 8490 20240114101845
+141.94.174.211 1 1 5056 20240109201515
+91.92.254.86 4 4 76936 20240127144231
+52.32.195.116 1 1 5056 20240115064949
+103.48.197.221 2 2 10112 20240102150307
+151.197.59.212 3 72 2224316 20240122212508
+184.154.76.17 6 11 310615 20240122045214
+54.213.231.64 1 1 0 20240101052850
+104.164.173.246 1 1 11746 20240121210941
+123.6.49.42 1 46 1930211 20240109110501
+91.92.241.144 0 1 39076 
+68.103.224.215 3 3 57702 20240110001502
+35.87.4.245 1 1 5056 20240125030257
+47.88.86.63 0 1 11765 
+54.80.172.88 1 1 3353 20240126094640
+5.133.192.167 1 1 5056 20240103132259
+192.208.173.21 1 45 1928052 20240108171119
+49.13.162.161 1 1 5056 20240129094433
+34.174.105.46 1 1 19234 20240128185705
+78.46.98.26 6 6 75092 20240115210531
+222.127.189.78 1 29 624231 20240103104227
+206.85.74.57 1 46 11341401 20240102200757
+177.236.6.106 0 1 113919 
+199.244.88.230 2 2 10112 20240119161905
+101.32.194.47 1 1 5056 20240105020218
+8.42.80.250 2 56 2011524 20240126171427
+174.210.163.12 1 45 1928052 20240127115450
+134.122.89.242 1 1 19234 20240121210809
+185.81.128.36 4 8 294836 20240114174227
+110.232.85.187 1 1 5056 20240131203559
+51.158.99.127 1 4 48528 20240111085915
+137.184.180.19 1 1 4314 20240118142413
+163.172.153.16 19 19 67928 20240111082822
+136.158.116.157 0 1 48146 
+61.139.77.181 1 1 5056 20240127114439
+137.184.64.175 1 1 5056 20240127230953
+5.188.62.140 2 2 10112 20240101034710
+24.225.24.123 10 109 2346684 20240129133822
+104.244.72.115 1 1 5056 20240117164018
+68.232.58.8 1 29 654596 20240111124522
+54.241.118.0 1 1 19234 20240105162308
+54.202.158.13 0 1 48011 
+101.42.44.205 0 1 73270 
+66.249.68.6 0 1 9413349 
+185.220.100.249 2 2 24290 20240131174435
+65.152.107.109 0 1 113919 
+198.235.24.74 1 1 36431 20240102174542
+35.173.64.170 1 1 5056 20240103045820
+70.179.162.229 0 1 113919 
+104.164.173.238 1 1 5056 20240121210941
+40.94.29.32 0 9 109334 
+67.217.42.246 3 3 0 20240105130537
+41.216.188.113 1 1 5056 20240101154951
+104.131.75.153 1 1 5056 20240108020132
+136.144.43.208 0 1 2159 
+51.15.133.109 1 4 48685 20240111084217
+76.92.196.20 16 101 2821350 20240121073746
+64.250.60.152 1 29 581427 20240127072825
+34.139.99.207 10 10 39504 20240106191451
+3.234.17.166 0 1 91073 
+182.44.67.97 1 1 5056 20240106040103
+174.213.210.64 1 30 582098 20240104124522
+34.209.140.218 1 1 19234 20240120215703
+172.241.26.24 1 1 5056 20240115152201
+8.42.81.86 1 31 557694 20240124100600
+68.2.182.42 7 65 2165642 20240108121645
+194.35.113.58 1 1 19234 20240118182323
+106.55.201.50 1 1 5056 20240125190040
+64.140.130.195 1 1 3650 20240102165333
+34.254.19.26 4 4 47067 20240106201117
+159.89.6.170 1 1 5056 20240106004359
+199.45.155.17 1 1 5056 20240108061213
+147.182.205.6 1 1 11744 20240124064212
+34.203.246.40 2 2 10112 20240118045346
+35.209.43.144 16 16 65146 20240113200110
+52.209.127.91 1 1 36443 20240108231527
+64.71.98.98 2 52 547728 20240124135607
+172.104.28.21 2 2 19234 20240107174852
+163.172.141.136 1 4 48228 20240111083653
+205.210.31.195 1 1 19234 20240130005251
+212.47.248.114 1 4 48333 20240111084035
+174.250.210.51 2 36 655668 20240118235541
+101.42.2.235 0 1 74163 
+54.74.199.117 1 1 36470 20240107002652
+198.235.24.156 1 1 36431 20240120121329
+149.28.140.65 1 3 10137 20240112140647
+3.251.174.4 1 1 19234 20240106220708
+172.59.79.30 1 45 1928052 20240122094240
+141.126.66.50 1 29 624231 20240130104548
+96.28.176.204 2 60 1164078 20240117181755
+35.208.216.25 16 16 76662 20240106011158
+104.28.217.48 0 1 1361 
+72.192.120.221 1 34 538445 20240105141258
+63.35.193.6 2 5 58801 20240113230538
+108.147.103.70 2 30 589106 20240103080233
+80.85.85.43 1 1 5056 20240119113805
+34.27.137.177 1 1 5056 20240105165226
+43.153.216.189 1 1 5056 20240124100603
+66.232.219.251 3 56 3080858 20240130141446
+91.92.255.125 4 4 76936 20240120031347
+98.21.135.154 0 1 10531901 
+178.254.29.124 2 2 10112 20240119030524
+87.161.234.28 1 29 579749 20240109033152
+120.92.72.106 0 1 41565 
+8.36.253.218 0 1 10531901 
+154.28.229.8 1 1 5056 20240122094806
+35.88.233.6 3 3 10512 20240101002824
+34.102.63.64 2 2 38468 20240102001959
+95.217.18.177 3 3 21861 20240128142928
+185.220.101.62 1 1 5056 20240129145949
+108.234.126.54 0 1 59403 
+64.226.74.128 1 1 5056 20240123233513
+3.84.170.203 1 1 3723 20240126094201
+194.31.255.149 0 1 113919 
+43.128.100.206 1 1 5056 20240128022543
+46.101.121.244 1 1 5056 20240122012903
+37.45.228.157 0 1 18927513 
+34.173.225.235 1 1 4314 20240113205905
+62.234.179.19 0 1 73045 
+65.19.141.120 0 11 1334122 
+40.94.29.48 1 1 5056 20240124194221
+205.210.31.241 1 1 19234 20240103100053
+154.12.227.92 1 1 0 20240128202718
+74.125.216.199 1 1 5056 20240121065447
+34.69.204.186 1 1 3434 20240113205907
+63.245.132.67 1 30 606973 20240118203624
+120.92.122.194 0 3 453192 
+182.42.111.156 2 2 10112 20240112115031
+174.210.166.129 1 46 1930211 20240121142337
+34.122.150.172 1 1 5056 20240102213259
+223.244.35.77 2 2 10112 20240119155123
+43.155.138.79 1 1 5056 20240118095434
+172.59.75.167 1 26 1916625 20240123200302
+172.58.15.148 0 1 113919 
+172.56.168.231 1 6 1588946 20240127223356
+35.86.162.107 1 1 3434 20240103150832
+192.159.94.193 1 29 606824 20240124114723
+183.136.225.44 2 2 55677 20240125060633
+5.133.192.136 1 1 5056 20240109191249
+24.113.71.143 0 1 113919 
+120.92.72.199 0 1 41358 
+159.65.137.194 1 1 19234 20240113184830
+192.241.139.224 1 1 11746 20240106053133
+54.208.26.26 1 1 5056 20240126094103
+96.33.212.98 2 53 1958746 20240130124937
+3.251.254.249 2 5 58811 20240106193034
+136.32.67.242 1 30 19492241 20240111000318
+45.80.158.200 1 1 0 20240131093759
+76.157.31.56 1 45 1928052 20240112225630
+65.21.69.135 5 5 67835 20240115140434
+34.210.59.77 2 2 10112 20240115105355
+167.99.186.192 1 1 5056 20240123094950
+120.92.72.246 0 2 5060 
+36.110.175.199 0 1 73270 
+35.208.174.146 16 16 67693 20240111063618
+34.242.144.132 2 5 58798 20240106193145
+136.33.245.239 0 1 113919 
+199.45.155.18 1 1 5056 20240108085943
+137.226.113.44 3 3 15168 20240118123529
+72.14.201.205 3 3 11635 20240126063022
+188.166.158.121 1 1 5056 20240119093810
+42.83.147.56 1 1 5056 20240122224056
+54.70.74.232 0 1 48011 
+174.71.138.226 0 1 113919 
+138.197.185.242 1 1 5056 20240102002919
+165.225.10.93 1 37 583622 20240118100827
+204.242.179.29 1 1 5056 20240127154832
+104.128.41.169 1 45 1928052 20240124175718
+36.99.136.136 1 4 49940 20240114161850
+51.15.238.125 1 1 5056 20240110155955
+91.92.248.145 2 2 38468 20240110231117
+43.134.190.89 1 1 5056 20240125074051
+38.60.191.178 0 1 1361 
+142.93.167.19 1 1 2261 20240117113112
+156.246.11.156 0 1 91073 
+136.144.43.204 2 22 1405153 20240119155948
+3.249.18.3 1 1 19234 20240120213800
+114.96.103.33 1 1 5056 20240103025720
+154.12.229.247 1 1 5056 20240123215924
+172.233.186.216 2 2 10112 20240128173829
+89.23.113.160 1 1 19234 20240114145953
+65.109.155.250 5 5 64746 20240115183407
+142.93.3.8 3 3 13991 20240126151851
+223.240.175.39 1 1 5056 20240117102041
+35.180.91.125 2 2 23503 20240131071600
+172.59.229.226 1 29 619409 20240101180845
+8.42.84.228 2 54 2051973 20240111211045
+192.208.172.191 2 49 2006377 20240128142452
+192.208.165.58 1 30 679347 20240113083835
+107.77.227.169 0 1 113919 
+67.44.160.120 1 20 601117 20240119232714
+68.103.215.152 3 54 1987534 20240123203559
+45.139.38.73 1 1 5056 20240114202340
+51.15.193.155 1 4 49369 20240111084705
+37.19.223.12 1 1 19234 20240124223320
+205.210.31.29 1 1 19234 20240103091536
+45.90.196.75 1 1 19234 20240129101517
+191.101.157.58 2 2 38468 20240129085406
+182.43.70.143 2 2 10112 20240105111314
+124.226.222.66 1 1 5056 20240101100158
+107.189.31.33 20 20 255295 20240118002958
+52.154.170.209 1 1 5056 20240103101720
+206.21.125.195 1 26 1916625 20240130103455
+5.188.62.26 3 3 15168 20240129153156
+76.145.223.188 0 1 113919 
+192.71.2.119 1 1 5056 20240105160618
+34.254.157.102 1 1 36458 20240120190708
+8.36.247.24 9 120 2737004 20240124204841
+120.92.15.213 0 1 306652 
+188.166.118.49 1 1 3879 20240118223645
+167.94.138.50 1 1 5056 20240130010951
+51.158.66.154 1 4 49004 20240111211112
+70.161.28.32 1 45 1928052 20240126142127
+120.92.12.201 0 1 73045 
+99.23.44.254 2 52 1937308 20240128221117
+51.15.136.156 1 4 48914 20240111085120
+198.20.67.201 15 29 673719 20240125041708
+8.36.253.188 4 98 2031941 20240125074448
+120.131.13.70 0 1 91073 
+98.35.117.9 1 46 2021703 20240125203435
+34.70.183.70 1 1 5056 20240113205904
+2.58.56.31 1 1 5056 20240124103908
+18.201.38.81 1 1 19234 20240106220551
+15.236.41.241 5 52 633637 20240129083918
+54.175.74.27 1 1 3148 20240104142444
+205.210.31.92 1 1 36431 20240105221920
+35.93.24.5 1 1 19234 20240124150939
+149.106.106.65 1 29 647885 20240103202551
+34.252.90.199 1 1 36431 20240106235949
+69.137.120.40 0 1 45581 
+163.220.189.12 0 1 73045 
+69.161.163.91 1 46 1930211 20240106093201
+203.2.64.59 2 2 10112 20240116002710
+54.75.132.41 1 1 36431 20240113181045
+54.204.142.228 1 1 2943 20240126094216
+110.166.71.39 1 1 5056 20240116155138
+174.210.164.19 2 34 10084023 20240101021326
+101.44.250.71 0 1 306652 
+47.88.94.159 0 1 11765 
+14.17.95.23 0 1 73045 
+91.92.244.199 2 2 38468 20240115193642
+164.90.157.94 1 1 19234 20240129102511
+172.177.40.159 0 1 1361 
+199.244.88.220 1 45 1928052 20240114202638
+108.76.89.239 0 1 18927513 
+104.164.173.175 1 1 11746 20240121210941
+128.90.43.76 1 1 0 20240104140536
+173.217.218.202 4 108 3140959 20240130110248
+104.239.124.0 1 1 5056 20240111144731
+37.139.53.17 1 1 15218 20240102042110
+149.28.167.136 10 10 126700 20240129114549
+72.14.201.207 2 2 7748 20240111153338
+182.44.2.148 1 1 5056 20240108185325
+64.140.134.4 1 1 5056 20240102165333
+176.9.76.162 1 1 19234 20240131023133
+35.181.57.249 1 1 11748 20240129212858
+54.203.120.26 3 63 712522 20240122123151
+95.79.88.9 1 1 5056 20240127082207
+205.169.39.244 2 52 2026269 20240121210928
+62.194.247.203 1 1 5056 20240125195452
+3.248.170.173 1 1 36458 20240106224001
+3.88.100.131 1 1 3879 20240118162727
+65.154.226.171 1 1 5056 20240102142020
+68.102.209.32 5 105 4013116 20240121135255
+198.235.24.43 1 1 19234 20240116163241
+150.136.109.77 0 1 9413349 
+45.147.248.16 6 6 115404 20240122080015
+8.42.89.122 0 1 10531901 
+120.92.15.159 0 1 306652 
+68.115.82.173 1 29 647885 20240119195658
+35.208.220.93 16 16 85726 20240112024412
+24.230.186.184 1 29 606302 20240128130101
+172.59.227.137 0 1 74163 
+34.135.163.38 1 1 3353 20240113205905
+99.158.40.81 1 29 625533 20240110174042
+195.201.22.76 1 1 19234 20240108125705
+199.36.78.66 1 36 584053 20240114193223
+54.91.104.202 1 1 3148 20240126094202
+208.100.26.247 3 3 28553 20240117124535
+184.53.32.154 1 29 647885 20240105202638
+149.202.88.65 4 4 76936 20240115122906
+8.42.88.137 1 45 1924698 20240106175114
+64.62.243.165 1 1 5056 20240120043320
+75.189.208.78 1 46 1930211 20240124210459
+46.231.76.174 1 1 5056 20240106091645
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20240101 61 336 16341691 32
+20240102 75 359 30736085 44
+20240103 65 322 19480875 35
+20240104 38 172 45789404 21
+20240105 57 210 3671617 33
+20240106 114 540 17187875 52
+20240107 48 178 23084428 30
+20240108 76 529 25480090 42
+20240109 114 643 30086170 39
+20240110 157 534 12475214 32
+20240111 165 723 33724975 65
+20240112 85 641 26458255 38
+20240113 100 573 26745305 46
+20240114 67 438 23218618 33
+20240115 225 486 29455507 53
+20240116 137 457 39702742 37
+20240117 96 486 22884868 56
+20240118 84 471 10616344 41
+20240119 126 661 17650257 53
+20240120 69 273 17104052 41
+20240121 230 751 22144514 53
+20240122 218 607 14403601 51
+20240123 134 1021 41181927 48
+20240124 112 1238 60888689 60
+20240125 125 480 10603150 43
+20240126 109 652 36447624 67
+20240127 151 568 14779373 35
+20240128 74 654 18578905 47
+20240129 125 651 44982194 41
+20240130 128 702 21516944 38
+20240131 80 375 22540224 35
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 15
+30s-2mn 56
+30mn-1h 19
+0s-30s 1163
+2mn-5mn 27
+5mn-15mn 55
+1h+ 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 64
+/ 1556 12834148 951 843
+/html/russell.html 118 486036 42 38
+/html/paradise.html 105 308252 21 21
+/html/gorham.html 105 356547 23 24
+/html/oil-patch-museum.html 93 479723 45 45
+/html/rchs.html 92 354159 5 8
+/html/luray.html 91 362763 13 14
+/html/bunker-hill.html 90 381370 27 36
+/html/fossil-station-museum.html 90 366801 38 40
+/html/towns.html 85 322083 7 10
+/html/waldo.html 82 292815 11 10
+/html/events.html 82 411034 3 7
+/html/hours.html 80 205331 5 13
+/html/attractions.html 78 449940 10 28
+/html/lucas.html 77 294549 5 5
+/html/robert-j-dole.html 76 301455 9 29
+/html/milberger.html 74 310413 12 19
+/html/dorrance.html 70 280440 10 13
+/html/fairport.html 63 226059 10 19
+/html/gernon-house-museum.html 62 294234 17 17
+/html/mission.html 60 308910 7 11
+/html/get-involved.html 57 304939 9 26
+/html/heym-oliver-museum.html 52 198082 8 10
+/autodiscover/autodiscover.json 12 141483 2 3
+/wp-content/ 11 0 9 9
+/_all_dbs 2 23509 0 2
+/owa/auth/logon.aspx 6 70567 1 2
+/./html/fossil-station-museum.html 1 12139 0 0
+/./html/rchs.html 1 10953 1 0
+/./html/waldo.html 1 11259 0 0
+/.git/config 7 82269 7 7
+/./ 1 19234 0 0
+/./RestAPI/LogonCustomization 9 328170 9 9
+/./html/luray.html 1 11314 0 1
+/./html/lucas.html 1 11181 0 1
+/./html/paradise.html 1 10976 0 0
+/./html/heym-oliver-museum.html 1 12494 0 0
+/./html/get-involved.html 1 17213 0 0
+/ecp/ 6 70495 3 1
+/mailman/listinfo/mailman 1 2550 1 1
+/./html/russell.html 1 12719 1 0
+/./html/gernon-house-museum.html 1 13218 1 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 2 23576 1 1
+// 1 19234 1 1
+/.env 2 23498 2 2
+/./html/oil-patch-museum.html 1 12670 0 0
+/./html/towns.html 1 15218 0 0
+/./html/dorrance.html 1 11014 0 0
+/global-protect/login.esp 8 94079 5 3
+/./html/attractions.html 1 17364 0 0
+/./html/gorham.html 1 10356 0 0
+/./html/robert-j-dole.html 1 11277 0 0
+/wp-content/index.php 1 0 1 1
+/./html/mission.html 1 13932 0 1
+/./html/bunker-hill.html 1 11103 0 0
+/./html/milberger.html 1 11677 0 0
+/./html/hours.html 1 7046 0 1
+/api/.env 1 11755 1 1
+/magento_version 2 23517 1 1
+/wp-content/plugins/index.php 1 0 1 1
+/./html/events.html 1 19118 1 0
+/php/login.php 8 94029 3 5
+/./html/fairport.html 1 11016 1 0
+/resetpass 4 3136 0 1
+END_SIDER

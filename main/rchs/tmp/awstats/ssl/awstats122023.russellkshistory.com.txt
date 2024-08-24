@@ -1,0 +1,2859 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202312 will be lost/reset.
+# Last config file used to build this data file was /home3/russems1/tmp/awstats/ssl/awstats.russellkshistory.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2022                
+POS_TIME 2706                
+POS_VISITOR 58901               
+POS_DAY 100965              
+POS_DOMAIN 3675                
+POS_LOGIN 4502                
+POS_ROBOT 4657                
+POS_WORMS 6647                
+POS_EMAILSENDER 6778                
+POS_EMAILRECEIVER 6921                
+POS_SESSION 101894              
+POS_SIDER 102107              
+POS_FILETYPES 7056                
+POS_DOWNLOADS 7400                
+POS_OS 7806                
+POS_BROWSER 8650                
+POS_SCREENSIZE 17489               
+POS_UNKNOWNREFERER 17563               
+POS_UNKNOWNREFERERBROWSER 19880               
+POS_ORIGIN 20709               
+POS_SEREFERRALS 20858               
+POS_PAGEREFS 21167               
+POS_SEARCHWORDS 22074               
+POS_KEYWORDS 22365               
+POS_MISC 2369                
+POS_ERRORS 22553               
+POS_CLUSTER 4358                
+POS_SIDER_404 22768               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240101000549 582 163878 17960247100074
+FirstTime 20231201001358
+LastTime 20231231211545
+LastUpdate 20240101051951 582 0 581 0 0
+TotalVisits 1372                
+TotalUnique 972                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 1116                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 64 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 93 370 26186570 165 340 928912
+1 111 174 2079563 356 466 10083066
+2 124 191 3365915 350 498 1250324
+3 180 411 6355880 269 477 8001492
+4 177 392 10184093 578 1064 6485339
+5 77 145 3465806 197 402 1714150
+6 181 432 45542522 173 339 1036196
+7 133 690 59795274 108 343 11880339
+8 97 760 34379357 172 399 6700328
+9 123 679 19912152 203 385 11393703
+10 150 842 66784789 299 622 11940844
+11 141 812 53812205 262 534 31110487
+12 157 772 26932990 221 471 1204539
+13 88 923 36064096 165 468 2538640
+14 110 639 17034601 184 424 3039459
+15 115 740 31391324 116 450 12349002
+16 98 350 17921892 90 434 50316209
+17 153 775 28014627 441 826 811725
+18 176 801 41142500 220 566 765363
+19 100 426 13781536 140 408 708911
+20 233 611 14935567 304 535 1718847
+21 99 396 10378306 163 389 31467008
+22 89 294 9495039 152 272 898657
+23 81 224 6735189 81 203 1793073
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 43
+us 2390 11761 543976305
+ca 163 164 1451691
+cn 138 202 15163184
+de 73 149 3250356
+jp 50 56 726169
+in 47 57 639038
+gb 40 72 1134627
+ru 34 46 338967
+ir 31 31 132980
+cl 27 27 131861
+pl 24 24 94242
+se 14 15 138998
+dk 11 21 731137
+bg 9 10 53522
+nl 5 7 86863
+ua 2 2 22519
+gr 2 15 157532
+lv 2 3 122513
+kr 2 13 416386
+ro 2 2 16315
+jo 2 2 5056
+zz 2 94 4939769
+hn 1 1 5056
+ie 1 1 19234
+fr 1 7 98217
+ae 0 1 74163
+sg 0 4 5444
+ma 1 1 5056
+my 1 1 19234
+ng 1 45 1928052
+au 0 1 73270
+bz 1 1 5056
+vn 1 1 5056
+sa 1 1 19234
+ao 1 1 0
+eg 0 1 46044
+it 1 2 20595
+at 1 1 5056
+be 1 1 5056
+ph 1 1 19234
+za 1 2 77106
+ee 1 1 3309
+br 0 1 113919
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 48
+Googlebot/ 877 72607501 20231231231220 0
+bingbot/ 536 13286066 20231231171753 0
+spider 485 5681397 20231231041906 0
+feed 443 4635566 20231231113033 0
+Applebot/ 380 2829329 20231231190920 0
+crawl 125 2511473 20231231235055 0
+bot[\s_+:,\.\;\/\\-] 121 2310691 20231228204551 0
+baidu 102 5653852 20231231024346 0
+no_user_agent 68 1500170 20231231225610 0
+Go\-http\-client/ 56 1144810 20231231135901 0
+Googlebot\-Image/ 53 500745 20231231194200 0
+facebookexternalhit/ 49 70466866 20231231212130 0
+robot 48 176674 20231205052003 0
+DuckDuckGo\-Favicons\-Bot/ 40 202240 20231231221729 0
+nbot 33 2510974 20231222200044 0
+(firefox/)([0-9]\.|[0-1][0]\.) 33 188211 20231231203445 0
+YandexBot/ 30 196558 20231227222352 0
+Lightspeed 26 98449 20231210093308 0
+DomainStatsBot/ 24 294491 20231203130232 0
+seek 24 313725 20231216221320 0
+AdsBot\-Google[\x20]\( 21 104678 20231221054751 0
+Mail\.RU_Bot/ 15 75840 20231231061119 0
+Baiduspider/ 12 21109949 20231231024339 0
+Konqueror/ 11 151569 20231222064952 0
+Apache\-HttpClient/ 8 10112 20231217194736 0
+archive\.org_bot 1 11744 20231216120319 0
+yandex 7 94112 20231215015429 0
+Googlebot\-Mobile/ 1 11746 20231208131251 0
+unknown 1 26 20231223232223 1
+blog 1 41565 20231224003654 0
+LinkCheck 2 7446 20231225072722 0
+link 7 951 20231215043459 0
+Googlebot\-News 3 15115 20231216120357 0
+FirePHP/ 1 951 20231214071517 0
+Googlebot\-Video/ 1 11749 20231215172132 0
+MojeekBot 3 10882 20231227110348 0
+[\s_+:,\.\;\/\\-]bot 5 21798 20231227220700 0
+CFNetwork 1 306652 20231208114950 0
+Velen 2 6822 20231230180045 0
+scrapy 2 10112 20231228155004 0
+DuckDuckBot-Https 4 20224 20231225174943 0
+SurdotlyBot/ 3 15168 20231228100802 0
+Wget/ 1 11743 20231215172156 0
+Pinterestbot 3 8829 20231227135301 0
+validator 1 843 20231215172144 0
+Yahoo![\x20]Slurp 4 25255 20231222205032 0
+java 3 12502 20231217191513 0
+Exabot/ 1 5056 20231216233650 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+txt 15 35838 0 0
+jpg 1768 215916075 0 0
+php 19 433900 0 0
+aspx 11 129376 0 0
+js 1718 23602695 0 0
+json 22 259398 0 0
+pdf 27 232603899 0 0
+esp 9 105843 0 0
+gif 4761 3529424 0 0
+png 616 78504051 0 0
+html 3011 19094455 0 0
+Unknown 14 461064 0 0
+svg 9 106016 0 0
+css 849 1495387 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 10
+/RCHS_Spring23--ReaderSpreads.pdf 17 3 169441305
+/RCHS_Spring2022.pdf 9 0 94787109
+//wp-includes/ID3/license.txt 7 0 9527
+/wp-includes/ID3/license.txt 6 0 2778
+/Membership_Donor.pdf 6 0 1802244
+/RCHS_FALL21_Comp.pdf 6 0 113565078
+/Fall22RCHS.pdf 4 0 21271008
+/Membership--Donor-Form-2019.pdf 1 0 54661
+/CHANGELOG.txt 1 0 11764
+/core/CHANGELOG.txt 1 0 11769
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 53
+androidnougat 75 20
+ios_iphone 2498 267
+androideclair 2 0
+ios_ipad 149 87
+winphone 4 1
+unix 322 23
+sunos 1 0
+winxp 109 12
+android 237 13
+bsdfreebsd 4 0
+androidics 2 1
+symbian 4 0
+androidcupcake 3 0
+macosx14 54 48
+bsdopenbsd 1 0
+os/2 1 0
+winlong 81 30
+androidpie 134 9
+linux 363 168
+macosx10 18 15
+j2me 3 0
+macosx5 2 0
+androidoreo 4 1
+androidfroyo 1 0
+android10 1498 97
+macosx8 7 1
+androiddonut 2 0
+macosx12 2 1
+linuxdebian 1 0
+win7 356 193
+macosx6 3 2
+androidjellybean 2 1
+win8 19 15
+win95 1 0
+linuxubuntu 72 13
+macosx15 1082 288
+win98 3 0
+win10 4542 867
+androidmarshmallow 47 1
+winunknown 1 0
+win2000 1 0
+macosx7 6 4
+androidkitkat 4 0
+win2003 1 0
+blackberry 1 0
+Unknown 786 686
+linuxcentos 1 1
+macosx11 209 99
+bsdnetbsd 1 0
+macosx13 6 6
+macosx9 47 44
+macosx 35 32
+win8.1 44 40
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 416
+firefox24.0 1 0
+safari14.0.2 4 0
+safari10.0 47 2
+chrome19.0.1063.0 1 0
+chrome78.0.2740.147 2 2
+sonyericsson 7 0
+chrome84.0.4112.0 1 1
+chrome45.0.2454.85 1 1
+chrome106.0.0.0 14 14
+chrome15.0.874.120 1 0
+chrome71.0.2409.45 2 2
+chrome64.0.3282.39 1 0
+edge13 4 1
+opera103.0.0. 1 1
+firefox33.0 1 1
+chrome17.0.963.56 3 3
+chrome76.0.3809.89 1 0
+chrome63.0.2409.147 2 2
+chrome79.0.2165.20 2 2
+chrome84.0.4147.135 3 3
+safari17.2.1 85 6
+chrome69.0.3118.127 1 1
+chrome67.0.3394.137 2 2
+chrome65.0.3519.22 2 2
+safari14.0.3 6 0
+firefox57.0 1 1
+chrome119.0.6045.199 50 2
+chrome86.0.4240.75 64 59
+chrome90.0.4430.212 1 1
+chrome98.0.4758.101 1 0
+chrome15.0.874.54 1 1
+chrome100.0.4896.75 6 4
+chrome45.0.2454.93 1 1
+firefox88.0 18 6
+msie7.0 58 6
+firefox77.0 1 1
+iceweasel 1 0
+msie11 1 1
+chrome68.0.3440.84 8 8
+opera10.10 1 0
+chrome17.0.963.12 1 1
+firefox35.0 2 1
+chrome51.0.2704.84 1 0
+chrome98.0.4758.80 2 0
+chrome64.0.3282.119 1 0
+chrome101.0.4951.61 9 0
+chrome71.0.2985.64 2 2
+chrome99.0.4844.74 2 0
+chrome69.0.3497.81 1 1
+chrome119.0.0.0 1439 83
+chrome103.0.5056.0 1 0
+chrome72.0.2067.60 2 2
+msie9.0 128 75
+firefox120.0 193 11
+chrome68.0.3482.26 2 2
+chrome66.0.3359.139 13 13
+chrome18.6.872.0 1 0
+chrome111.0.5563.116 30 2
+mozilla 216 124
+chrome79.0.3945.79 29 1
+chrome51.0.2704.106 5 4
+nokia 4 1
+opera86.0.4363.59 2 0
+chrome71.0.3318.73 2 2
+chrome100.0.4758.11 1 1
+safari17.2 104 3
+chrome41.0.2228.0 1 1
+chrome17.0.939.0 1 0
+chrome68.0.3440.106 4 4
+chrome50.0.2661.102 1 1
+safari6.0 1 1
+chrome60.0.3112.107 13 12
+chrome100.0.4896.133 2 0
+chrome119.0.6045.193 46 1
+chrome89.0.4389.114 6 6
+chrome72.0.3930.32 2 2
+chrome99.100.4896.127 1 1
+safari6.0.2 1 0
+firefox117.0 60 4
+firefox28.0 3 2
+opera10.50 1 1
+chrome99.0.4844.84 11 7
+chrome62.0.2987.19 2 2
+chrome89.0.4389.82 12 2
+chrome99.0.4844.94 2 1
+lg\- 1 0
+blackberry 1 0
+netscape7.1 1 0
+safari15.6.6 77 6
+safari17.0 41 4
+chrome22.0.1229.79 3 1
+galeon 2 0
+chrome72.0.3626.121 2 2
+chrome65.0.3325.181 1 0
+chrome89.0.4389.105 1 0
+chrome110.0.0.0 3 3
+chrome66.0.2786.104 2 2
+chrome85.0.4183.121 1 1
+chrome84.0.4147.105 15 15
+firefox63.0.3 1 1
+safari9.1.2 1 1
+chrome84.0.4147.89 3 3
+safari15.0 5 1
+chrome120.0.6099.130 45 1
+chrome101.0.4951.41 13 0
+chrome75.0.3770.100 1 0
+chrome51.0.2704.79 1 0
+safari16.3 76 4
+safari17.1.1 36 2
+opera12.14 1 0
+safari16.6 573 25
+chrome10.0.613.0 1 0
+chrome66.0.3733.65 2 2
+safari12.0 1 1
+chrome91.0.4472.101 45 1
+chrome77.0.3760.4 2 2
+chrome97.0.4280.67 3 3
+chrome36.0.1985.125 1 0
+safari2.0.1 2 0
+chrome72.0.3626.81 1 0
+chrome66.0.3359.117 4 4
+chrome104.0.0.0 67 67
+chrome84.0.4131.4 2 2
+chrome30.0.1599.82 1 0
+chrome72.0.3122.116 2 2
+chrome94.0.4606.81 12 6
+chrome30.0.1599.114 1 0
+chrome51.0.2704.103 1 0
+safari14.1.2 4 0
+chrome102.0.5005.40 1 0
+firefox11.0 2 0
+chrome43.0.2327.5 1 1
+chrome61.0.3812.122 2 2
+chrome63.0.2255.101 2 2
+chrome78.0.2347.64 2 2
+msie11.0 34 29
+chrome92.0.4515.107 2 2
+chrome64.0.2953.78 2 2
+chrome94.0.4606.71 1 0
+msie8.0 5 1
+chrome71.0.2623.112 2 2
+chrome79.0.2526.31 2 2
+chrome104.0.5112.34 10 10
+safari16.5.2 1 1
+opera14.0.1116.4 1 1
+chrome60.0.2349.59 2 2
+chrome69.0.3497.92 1 0
+safari9.0 15 1
+chrome95.0.4638.54 2 2
+chrome30.0.1599.103 1 0
+chrome111.0.0.0 2 2
+chrome102.0.0.0 1 1
+chrome101.0.4853.129 1 0
+itunes 1 0
+netscape5.0 7 7
+chrome62.0.2253.161 2 2
+chrome96.0.4664.110 46 45
+chrome97.0.4692.71 31 29
+chrome63.0.3445.69 2 2
+chrome76.0.3809.100 8 2
+firefox72.0 43 0
+chrome76.0.3809.87 1 0
+safari17.1 112 6
+chrome101.0.4951.64 2 0
+chrome79.0.3945.130 2 2
+firefox45.0 30 26
+firefox 7 7
+chrome43.0.2376.69 2 2
+safari7.0.6 1 0
+opera7.50 1 0
+android 12 1
+chrome35.0.1916.47 43 43
+firefox52.0 205 96
+chrome58.0.3029.110 26 22
+chrome113.0.0.0 18 15
+safari15.1 1 0
+safari15.5 2 1
+chrome68.0.3403.169 2 2
+firefox121.0 31 3
+chrome80.0.3987.162 2 2
+chrome39.0.2171.95 13 13
+iphone 7 5
+chrome66.0.3359.181 2 0
+chrome76.0.3809.111 5 1
+chrome77.0.3993.134 2 2
+chrome100.0.4896.147 1 0
+chrome84.0.4147.136 61 6
+chrome33.0.1750.152 1 0
+chrome103.0.5060.53 3 3
+safari5.0.4 1 1
+chrome115.0.0.0 142 10
+chrome66.0.3359.30 46 1
+chrome87.0.4280.88 2 0
+opera78.5.4143.75924 45 1
+chrome100.0.4896.60 2 2
+chrome117.0.5938.132 74 2
+chrome5.0.310.0 1 0
+firefox15.0 1 1
+chrome95.0.846.563 1 0
+firefox54.0 47 20
+safari13.0.3 153 153
+chrome77.0.3436.56 2 2
+chrome108.0.0.0 51 51
+chrome78.0.3904.70 46 1
+chrome63.0.3101.196 2 2
+chrome87.0.4280.101 1 0
+chrome85.0.4183.83 1 1
+chrome73.0.3982.132 2 2
+opera86.0.4363.50 1 0
+chrome61.0.3905.94 2 2
+firefox114.0 99 99
+chrome63.0.3194.34 2 2
+edge12 1 0
+safari12.1.12 2 2
+chrome120.0.6099.28 45 1
+chrome101.0.4951.26 1 0
+chrome83.0.4103.61 6 2
+chrome98.0.4758.119 1 0
+chrome79.0.3945.93 1 1
+chrome60.0.2802.14 2 2
+chrome75.0.3770.142 2 1
+firefox47.0 3 1
+opera89.0.4447.51 25 25
+chrome99.0.4883.82 1 1
+chrome64.0.3843.167 2 2
+seamonkey 1 0
+firefox25.0 1 0
+chrome26.0.1410.63 3 0
+safari8.0 1 0
+netscape2.02 1 0
+chrome104.0.5112.79 11 1
+chrome109.0.0.0 96 14
+chrome28.0.1469.0 1 1
+chrome65.0.2559.52 2 2
+chrome117.0.0.0 35 6
+chrome87.0.4280.66 2 1
+chrome87.0.4280.67 1 0
+chrome7.0.514.0 1 0
+chrome69.0.2209.27 2 2
+chrome76.0.3804.0 1 0
+safari1.2.2 1 0
+chrome60.0.3112.113 3 3
+chrome92.0.4515.162 1 0
+chrome74.0.3724.8 1 0
+chrome118.0.5993.155 81 5
+chrome96.0.4664.45 1 0
+chrome120.0.6099.109 11 1
+chrome67.0.3230.124 2 2
+chrome83.0.4103.97 18 18
+chrome31.0.1623.0 1 1
+chrome100.0.4896.82 1 1
+msie5.5 1 0
+firefox17.0 92 2
+chrome59.0.3071.125 1 0
+chrome81.0.4044.138 2 1
+chrome70.0.3538.25 1 1
+chrome65.0.3382.129 2 2
+opera9.64 2 0
+chrome80.0.3987.132 44 44
+chrome67.0.3786.115 2 2
+chrome74.0.3729.169 63 60
+chrome75.0.3770.80 1 0
+opera85.0.4341.22 1 0
+firefox119.0 2 2
+chrome75.0.3765.0 1 0
+chrome67.0.3102.174 2 2
+firefox21.0 5 1
+chrome71.0.3578.98 1 1
+firefox38.0 1 1
+chrome103.0.5060.114 2 2
+chrome25.0.1349.2 1 1
+safari16.0 62 13
+chrome62.0.3022.153 2 2
+chrome101.0.4951.54 5 0
+firefox46.0 1 0
+chrome75.0.3770.101 1 0
+opera9.80 1 0
+safari8.0.5 1 1
+opera60.0.3255.109 1 0
+chrome72.0.2415.127 2 2
+safari 408 17
+firefox85.0 1 1
+chrome71.0.3542.0 19 5
+chrome95.0.4638.69 8 0
+chrome92.0.4515.131 6 6
+safari11.0 1 0
+chrome91.0.4472.124 1 1
+chrome99.0.4844.51 6 3
+safari16.2 30 1
+chrome62.0.2093.169 2 2
+chrome79.0.3945.88 1 1
+firefox83.0 1 1
+chrome89.0.4389.90 1 1
+chrome116.0.0.0 107 32
+safari12.1.2 85 85
+safari16.4 3 3
+firefox16.0 1 1
+chrome67.0.2471.42 2 2
+opera36.0.2130.46 1 0
+opera12.16 3 0
+safari7.0 2 1
+chrome69.0.3111.19 2 2
+chrome53.0.2785.143 1 1
+chrome41.0.2224.3 1 0
+chrome86.0.4240.183 3 1
+chrome91.0.4472.77 4 0
+chrome79.0.3972.56 2 2
+chrome62.0.3191.0 3 1
+edge18 1 1
+chrome63.0.3239.84 2 2
+chrome4.0.277.0 1 0
+opera28.0.1750.51 1 0
+firefox20.0 4 0
+firefox115.0 19 9
+firefox111.0 1 1
+chrome57.0.2987.133 2 1
+chrome99.0.4844.83 2 2
+chrome75.0.3532.122 2 2
+msie10.0 2 2
+safari17.1.2 1197 45
+opera85.0.4341.75 2 0
+chrome48.0.2564.116 1 0
+iceape 1 0
+chrome74.0.3729.157 41 40
+chrome30.0.1599.101 1 0
+chrome105.0.0.0 13 13
+chrome69.0.3236.54 2 2
+safari5.1 1 1
+chrome88.0.4324.96 1 1
+chrome62.0.2284.170 2 2
+chrome77.0.2629.159 2 2
+chrome73.0.3426.188 2 2
+chrome88.0.4324.182 2 1
+firefox91.0 4 3
+lynx 1 1
+chrome118.0.0.0 102 8
+epiphany 1 0
+safari5.1.3 1 0
+chrome120.0.0.0 3191 143
+chrome91.0.4472.114 88 26
+chrome80.0.3947.0 1 1
+chrome19.0.1084.56 1 0
+chrome84.0.4115.0 1 1
+chrome101.0.4951.67 2 0
+chrome120.0.6099.43 5 0
+chrome103.0.5060.66 1 1
+chrome71.0.3608.166 2 2
+chrome11.0.696.65 2 0
+chrome92.0.4515.159 1 0
+chrome98.0.4758.141 1 0
+chrome106.0.5249.126 29 1
+chrome75.0.2315.193 2 2
+safari4.0 3 0
+chrome65.0.3030.168 2 2
+chrome61.0.3075.163 2 2
+chrome83.0.1667.0 1 1
+Unknown 629 627
+chrome77.0.3865.18 1 1
+chrome98.0.4758.136 1 0
+firefox68.0 3 3
+portalmmm 1 0
+opera6.03 1 1
+chrome80.0.3987.149 11 11
+chrome51.0.2704.22 1 0
+chrome103.0.0.0 5 3
+firefox36.0 2 1
+chrome56.0.2924.87 6 2
+safari16.5.1 109 7
+chrome100.0.4896.143 1 0
+chrome68.0.3531.196 2 2
+chrome59.0.3071.115 4 1
+chrome100.0.4895.86 2 2
+chrome10.0.648.204 1 0
+chrome63.0.2803.7 2 2
+safari13.4.1 1 1
+chrome100.0.4896.127 114 18
+chrome45.0.2454.94 1 0
+firefox104.0 11 11
+chrome96.0.4664.55 1 1
+firefox45.9 1 0
+opera84.0.4316.42 1 0
+chrome67.0.3500.164 2 2
+chrome60.0.3856.139 2 2
+chrome75.0.3770.145 1 0
+chrome78.0.2036.134 2 2
+chrome118.0.5993.88 45 1
+msie6.0 7 3
+chrome78.0.3904.108 15 14
+chrome53.0.2785.90 1 0
+firefox102.0 1 1
+chrome112.0.0.0 60 9
+chrome75.0.2980.195 2 2
+chrome71.0.3405.110 2 2
+chrome100.0.4896.88 5 4
+chrome75.0.3770.143 1 1
+chrome69.0.3628.158 2 2
+chrome60.0.3112.90 29 1
+safari14.1 1 0
+safari10.1.2 1 0
+chrome79.0.2361.177 2 2
+chrome98.0.4758.102 4 2
+chrome70.0.3538.77 4 3
+chrome22.0.1229.56 1 1
+chrome81.0.4044.129 1 1
+safari4.0.5 1 1
+chrome95.0.4638.74 1 1
+chrome88.0.4240.193 2 2
+opera62.0.3331.116 1 0
+chrome114.0.0.0 160 160
+safari16.1 3 0
+safari16.5 62 3
+chrome102.0.4972.0 1 0
+chrome47.0.2526.73 1 0
+chrome64.0.2201.53 2 2
+chrome4.0.249.0 1 0
+chrome52.0.2743.116 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 32
+Chrome/66.0.3359.181 20231221143537
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20231231205008
+Lynx/2.9.0dev.5_libwww-FM/2.14_SSL-MM/1.4.1_GNUTLS/3.6.13 20231213153409
+Chrome 20231230180510
+Avant_Browser/1.2.789rel1_(http://www.avantbrowser.com) 20231216120344
+Mozilla/5.0_zgrab/0.x 20231213083150
+aria2/1.36.0 20231204104931
+fasthttp 20231208173119
+Buck/2.3.2;_(_https://app.hypefactors.com/media-monitoring/about.html) 20231231194515
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20231222143914
+Nokia7250/1.0_(3.14)_Profile/MIDP-1.0_Configuration/CLDC-1.0 20231202101158
+Python/3.8_aiohttp/3.9.1 20231226033218
+WordPress/6.4.2;_https://nexttoexplore.com 20231216053033
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20231229192649
+KOCMOHABT_(https://kozmonavt.su/)_Mozilla/5.0_(Web_Explorer) 20231220071812
+ClaudeBot 20231204112953
+Mozilla/5.0_(MeeGo;_NokiaN950-00/00)_AppleWebKit/534.13_(KHTML,_like_Gecko)_NokiaBrowser/8.5.0_Mobile_Safari/534.13 20231222064947
+SonyEricssonW660i/R6AD_Browser/NetFront/3.3_Profile/MIDP-2.0_Configuration/CLDC-1.1 20231209071652
+SonyEricssonT610/R201_Profile/MIDP-1.0_Configuration/CLDC-1.0 20231213144833
+SonyEricssonS500i/R6BC_Browser/NetFront/3.3_Profile/MIDP-2.0_Configuration/CLDC-1.1 20231214103424
+Mozilla/5.0_Firefox/35.0 20231224013439
+Nokia6230/2.0_(04.44)_Profile/MIDP-2.0_Configuration/CLDC-1.1 20231214061749
+SonyEricssonW995/R1EA_Profile/MIDP-2.1_Configuration/CLDC-1.1_UNTRUSTED/1.0 20231214061821
+portalmmm/2.0_N410i(c20;TB) 20231214071454
+LG-GC900/V10a_Obigo/WAP2.0_Profile/MIDP-2.1_Configuration/CLDC-1.1 20231204214807
+Mozilla/5.0_(compatible;_Dataprovider.com) 20231219060304
+Mozilla/5.0_(compatible;_Yeti/1.1;__https://naver.me/spd) 20231222173243
+scalaj-http/2.4.2 20231231193802
+udu/1.6.5 20231213194819
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20231228124851
+Mozilla/5.0_(compatible;_Example3/1.0;__https://www.example3.com/domain/russellkshistory.org) 20231219173030
+SonyEricssonT68/R201A 20231224015536
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 12
+udu/1.6.5 20231213194819
+scalaj-http/2.4.2 20231231193802
+Buck/2.3.2;_(_https://app.hypefactors.com/media-monitoring/about.html) 20231231194515
+ClaudeBot 20231204112953
+aria2/1.36.0 20231204104931
+Chrome 20231230180510
+Python/3.8_aiohttp/3.9.1 20231226033218
+Avant_Browser/1.2.789rel1_(http://www.avantbrowser.com) 20231216120344
+WordPress/6.4.2;_https://nexttoexplore.com 20231216053033
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20231229192649
+Microsoft_URL_Control_-_6.00.8862 20231206043747
+fasthttp 20231208173119
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2096 2706
+From1 12 13
+From2 232 353
+From3 62 63
+From4 684 9717
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 9
+search 2 2
+www_bing_com 17 23
+www_google_co_za 0 1
+images_search_yahoo_com 0 1
+search_yahoo_com 4 4
+duckduckgo 8 10
+www_google_com 199 307
+aolcom 1 1
+google_com 1 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 18
+https://www.krsl.com 11 11
+https://highlifemagazine.net 10 10
+http://mail.russellkshistory.com 8 8
+https://www.russellcountyks.org 6 6
+http://russellkshistory.org 5 5
+https://krsl.com 4 4
+https://www.travelks.com 4 4
+https://www.krsl.com 2 2
+http://toptenerifehotels.com 2 2
+https://www.kansasi70.com 2 2
+https://www.travelks.com/listing/heym-oliver-house/11844/ 2 2
+https://www.krsl.com/local/lucas-teen-injured-sunday-car-versus-deer-crash-lincoln-county 1 1
+https://www.travelks.com/listing/russell-county-historical-society/17066/ 1 1
+https://experience.arcgis.com/experience/3f22e12038c142e68b5b20256b9374d1/page/City-Attractions/ 1 1
+https://www.paypal.com 1 1
+http://mail.russellkshistory.com 1 1
+https://ceoafrica.com 1 1
+https://www.haikyr.shop 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+https+//russellkshistory.com/ 1
+https+//russellkshistory.com/html/oil-patch-museum.html 1
+https+//russellkshistory.com/html/russell.html 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 4
+https 3
+//russellkshistory.com/html/russell.html 1
+//russellkshistory.com/html/oil-patch-museum.html 1
+//russellkshistory.com/ 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 12
+403 11 1474
+503 164 0
+206 2 386328
+409 92 7553
+500 232 0
+302 1 0
+401 61 2849
+404 5153 0
+400 170 7800
+421 1 322
+308 13 1260
+406 963 209050
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 755
+/wp-includes/customize/ 2 www.google.com
+/wp-admin/css/colors/coffee/cloud.php 5 -
+/old2 2 -
+/wp-admin/network/xmrlpc.php 5 -
+/wp-admin/maint/moon.php 6 http://russellkshistory.com//wp-admin/maint/moon.php
+/templates/beez3/wp.-.admin.php 1 -
+/wp-includes/wp-class.php 5 http://russellkshistory.com//wp-includes/wp-class.php
+/bak 3 http://mail.russellkshistory.com/bak
+/fm1.php 2 -
+/html/gernon-house-museum.html/robots.txt 1 -
+/xlettt.php 2 http://russellkshistory.com//xlettt.php
+/wp-admin/includes/ 1 www.google.com
+/class_api.php 3 -
+/my1.php 5 http://russellkshistory.com//my1.php
+/wp-content/plugins/Cache/Cache.php 7 -
+/utchiha_uploader.php 2 http://russellkshistory.com//utchiha_uploader.php
+/wp-includes/js/crop/ 1 www.google.com
+/zm/index.php 1 -
+/wp-admin/css/ 13 binance.com
+/plugins.php 3 http://russellkshistory.com//plugins.php
+/wp-admin/alfa.php 2 http://russellkshistory.com//wp-admin/alfa.php
+/wp-admin/js/widgets/about.php7 4 -
+/sym.php 2 http://russellkshistory.com//sym.php
+/xx.php 2 http://russellkshistory.com//xx.php
+/wp-content/plugins/revslider/includes/external/page/index.php 2 http://russellkshistory.com//wp-content/plugins/revslider/includes/external/page/index.php
+/options-reading.php 1 -
+/wp-admin/images/xmrlpc.php 5 -
+/cgi-bin/cloud.php 5 -
+/misc/drupal.js 4 -
+/WordPress 3 http://mail.russellkshistory.com/WordPress
+/wsoyanz.php 4 -
+/cp.php 3 http://russellkshistory.com//cp.php
+/wp-admin/1975.php 2 http://russellkshistory.com//wp-admin/1975.php
+/modules/ 1 www.google.com
+/ee.php 9 http://russellkshistory.com//ee.php
+/new 6 http://mail.russellkshistory.com/new
+/wp-admin/wp-22.php 2 http://russellkshistory.com//wp-admin/wp-22.php
+/owa/auth/logon.aspx 16 -
+/tmpshell.php 2 http://russellkshistory.com//tmpshell.php
+/.git/config 7 -
+/themes.php/wp-includes/css/dist/editor/fxp.php 1 -
+/wp-blog.php 3 http://russellkshistory.com//wp-blog.php
+/home.php 2 http://russellkshistory.com//home.php
+/component-init.php 2 -
+/credits.php 2 http://russellkshistory.com//credits.php
+/assets/plugins/filemanager/dialog.php 1 -
+/cgi-bin/install.php 6 http://russellkshistory.com//cgi-bin/install.php
+/wp-admin/maint/ 1 www.google.com
+/mailto:info@mehmarketing.com 1 -
+/lalala.php 2 http://russellkshistory.com//lalala.php
+/wikindex.php 1 http://russellkshistory.com//wikindex.php
+/assets/ 1 www.google.com
+/wp-content/wp-conf.php 2 http://russellkshistory.com//wp-content/wp-conf.php
+//feed/ 7 -
+/anon.php 2 http://russellkshistory.com//anon.php
+/wp-admin/css/colors/blue/xmrlpc.php 5 -
+/minishell.php 2 http://russellkshistory.com//minishell.php
+/wp-content/themes/gaukingo/db.php 2 http://russellkshistory.com//wp-content/themes/gaukingo/db.php
+/cms/manage/style/calendar.css 1 -
+/WWW 3 http://mail.russellkshistory.com/WWW
+/vendor/phpunit/phpunit/src/Util/PHP/ 1 www.google.com
+/cloud.php 6 -
+/ai.txt 10 -
+/wp-includes/ 5 -
+/../html/attractions.html 8 -
+/wp-content/plugins/WordPressCore/include.php 5 -
+/wp-content/plugins/dzs-zoomsounds/1877.php 3 http://russellkshistory.com/wp-content/plugins/dzs-zoomsounds/1877.php
+/humans.txt 8 http://russellkshistory.com/humans.txt
+/503.php 2 http://russellkshistory.com//503.php
+/Www 3 http://mail.russellkshistory.com/Www
+/wp-includes/rest-api/ 1 www.google.com
+/OLDSITE 2 -
+/lock360.php 2 http://russellkshistory.com//lock360.php
+/customize.php 3 http://russellkshistory.com//customize.php
+/html/nof-carousel-nav-right-dk.png 1 -
+/wp-admin/network/subjects.php 2 http://russellkshistory.com//wp-admin/network/subjects.php
+/cgi-bin/xmrlpc.php 5 -
+/wp-includes/Text/Diff/Renderer/ 1 www.google.com
+/admin/filemanager/dialog.php 1 -
+/Wp 3 http://mail.russellkshistory.com/Wp
+/New 3 http://mail.russellkshistory.com/New
+/wp-includes/fw.php 2 http://russellkshistory.com//wp-includes/fw.php
+/Telerik.Web.UI.WebResource.axd 2 -
+/images/xmrlpc.php 5 -
+/404_icon.png 1 -
+/wp-json/wp/v2/users/1 1 -
+/wp-includes/js/tinymce/plugins/compat3x/css/index.php 7 http://russellkshistory.com//wp-includes/js/tinymce/plugins/compat3x/css/index.php
+/wp-admin/images/cloud.php 5 -
+/.well-known/tdmrep.json 10 -
+/wp-content/plugins/masterx/wpx.php 1 http://russellkshistory.com//wp-content/plugins/masterx/wpx.php
+/updates.php 7 -
+/01.php 1 http://russellkshistory.com//01.php
+/sftp-config.json 3 -
+/ms.php 1 www.google.com
+/wp-includes/customize/wp-login.php 2 http://russellkshistory.com//wp-includes/customize/wp-login.php
+/fw.php 3 http://russellkshistory.com//fw.php
+/global-protect/login.esp 15 -
+/snd.php 2 http://russellkshistory.com//snd.php
+/contract.php 1 http://russellkshistory.com/contract.php
+/DKIZ.php 2 http://russellkshistory.com//DKIZ.php
+/images/vuln.php 2 http://russellkshistory.com//images/vuln.php
+/templates/beez3/error.php 2 http://russellkshistory.com//templates/beez3/error.php
+/st.php 5 http://russellkshistory.com//st.php
+/classwithtostring.php 7 -
+/magento_version 2 -
+/test 5 http://mail.russellkshistory.com/test
+/wp-content/plugins/press/wp-class.php 2 -
+/old_files 2 -
+/../html/mission.html 11 -
+/hehe.php 2 http://russellkshistory.com//hehe.php
+/inbox.php 2 http://russellkshistory.com//inbox.php
+/wp.-.admin.php 1 -
+/../html/towns.html 7 -
+/job 1 -
+/alfanew2.php7 3 -
+/.well-known/acme-challenge/xmrlpc.php 5 -
+/default.php 3 http://russellkshistory.com//default.php
+/up.php 2 http://russellkshistory.com//up.php
+/apple-touch-icon-120x120-precomposed.png 4 -
+/wp-content/install.php 6 http://russellkshistory.com//wp-content/install.php
+/Site/ 1 www.google.com
+/html/nof-carousel-nav-left-lt.png 1 -
+/libraries/wp.-.admin.php 1 -
+/simple.php 12 http://russellkshistory.com/simple.php
+/../html/gernon-house-museum.html 9 -
+/main 6 http://mail.russellkshistory.com/main
+/resources/js/tinymce/plugins/filemanager/dialog.php 1 -
+/wp-includes/Requests/ 1 www.google.com
+/1337.php 2 http://russellkshistory.com//1337.php
+/SHOP 3 http://mail.russellkshistory.com/SHOP
+/theme-install.php 2 http://russellkshistory.com//theme-install.php
+/wp-content/plugins/TOPXOH/wDR.php 4 http://russellkshistory.com//wp-content/plugins/TOPXOH/wDR.php
+/sample.php 2 www.google.com
+/wp-admin/xmrlpc.php 5 -
+/assets/admin/js/tinymce/plugins/filemanager/dialog.php 1 -
+/text.php 4 -
+/wp-content/themes/twentyseventeen/page/index.php 1 http://russellkshistory.com//wp-content/themes/twentyseventeen/page/index.php
+/wp-admin/repeater.php 4 -
+/wp-admin/css/colors/coffee/about.php 1 -
+/wp-content/auto_seo.php 4 -
+/wp-login.php 205 -
+/wp-2020.php 1 http://russellkshistory.com//wp-2020.php
+/../html/gorham.html 8 -
+/wp-content/repeater.php 4 -
+/a 9 -
+/admin/.env 2 -
+/font-editor.php 2 http://russellkshistory.com//font-editor.php
+/mass.php 2 http://russellkshistory.com//mass.php
+/jquery.js 69 -
+/.vscode/sftp.json 3 -
+/wp-includes/customize/termps.php 1 -
+/html/engine1/style.css 462 http://www.google.com/url
+/html/nof-carousel-nav-down-lt.png 1 -
+/license.php 2 http://russellkshistory.com//license.php
+/common/admin/Jobs2/Telerik.Web.UI.DialogHandler.aspx 2 -
+/assets/tinymce/plugins/filemanager/dialog.php 1 -
+/wp-admin/includes/wp-login.php 2 http://russellkshistory.com//wp-admin/includes/wp-login.php
+/wp-includes/block-supports/ 2 www.google.com
+/html/zqxjSMsqXMrppA.html 1 -
+/wp-content/plugins/mw-wp-form/css/admin-common.css 2 -
+/2022 3 http://mail.russellkshistory.com/2022
+/html/nof-carousel-nav-up-dk.png 1 -
+/home 5 http://mail.russellkshistory.com/home
+/wp-includes/Requests/Text/4price3.php 1 -
+/wp-admin/user/wp-login.php 2 http://russellkshistory.com//wp-admin/user/wp-login.php
+/img/xmrlpc.php 5 -
+/themes.php 2 http://russellkshistory.com//themes.php
+/html/waldo.html../assets/jquery.js 2 http://russellkshistory.com
+/wp-includes/PHPMailer/ 1 www.google.com
+/wp-admin/ajax-actions.php 4 -
+/wp-includes/Text/Diff/termps.php 1 -
+/Images/Editor/Editor.gif 1 -
+/css/tips.css 2 -
+/z.php 2 http://russellkshistory.com//z.php
+/wp-admin/js/widgets/xmrlpc.php 5 -
+/wp-includes/Requests/Text/votes.php 1 -
+/img/cloud.php 5 -
+/admin.php 8 -
+/yanz.php 4 -
+/srx.php 2 http://russellkshistory.com//srx.php
+/xzourt.php 2 http://russellkshistory.com//xzourt.php
+/wp-includes/pomo/ 2 www.google.com
+/tinyfilemanager/tinyfilemanager.php 1 -
+/Test 3 http://mail.russellkshistory.com/Test
+/App_Master/Telerik.Web.UI.DialogHandler.aspx 2 -
+/smm.php 1 http://russellkshistory.com//smm.php
+/wp-admin/fx.php 2 http://russellkshistory.com//wp-admin/fx.php
+/wp-content/fw.php 2 http://russellkshistory.com//wp-content/fw.php
+/staging 2 -
+/alfanew.php7 5 -
+/cgi-bin/wp-login.php 2 http://russellkshistory.com//cgi-bin/wp-login.php
+/wp-admin/js/about.php7 6 http://russellkshistory.com//wp-admin/js/about.php7
+/shellx.php 2 http://russellkshistory.com//shellx.php
+/wp-content/plugins/ccx/index.php 3 http://russellkshistory.com//wp-content/plugins/ccx/index.php
+/wp-includes/Text/Diff/ 1 www.google.com
+/wp-admin/css/colors/blue/cloud.php 5 -
+/2021 3 http://mail.russellkshistory.com/2021
+/shop 3 http://mail.russellkshistory.com/shop
+/global-protect/portal/css/login.css 15 -
+/columns.php 2 http://russellkshistory.com//columns.php
+/../html/fossil-station-museum.html 6 -
+/../html/hours.html 15 -
+/update-core.php 2 http://russellkshistory.com//update-core.php
+/d7.php 2 http://russellkshistory.com//d7.php
+/static/js/logging.js 1 -
+/wp-content/plugins/td-composer/license.txt 6 -
+/tesla.php 2 http://russellkshistory.com//tesla.php
+/wp-content/admin.php 1 www.google.com
+/filemanager/dialog.php 2 -
+/wp-admin/css/colors/cloud.php 5 -
+/ws.php 3 http://russellkshistory.com//ws.php
+/shell20211028.php 4 http://russellkshistory.com//shell20211028.php
+/js/comm.js 1 -
+/byp.php 2 http://russellkshistory.com//byp.php
+/html/nof-carousel-nav-down-dk.png 1 -
+/update.php 2 http://russellkshistory.com//update.php
+/utchiha.php 2 http://russellkshistory.com//utchiha.php
+/alfanew.php 5 -
+/wp-info.php 2 http://russellkshistory.com//wp-info.php
+/assets/admin/tinymce/plugins/filemanager/dialog.php 1 -
+/wp-content/plugins/real/v.php 2 http://russellkshistory.com//wp-content/plugins/real/v.php
+/wp-admin/network/cloud.php 5 -
+/wp-admin/css/colors/blue/CasperExV1.php 2 http://russellkshistory.com//wp-admin/css/colors/blue/CasperExV1.php
+/alfa.php 2 http://russellkshistory.com//alfa.php
+/4price3.php 1 -
+/wp-content/plugins/linkpreview/db.php 5 -
+/ALFA_DATA/ 2 www.google.com
+/SITE 3 http://mail.russellkshistory.com/SITE
+/template/ 1 www.google.com
+/../html/fairport.html 12 -
+/blog 5 http://mail.russellkshistory.com/blog
+/adminer.php 2 -
+/cache-compat.php 4 -
+/1.php 3 http://russellkshistory.com//1.php
+/wp-content/themes/pridmag/db.php 5 -
+/contents.php 2 http://russellkshistory.com//contents.php
+/wp-includes/images/smilies/ 1 www.google.com
+/wp-content/plugins/incache/front/incache.jpeg 1 -
+/root.php 2 http://russellkshistory.com//root.php
+/xl2023.php 3 http://russellkshistory.com//xl2023.php
+/wp-content/style-css.php 1 -
+/BLOG 3 http://mail.russellkshistory.com/BLOG
+/ch.php 2 http://russellkshistory.com//ch.php
+/old-site 5 http://mail.russellkshistory.com/old-site
+/wp-include/auto_seo.php 4 -
+/m.php 2 http://russellkshistory.com//m.php
+/wp-content/plugins/seoplugins/db.php 3 -
+/plugins/qqkf/qqkf2.js 1 -
+/DesktopModules/TelerikWebUI/RadEditorProvider/Telerik.Web.UI.DialogHandler.aspx 2 -
+/global-protect/portal/images/logo-pan-48525a.svg 15 -
+/wp-p.php7 4 -
+/css/install.php 6 http://russellkshistory.com//css/install.php
+/templates/protostar/updates.php 1 -
+/wp-includes/images/crystal/ 1 www.google.com
+/wp-includes/Requests/Proxy/ 1 www.google.com
+/apple-touch-icon-precomposed.png 191 -
+/wp-json/wp/v2/posts 3 -
+/about.php 7 -
+/wp-content/home.php 2 http://russellkshistory.com//wp-content/home.php
+/wp-l0gin.php 1 http://russellkshistory.com//wp-l0gin.php
+/alfanew.PHP7 1 -
+/wp-includes/Requests/Text/admin.php 5 -
+/dropdown.php 11 http://russellkshistory.com//dropdown.php
+/tinymce/filemanager/dialog.php 1 -
+/xmlrpc2.php 2 http://russellkshistory.com//xmlrpc2.php
+/wp-content/plugins/xsid/marijuana.php 2 http://russellkshistory.com//wp-content/plugins/xsid/marijuana.php
+/google.php 3 http://russellkshistory.com//google.php
+/cgi-bin/cgi-bin/about.php7 6 http://russellkshistory.com//cgi-bin/cgi-bin/about.php7
+/wp-content/alfa.php 2 http://russellkshistory.com//wp-content/alfa.php
+/NEW 3 http://mail.russellkshistory.com/NEW
+/indexs.php 2 http://russellkshistory.com//indexs.php
+/wp-includes/random_compat/random_bytes_cyclone.php 2 http://russellkshistory.com//wp-includes/random_compat/random_bytes_cyclone.php
+/wp-plugins.php 2 http://russellkshistory.com//wp-plugins.php
+/security.txt 10 http://www.russellkshistory.com/security.txt
+/1877.php 2 http://russellkshistory.com//1877.php
+/me.php 2 http://russellkshistory.com//me.php
+/DesktopModules/Admin/RadEditorProvider/DialogHandler.aspx 2 -
+/uploads/wp-blog.php 1 http://russellkshistory.com//uploads/wp-blog.php
+/wp-cron.php 1 -
+/alfa-rex.php7 5 -
+/mini.php 2 http://russellkshistory.com//mini.php
+/radio.php 9 www.google.com
+/admin/controller/extension/extension/Not_Found.php 1 http://russellkshistory.com//admin/controller/extension/extension/Not_Found.php
+/wp-content/uploads/2023/index.php 1 -
+/wp-content/plugins/fix/up.php 17 -
+/.tmb/termps.php 1 -
+/phpformbuilder/plugins/filemanager/dialog.php 1 -
+/lock.php 2 http://russellkshistory.com//lock.php
+/filemanager/filemanager/dialog.php 1 -
+/wp-includes/assets/ 1 www.google.com
+/wp-includes/class-json-ajax-session.php 2 http://russellkshistory.com//wp-includes/class-json-ajax-session.php
+/upl.php 4 http://russellkshistory.com//upl.php
+/libraries/vendor/updates.php 6 -
+/wp-includes/js/ 1 www.google.com
+/template/default/index/js/yunu.js 1 -
+/wp-includes/images/ 2 www.google.com
+/xmrlpc.php 5 -
+/cjfuns.php 5 http://russellkshistory.com//cjfuns.php
+/manifest.json 2 -
+/public/static/common/images/bag-imgB.jpg 1 -
+/admin/fckeditor/editor/filemanager/ 1 www.google.com
+/script.js 66 -
+/wp-content/plugins/wordpresss3cll/up.php 4 http://russellkshistory.com//wp-content/plugins/wordpresss3cll/up.php
+/sito 3 http://mail.russellkshistory.com/sito
+/clen.php 1 http://russellkshistory.com//clen.php
+/.well-known/acme-challenge/wp-login.php 2 http://russellkshistory.com//.well-known/acme-challenge/wp-login.php
+/wp-admin/js/about.php 11 http://russellkshistory.com//wp-admin/js/about.php
+/tron.php 2 http://russellkshistory.com//tron.php
+/406.php 2 http://russellkshistory.com//406.php
+/upload/ 1 www.google.com
+/html/engine1/jquery.js 429 http://www.google.com/url
+/wp-admin/shell20211028.php 3 http://russellkshistory.com//wp-admin/shell20211028.php
+/Gecko.php 2 http://russellkshistory.com//Gecko.php
+/tnt.php 2 http://russellkshistory.com//tnt.php
+/TEST 3 http://mail.russellkshistory.com/TEST
+/.well-known/apple-app-site-association 5 -
+/wp-content/dropdown.php 7 http://russellkshistory.com//wp-content/dropdown.php
+/wp-content/upload.php 1 http://russellkshistory.com//wp-content/upload.php
+/wp-admin/images/module.php 1 http://russellkshistory.com//wp-admin/images/module.php
+/user-new.php 2 http://russellkshistory.com//user-new.php
+/bc 6 http://mail.russellkshistory.com/bc
+/wp-content/plugins/augmented-reality/vendor/elfinder/php/connector.minimal.php 2 http://russellkshistory.com//wp-content/plugins/augmented-reality/vendor/elfinder/php/connector.minimal.php
+/c.php 1 http://russellkshistory.com//c.php
+/wp-admin/wp_filemanager.php 2 http://russellkshistory.com//wp-admin/wp_filemanager.php
+/wp-admin/css/colors/coffee/index.php 2 http://russellkshistory.com//wp-admin/css/colors/coffee/index.php
+/wp-content/plugins/anttt/simple.php 2 http://russellkshistory.com//wp-content/plugins/anttt/simple.php
+/wp-includes/js/tinymce/skins/lightgray/img/index.php 1 http://russellkshistory.com//wp-includes/js/tinymce/skins/lightgray/img/index.php
+/wp-content/plugins/backup-backup/admin/css/bmi-plugin.min.css 3 -
+/libraries/legacy/updates.php 6 -
+/2020 3 http://mail.russellkshistory.com/2020
+/general.php 4 www.google.com
+/wp-includes/php-compat/ 1 www.google.com
+/jobs 1 -
+/wp-content/plugins/classic-editor/wp-login.php 3 http://russellkshistory.com//wp-content/plugins/classic-editor/wp-login.php
+/wp-content/plugins/wp-schedule-engineer/index.php 1 -
+/wp-consar.php 4 -
+/wp-content/plugins/Cache/dropdown.php 8 http://russellkshistory.com//wp-content/plugins/Cache/dropdown.php
+/wordpress 8 http://mail.russellkshistory.com/wordpress
+/apple-touch-icon-152x152.png 166 -
+/wp-admin/home.php 2 http://russellkshistory.com//wp-admin/home.php
+/adminfuns.php7 3 -
+/sitemaps.xml 4 -
+/js/calendar/active-bg.gif 1 -
+/bala.php 2 http://russellkshistory.com//bala.php
+/html/nof-carousel-nav-left-dk.png 1 -
+/fan.php 2 http://russellkshistory.com//fan.php
+/wp-includes/js/500.php 1 -
+/old 6 http://mail.russellkshistory.com/old
+/Public/ 1 www.google.com
+/old1 2 -
+/shells.php 2 http://russellkshistory.com//shells.php
+/backup 8 http://mail.russellkshistory.com/backup
+/wp.php 2 http://russellkshistory.com//wp.php
+/cgi-bin/cgi-bin/about.php 6 http://russellkshistory.com//cgi-bin/cgi-bin/about.php
+/cgi-bin/ 1 www.google.com
+/sellers.json 1 -
+/bk 6 http://mail.russellkshistory.com/bk
+/wp-content/themes/classic/inc/ 1 www.google.com
+/user.php 2 http://russellkshistory.com//user.php
+/Telerik.Web.UI.DialogHandler.aspx 2 -
+/media-admin.php 3 http://russellkshistory.com//media-admin.php
+/marijuana.php 3 http://russellkshistory.com//marijuana.php
+/images/cloud.php 5 -
+/gaza.php 2 http://russellkshistory.com//gaza.php
+/wp-includes/block-patterns/ 1 www.google.com
+/xox.php 2 http://russellkshistory.com//xox.php
+/wp-content/themes/intense/block-css.php 2 -
+/contacts 1 -
+/wp-includes/js/crop/cropper.php 1 -
+/RCHS_Spring23--ReaderSpreads.pdf 1 https://duckduckgo.com/
+/./RestAPI/LogonCustomization 14 -
+/wp-includes/radio.php 1 http://russellkshistory.com//wp-includes/radio.php
+/cache/indexx.php 1 http://russellkshistory.com//cache/indexx.php
+/wp-admin/wp-trc.php 2 http://russellkshistory.com//wp-admin/wp-trc.php
+/modules/mod_simplefileuploadv1.3/elements/ 1 www.google.com
+/scripts/filemanager/dialog.php 1 -
+/ws.php7 3 -
+/wp-content/plugins/core-stab/casper.php 2 http://russellkshistory.com//wp-content/plugins/core-stab/casper.php
+/repeater.php 8 -
+/fm.php 4 -
+/leet.php 2 http://russellkshistory.com//leet.php
+/xxl.php 8 http://russellkshistory.com//xxl.php
+/Shop 3 http://mail.russellkshistory.com/Shop
+/wp-admin/images/class.api.php 3 -
+/utchiha505.php 2 http://russellkshistory.com//utchiha505.php
+/wp-content/plugins/wp-login.php 2 http://russellkshistory.com//wp-content/plugins/wp-login.php
+/www.php 2 http://russellkshistory.com//www.php
+/wp-admin/wso.php 2 http://russellkshistory.com//wp-admin/wso.php
+/mobi/ 1 http://russellkshistory.com/mobi/
+/wp-admin/fw.php 2 http://russellkshistory.com//wp-admin/fw.php
+/wp-content/up.php 3 http://russellkshistory.com//wp-content/up.php
+/../html/dorrance.html 9 -
+/js/slick/images/code.png 1 -
+/zqxjSMsqXMrppA.html 1 -
+/wp-content/themes/sketch/404.php 5 -
+/log.php 3 http://russellkshistory.com//log.php
+/../index.html 8 -
+/../html/robert-j-dole.html 8 -
+/lyda.php 2 http://russellkshistory.com//lyda.php
+/wp-content/plugins/include.php 5 -
+/lufix.php 3 http://russellkshistory.com//lufix.php
+/.well-known/ai.txt 10 -
+/emergency.php 2 http://russellkshistory.com//emergency.php
+/../html/rchs.html 10 -
+/css/cloud.php 5 -
+/wp-file.php 2 http://russellkshistory.com//wp-file.php
+/admin-post.php 4 -
+/wp-content/plugins/yyobang/mar.php 1 www.google.com
+/js/tinymce4/plugins/filemanager/dialog.php 1 -
+/shell.php 3 http://russellkshistory.com//shell.php
+/careers 1 -
+/wp-includes/ID3/ 1 www.google.com
+/wp-2019.php 1 http://russellkshistory.com//wp-2019.php
+/end.php 2 http://russellkshistory.com//end.php
+/wp-includes/certificates/wp-login.php 2 http://russellkshistory.com//wp-includes/certificates/wp-login.php
+/css/xmrlpc.php 5 -
+/wp-content/plugins/admin.php 1 -
+/wp-includes/style-engine/ 1 www.google.com
+/file.php 1 -
+/wp-content/plugins/hellopress/wp_filemanager.php 9 -
+/wp-includes/Requests/Exception/HTTP/ 2 www.google.com
+/apple-app-site-association 5 -
+/makhdmax.php 1 http://russellkshistory.com//makhdmax.php
+/Blog 3 http://mail.russellkshistory.com/Blog
+/exit.php 2 http://russellkshistory.com//exit.php
+/admin/editor/ 1 www.google.com
+/ebs.php7 3 -
+/wp-includes/rest-api/fields/cache/index.php 1 -
+/administrator/language/en-GB/en-GB.xml 6 -
+/wp-includes/rest-api/endpoints/ 1 www.google.com
+/wp-content/cong.php 2 http://russellkshistory.com//wp-content/cong.php
+/ini.php 2 http://russellkshistory.com//ini.php
+/wp-content/plugins/backup-backup/includes/backup-heart.php 1 -
+/b1a3k.php 2 http://russellkshistory.com/b1a3k.php
+/.well-known/acme-challenge/ 2 www.google.com
+/wp-admin/xleet.php 1 http://russellkshistory.com//wp-admin/xleet.php
+/wp-includes/html-api/ 1 www.google.com
+/wp-content/plugins/seoo/wsoyanz.php 4 -
+/admin/uploads/ 1 www.google.com
+/news/js/newsmember.js 1 -
+/mar.php 2 http://russellkshistory.com//mar.php
+/uploads/up.php 2 http://russellkshistory.com//uploads/up.php
+/assets/filemanager/dialog.php 2 -
+/__1975.php 2 http://russellkshistory.com//__1975.php
+/wp-json/acf/v3/options/a 1 -
+/wp-admin/css/index.php 4 -
+/x.php 3 http://russellkshistory.com//x.php
+/Providers/HtmlEditorProviders/Telerik/Telerik.Web.UI.DialogHandler.aspx 2 -
+/wso112233.php 3 http://russellkshistory.com//wso112233.php
+/html/waldo.html./waldo_nof.js 2 http://russellkshistory.com
+/wp-include/inputs.php 4 -
+/components/ 1 www.google.com
+/wp-content/plugins/install.php 6 http://russellkshistory.com//wp-content/plugins/install.php
+/plus/img/toplogo.gif 1 -
+/v3n0m.php 2 http://russellkshistory.com//v3n0m.php
+/feed/ 1 http://russellkshistory.com/feed/
+/admin/uploads/images/ 1 www.google.com
+/wp-22.php 2 http://russellkshistory.com//wp-22.php
+/small.php 3 http://russellkshistory.com//small.php
+/wp-content/themes/tflow/up.php 4 -
+/uploads/xleet.php 1 http://russellkshistory.com//uploads/xleet.php
+/hanna1337.php 2 http://russellkshistory.com//hanna1337.php
+/zero.phpwp-content/ares.php 1 -
+/wp-content/plugins/wp-file-upload/ROOBOTS.php 2 http://russellkshistory.com//wp-content/plugins/wp-file-upload/ROOBOTS.php
+/Deadcode1975.php 2 http://russellkshistory.com//Deadcode1975.php
+/th1s_1s_a_4o4.html 31 -
+/lock0360.php 2 http://russellkshistory.com//lock0360.php
+/olux.php 2 http://russellkshistory.com//olux.php
+/private.php 2 http://russellkshistory.com//private.php
+/wp-includes/shell20211028.php 2 http://russellkshistory.com//wp-includes/shell20211028.php
+/moto.php 2 http://russellkshistory.com//moto.php
+/label/ajax/hit.aspx 1 -
+/wpx.php 2 http://russellkshistory.com//wpx.php
+/wp-includes/theme-compat/ 1 www.google.com
+/wp-includes/atom.php 2 http://russellkshistory.com//wp-includes/atom.php
+/wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php 2 http://russellkshistory.com//wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php
+/wp-admin/includes/xmrlpc.php 5 -
+/fox.php 3 http://russellkshistory.com//fox.php
+/admin/controller/extension/wpm.php 1 http://russellkshistory.com//admin/controller/extension/wpm.php
+/wp-load.php 1 http://russellkshistory.com//wp-load.php
+/wp_wrong_datlib.php 2 http://russellkshistory.com//wp_wrong_datlib.php
+/init.php 3 http://russellkshistory.com//init.php
+/woh.php 4 -
+/career 1 -
+/wp-content/themes/twenty/twenty.php 7 http://russellkshistory.com//wp-content/themes/twenty/twenty.php
+/sh.php 2 http://russellkshistory.com//sh.php
+/wp-includes/certificates/ 2 www.google.com
+/wp-includes/home.php 2 http://russellkshistory.com//wp-includes/home.php
+/wp-content/plugins/seoo/wsoyanz1.php 4 -
+/wp-includes/Text/Diff/Engine/ 1 www.google.com
+/mad.php 3 http://russellkshistory.com//mad.php
+/wp-admin/css/colors/xmrlpc.php 5 -
+/by.php 2 http://russellkshistory.com//by.php
+/.well-knownold/ 7 -
+/wp_filemanager.php 2 http://russellkshistory.com//wp_filemanager.php
+/website-sitemap.xml 2 -
+/sitemap_index.xml 6 -
+/wp-admin/includes/themes.php 1 -
+/wp-admin/wso112233.php 3 http://russellkshistory.com//wp-admin/wso112233.php
+/wp-includes/SimplePie/ 2 www.google.com
+/Psmith 1 -
+/wp-content/plugins/apikey/mar.php 1 http://russellkshistory.com//wp-content/plugins/apikey/mar.php
+/wp-includes/rest-api/about.php 6 http://russellkshistory.com//wp-includes/rest-api/about.php
+/../html/luray.html 9 -
+/../html/get-involved.html 10 -
+/core/misc/drupal.js 4 -
+/wp-includes/sodium_compat/src/ 1 www.google.com
+/admin/controller/extension/extension/ 1 www.google.com
+/../html/milberger.html 6 -
+/www 3 http://mail.russellkshistory.com/www
+/wp-includes/Text/Diff/Engine/Engine/ 1 www.google.com
+/../html/bunker-hill.html 10 -
+/images/F0x.php 2 http://russellkshistory.com//images/F0x.php
+/wp-includes/IXR/ 2 www.google.com
+/403.php 3 http://russellkshistory.com//403.php
+/wp 8 http://mail.russellkshistory.com/wp
+/wp-content/themes/classic/inc/casper.php 2 http://russellkshistory.com//wp-content/themes/classic/inc/casper.php
+/wp-content/plugins/Update/wp-blog.php 1 -
+/uph.php 2 http://russellkshistory.com//uph.php
+/wp-content/plugins/backup-backup/includes/kro.php 1 -
+/tmp/vuln.php 2 http://russellkshistory.com//tmp/vuln.php
+/wp-includes/Requests/Response/ 1 www.google.com
+/wp-content/patior/ 6 http://russellkshistory.com//wp-content/patior/
+/wp-admin/css/colors/ 1 www.google.com
+/wp-includes/Text/about.php 6 http://russellkshistory.com//wp-includes/Text/about.php
+/wp_info.php 1 http://russellkshistory.com//wp_info.php
+/wp-includes/random_compat/about.php 2 -
+/robots.txt 581 -
+/assets/scripts/filemanager/dialog.php 1 -
+/Public/js.php 1 -
+/../html/lucas.html 9 -
+/M1.php 2 -
+/wp-admin/css/wp-login.php 2 http://russellkshistory.com//wp-admin/css/wp-login.php
+/Backup 3 http://mail.russellkshistory.com/Backup
+/0x.php 2 http://russellkshistory.com//0x.php
+/term.php 2 http://russellkshistory.com//term.php
+/wp-head.php 8 http://russellkshistory.com//wp-head.php
+/../html/oil-patch-museum.html 10 -
+/html/genealogy.html 1 -
+/shop/ 1 www.google.com
+/public/javascript/filemanager/dialog.php 1 -
+/apple-touch-icon-152x152-precomposed.png 166 -
+/js/Pan.js 15 -
+/autoload_classmap.php 1 http://russellkshistory.com//autoload_classmap.php
+/class.api.php 11 http://russellkshistory.com//class.api.php
+/wp-content/shell20211028.php 3 http://russellkshistory.com//wp-content/shell20211028.php
+/4pric.php 1 -
+/wp-admin/js/widgets/cloud.php 5 -
+/xleet.php 4 -
+/priv8.php 2 http://russellkshistory.com//priv8.php
+/evil.php 2 http://russellkshistory.com//evil.php
+/plugin-install.php 2 http://russellkshistory.com//plugin-install.php
+/html/waldo.htmlengine1/jquery.js 2 http://russellkshistory.com
+/BAK 2 -
+/local/ 1 www.google.com
+/.well-known/ 7 -
+/moon.php 2 http://russellkshistory.com//moon.php
+/media/filemanager/dialog.php 1 -
+/wso-x569.php 1 -
+/wp-admin/user/cloud.php 5 -
+/alfa-rex2.php7 3 -
+/wp-content/themes/wp-pridmag/up.php 4 -
+/wp-includes/IXR/wp-login.php 2 http://russellkshistory.com//wp-includes/IXR/wp-login.php
+/wp-admin/network/db.php 2 http://russellkshistory.com//wp-admin/network/db.php
+/m/ 1 -
+/wp-includes/sodium_compat/ 1 www.google.com
+/wp-content/plugins/sparky/akismet.css 5 -
+/oldwebsite 2 -
+/about.php7 4 -
+/rxr.php 4 http://russellkshistory.com//rxr.php
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 1 -
+/chosen.php 5 -
+/apple-touch-icon.png 200 -
+/wp-includes/pomo/wp-login.php 2 http://russellkshistory.com//wp-includes/pomo/wp-login.php
+/wp-content/plugins/instabuilder2/cache/plugins/moon.php 3 http://russellkshistory.com//wp-content/plugins/instabuilder2/cache/plugins/moon.php
+/wp-admin/images/index.php 3 -
+/h4xor.php 2 http://russellkshistory.com//h4xor.php
+/wp-admin/css/colors/coffee/xmrlpc.php 5 -
+/2019 3 http://mail.russellkshistory.com/2019
+/sitemap.txt 5 -
+/wp-content/mu-plugins-old/ 1 www.google.com
+/wp-admin/maint/wp-login.php 2 http://russellkshistory.com//wp-admin/maint/wp-login.php
+/html/nof-carousel-nav-right-lt.png 1 -
+/wp-admin/maint/maint/ajax-actions.php 4 -
+/wp-includes/widgets/ 1 www.google.com
+/wp-content/updates.php 5 -
+/oldsite 3 http://mail.russellkshistory.com/oldsite
+/kill.php 2 http://russellkshistory.com//kill.php
+/sites/default/files/ 1 www.google.com
+/php/login.php 15 -
+/zz.php 2 http://russellkshistory.com//zz.php
+/sites/all/libraries/elfinder/connectors/php/connector.php 2 http://russellkshistory.com//sites/all/libraries/elfinder/connectors/php/connector.php
+/inputs.php 21 www.google.com
+/wp-admin/maint/termps.php 1 -
+/files/ 1 www.google.com
+/wp-includes/css/ 1 www.google.com
+/../html/heym-oliver-museum.html 10 -
+/public/scripts/filemanager/dialog.php 1 -
+/logs/updates.php 1 -
+/install.php 7 http://russellkshistory.com//install.php
+/wp-includes/blocks/table/int/tmpl/index.php 4 http://russellkshistory.com//wp-includes/blocks/table/int/tmpl/index.php
+/filemanager.php 1 -
+/wp-old 3 http://mail.russellkshistory.com/wp-old
+/wp-admin/includes/cloud.php 5 -
+/apple-touch-icon-120x120.png 4 -
+/symlink.php 2 http://russellkshistory.com//symlink.php
+/cong.php 1 -
+/html/nof-carousel-nav-up-lt.png 1 -
+/wp-includes/install.php 6 http://russellkshistory.com//wp-includes/install.php
+/mobile 1 -
+/includes/updates.php 1 -
+/payload.php 2 http://russellkshistory.com//payload.php
+/wp-content/plugins/t_file_wp/t_file_wp.php 1 -
+/web/libraries/legacy/updates.php 1 -
+/wp-content/uploads/typehub/custom/.RxR.php 2 http://russellkshistory.com//wp-content/uploads/typehub/custom/.RxR.php
+/ton.php 2 http://russellkshistory.com//ton.php
+/wp-admin/meta/ 1 www.google.com
+/F0x.php 2 http://russellkshistory.com//F0x.php
+/demo 5 http://mail.russellkshistory.com/demo
+/wp-admin/includes/users.php 3 http://russellkshistory.com//wp-admin/includes/users.php
+/wp-content/wp_filemanager.php 2 http://russellkshistory.com//wp-content/wp_filemanager.php
+/wp-content/plugins/w0rdpr3ssnew/about.php 2 http://russellkshistory.com//wp-content/plugins/w0rdpr3ssnew/about.php
+/wordpress/ 6 -
+/sitio 3 http://mail.russellkshistory.com/sitio
+/wp-pano 1 -
+/ecp/ 16 -
+/Marvins.php 2 http://russellkshistory.com//Marvins.php
+/wp-admin/user/xmrlpc.php 4 -
+/wp-admin/network/wp-login.php 2 http://russellkshistory.com//wp-admin/network/wp-login.php
+/Site 3 http://mail.russellkshistory.com/Site
+/.well-known/acme-challenge/cloud.php 8 -
+/Admin/uploads/ 1 www.google.com
+/assets/images/ 1 www.google.com
+/wp-content/languages/wp-login.php 3 http://russellkshistory.com//wp-content/languages/wp-login.php
+/wp-content/themes/seotheme/mar.php 3 -
+/base/js/common.js 1 -
+/wp-content/themes/seotheme/db.php 3 -
+/.git/HEAD 1 -
+/.git/ 1 -
+/style.php 7 http://russellkshistory.com//style.php
+/0z.php 2 http://russellkshistory.com//0z.php
+/ajax-actions.php 4 -
+/dev 2 -
+/wp-includes/fonts/wp-login.php 2 http://russellkshistory.com//wp-includes/fonts/wp-login.php
+/404.php 2 http://russellkshistory.com//404.php
+/wp-admin/css/colors/index.php 3 -
+/wp-includes/repeater.php 4 -
+/plugins/updates.php 1 -
+/images/stories/ 1 www.google.com
+/R00T.php 2 http://russellkshistory.com//R00T.php
+/alf.php 2 http://russellkshistory.com//alf.php
+/wp-content/plugins/revslider/includes/page/index.php 2 http://russellkshistory.com//wp-content/plugins/revslider/includes/page/index.php
+/wp-includes/widgets/include.php 5 -
+/wp-includes/fonts/ 1 www.google.com
+/.well-known/security.txt 13 http://www.russellkshistory.com/.well-known/security.txt
+/lufi.php 2 http://russellkshistory.com//lufi.php
+/tinyfilemanager.php 1 -
+/plesk-stat/ 1 -
+/../html/waldo.html 9 -
+/alfaindex.php 2 http://russellkshistory.com//alfaindex.php
+/Wordpress 3 http://mail.russellkshistory.com/Wordpress
+/engine1/zqxjSMsqXMrppA.html 1 -
+/an.php 2 http://russellkshistory.com//an.php
+/wp-includes/SimplePie/Content/Type/ 1 www.google.com
+/wp-admin/images/wp-login.php 2 http://russellkshistory.com//wp-admin/images/wp-login.php
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php 2 http://russellkshistory.com//wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php
+/libraries/phpmailer/updates.php 6 -
+/wp-admin/css/colors/blue/uploader.php 2 http://russellkshistory.com//wp-admin/css/colors/blue/uploader.php
+/options-permalink.php 1 -
+/doc.php 3 http://russellkshistory.com//doc.php
+/fx.php 2 http://russellkshistory.com//fx.php
+/xml.php 3 http://russellkshistory.com//xml.php
+/demo.php 2 http://russellkshistory.com//demo.php
+/wp-includes/Text/ 1 www.google.com
+/wp-includes/images/media/ 1 www.google.com
+/wp-admin/maint/about.php 1 -
+/../html/events.html 9 -
+/wire/modules/Jquery/JqueryUI/touch.js 1 -
+/tools.php 2 http://russellkshistory.com//tools.php
+//cdn.ywxi.net/js/1.js 68 -
+/site 3 http://mail.russellkshistory.com/site
+/admin/images/slider/ 1 www.google.com
+/nice.php 1 -
+/wp-content/uploads/ 10 http://russellkshistory.com//wp-content/uploads/
+/BKP 2 -
+/wp-includes/images/wlw/ 1 www.google.com
+/public/static/common/images/ui_icon.jpg 1 -
+/util/login.aspx 2 -
+/wp-content/plugins/ioptimization/IOptimize.php 2 http://russellkshistory.com//wp-content/plugins/ioptimization/IOptimize.php
+/html/ford-dole.html 3 -
+/sftp.json 2 -
+/zero.php 2 -
+/ads.txt 44 -
+/1975.php 2 http://russellkshistory.com//1975.php
+/upload.php 2 http://russellkshistory.com//upload.php
+/access.php 2 http://russellkshistory.com//access.php
+/wp-content/plugins/core/include.php 2 www.google.com
+/images/wp-login.php 3 http://russellkshistory.com//images/wp-login.php
+/css.php 2 http://russellkshistory.com//css.php
+/wp-content/upgrade/ 4 -
+/wp-content/plugins/elementor/includes/settings/index.php 2 http://russellkshistory.com//wp-content/plugins/elementor/includes/settings/index.php
+/bac 3 http://mail.russellkshistory.com/bac
+/wp-includes/images/include.php 5 -
+/wp-admin/images/ 1 www.google.com
+/.well-known/traffic-advice 25 -
+/wp-content/inputs.php 4 -
+/wp-admin/cloud.php 5 -
+/WORDPRESS 3 http://mail.russellkshistory.com/WORDPRESS
+/Old 5 http://mail.russellkshistory.com/Old
+/auto_seo.php 4 -
+/wsu.php 2 http://russellkshistory.com//wsu.php
+/admin/ 1 -
+/.tmb/wp-login.php 3 http://russellkshistory.com//.tmb/wp-login.php
+/ups.php 2 http://russellkshistory.com//ups.php
+/../html/paradise.html 8 -
+/wp-includes/wp_filemanager.php 2 http://russellkshistory.com//wp-includes/wp_filemanager.php
+/wp-includes/js/codemirror/ 1 www.google.com
+/BACKUP 5 http://mail.russellkshistory.com/BACKUP
+/wp-admin/dropdown.php 14 http://russellkshistory.com//wp-admin/dropdown.php
+/cgi-bin/class_api.php 3 -
+/.well-known/acme-challenge/install.php 6 http://russellkshistory.com//.well-known/acme-challenge/install.php
+/autodiscover/autodiscover.json 32 -
+/users.php 5 -
+/wp-includes/SimplePie/Content/ 1 www.google.com
+/OLD 3 http://mail.russellkshistory.com/OLD
+/Res/images/nopic.jpg 1 -
+/wp-admin/images/install.php 6 http://russellkshistory.com//wp-admin/images/install.php
+/../html/russell.html 8 -
+/gecko.php 2 http://russellkshistory.com//gecko.php
+/payout.php 1 http://russellkshistory.com//payout.php
+/index2.php 2 http://russellkshistory.com//index2.php
+/wp-content/themes/twentyfive/include.php 5 -
+/edit-comments.php 3 http://russellkshistory.com//edit-comments.php
+/beta 2 -
+/tinymce/plugins/filemanager/dialog.php 1 -
+/html/waldo.html../assets/navbars.js 2 http://russellkshistory.com
+/wp-admin/js/widgets/class.api.php 3 -
+/2018 3 http://mail.russellkshistory.com/2018
+/wowslider.js 70 -
+/wp-content/themes/include.php 5 -
+/wp-content/themes/finley/min.php 3 http://russellkshistory.com//wp-content/themes/finley/min.php
+/e/css/submenu.css 1 -
+/IndoXploit.php 2 http://russellkshistory.com//IndoXploit.php
+/sitemap.xml 53 -
+/sitemap.xml.gz 4 -
+/wp-includes/SimplePie/Cache/ 1 www.google.com
+/WP 3 http://mail.russellkshistory.com/WP
+/wso.php 3 http://russellkshistory.com//wso.php
+/class/phpformbuilder/plugins/filemanager/dialog.php 1 -
+/assets/zqxjSMsqXMrppA.html 1 -
+/wp-content/themes/welfare-charity/www.php 2 http://russellkshistory.com//wp-content/themes/welfare-charity/www.php
+/wp-content/plugins/seoplugins/mar.php 3 -
+/wsoyanzorng.php 2 http://russellkshistory.com//wsoyanzorng.php
+/contactus 1 -
+/0x55.php 2 http://russellkshistory.com//0x55.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1116
+47.76.35.19 128 128 295203 20231229092840
+98.186.37.225 83 83 419648 20231231165718
+69.10.100.204 69 69 348864 20231231064431
+35.205.239.255 51 106 27186 20231226033220
+35.195.3.107 50 104 63709 20231213034206
+154.28.75.239 48 48 176674 20231228201457
+35.209.203.58 32 32 137351 20231215061914
+52.55.221.199 28 31 19232343 20231214034415
+184.154.76.10 26 42 957401 20231228042122
+40.88.6.133 26 28 9812172 20231223125444
+37.221.112.204 26 26 98449 20231209111625
+35.88.116.207 26 26 341082 20231216021156
+54.202.131.245 26 28 10060955 20231224110535
+66.115.181.67 25 25 93393 20231221102059
+34.221.22.9 25 27 10046682 20231222075548
+45.32.162.175 25 25 93393 20231206023423
+5.62.57.121 25 25 93393 20231214175826
+104.143.248.205 25 25 93393 20231222154441
+156.146.36.79 25 25 93393 20231205205735
+38.170.175.237 24 24 88337 20231221180442
+18.237.172.242 24 26 10027448 20231222132749
+54.184.243.0 24 24 313725 20231218211747
+198.20.67.201 22 38 1017563 20231231041856
+40.91.80.231 20 20 74722 20231222123129
+46.38.255.27 18 21 109274 20231218014928
+199.45.154.18 3 3 28557 20231223031737
+173.88.14.251 1 42 596774 20231205141805
+71.19.221.28 1 29 647885 20231210090932
+5.188.62.26 2 2 10112 20231212103549
+52.16.77.124 1 1 19234 20231209191109
+205.210.31.142 1 1 19234 20231219010724
+43.130.29.45 0 1 91073 
+117.64.216.31 1 1 5056 20231226100144
+5.133.192.138 1 1 5056 20231228071458
+34.217.59.243 0 1 306652 
+77.74.177.119 1 1 5056 20231229152725
+34.240.66.80 1 1 19234 20231209202138
+120.92.72.246 1 3 48944 20231218192152
+64.140.130.39 1 1 3723 20231214162511
+44.195.21.209 2 13 148731 20231209190500
+18.236.105.28 1 1 11314 20231211121758
+51.15.234.243 1 1 5056 20231222163219
+104.239.80.139 13 13 46247 20231221115610
+18.203.234.151 1 1 19234 20231205022154
+115.164.119.158 1 1 19234 20231208173119
+51.89.22.139 2 2 0 20231214044919
+159.203.25.196 1 1 5056 20231229005709
+3.253.158.90 1 1 36470 20231230210035
+203.2.64.59 3 3 15168 20231228044945
+43.156.170.141 2 2 10112 20231211230116
+105.112.96.94 1 45 1928052 20231213074800
+12.176.102.51 5 5 19853 20231206201643
+103.179.44.142 1 1 19234 20231217032202
+142.189.234.185 1 1 5056 20231222103444
+142.252.145.72 2 2 20264 20231231030601
+103.84.178.104 1 1 3723 20231203034908
+65.154.226.167 2 2 10112 20231218203006
+49.51.179.103 1 1 5056 20231215154514
+76.183.163.128 0 1 91073 
+159.89.226.80 1 1 5056 20231207005002
+85.209.11.117 1 1 19234 20231217160455
+35.208.100.15 16 16 76316 20231220114640
+34.232.51.180 1 5 47847 20231208103114
+51.89.138.51 1 1 5056 20231208114907
+199.45.155.19 2 2 10112 20231204023221
+8.42.93.13 1 6 559670 20231209200143
+45.147.248.16 2 2 38468 20231202210606
+35.225.82.182 4 4 60594 20231214102048
+35.209.91.202 16 16 55295 20231218175959
+207.90.21.91 1 1 3650 20231207062320
+205.210.31.166 1 1 19234 20231223143921
+67.22.145.106 2 51 824282 20231214005335
+12.219.119.222 0 1 113919 
+64.140.139.159 1 1 3434 20231214162511
+68.103.224.215 3 3 57702 20231215085331
+43.157.66.187 1 1 5056 20231210055407
+93.159.230.88 1 1 5056 20231201130656
+198.235.24.251 1 1 36431 20231223052305
+54.187.75.246 2 2 10112 20231230082348
+42.83.147.56 4 4 20224 20231218020908
+148.252.140.160 0 1 92220 
+76.95.69.165 0 1 113919 
+107.143.254.53 3 66 3086829 20231218180448
+34.29.247.144 1 1 4314 20231224100824
+35.208.144.160 16 16 62872 20231225171212
+54.244.177.138 1 1 5056 20231211063524
+54.83.101.9 1 1 4314 20231214043211
+91.92.242.41 2 2 38468 20231219184436
+62.141.44.236 4 4 20224 20231214015732
+34.106.10.143 1 1 19234 20231210075136
+111.207.155.211 1 1 19234 20231224013439
+161.123.33.121 1 1 5056 20231221180344
+35.208.45.32 16 16 62534 20231209050629
+35.89.9.62 1 1 0 20231203081116
+64.140.135.65 1 1 5056 20231214162506
+44.210.235.31 1 1 5056 20231204103115
+199.87.200.178 1 45 1928052 20231218181115
+8.36.253.188 2 50 1933601 20231211171429
+65.154.226.169 3 75 2540566 20231213033509
+67.189.106.75 1 29 647885 20231203131737
+93.158.90.168 1 1 5056 20231217014427
+199.244.88.225 1 1 5056 20231226161622
+8.36.246.188 1 36 683278 20231211135837
+35.85.38.94 1 1 5056 20231218071036
+192.208.169.122 1 45 1928052 20231212202440
+63.245.150.176 1 46 1930211 20231212133952
+98.46.188.121 1 29 539582 20231221182202
+144.91.126.250 1 1 19234 20231228000436
+205.210.31.176 1 1 19234 20231229025130
+44.201.70.77 1 12 143675 20231202134526
+177.39.59.197 0 1 113919 
+107.127.4.11 0 1 73045 
+107.146.237.202 2 61 1970884 20231223114631
+45.29.221.99 3 47 1938164 20231209064809
+170.106.159.160 1 1 5056 20231228000515
+174.87.218.154 1 1 19234 20231203191344
+199.45.154.50 1 1 5056 20231215161357
+34.80.234.122 1 3 25991 20231225131119
+67.22.62.38 1 1 5056 20231201061926
+198.210.104.229 4 88 18938434 20231218120459
+79.137.198.213 1 1 5056 20231214004611
+8.218.81.43 1 1 3879 20231207091210
+156.246.7.107 0 1 46044 
+43.131.248.209 3 3 15168 20231227200959
+61.139.77.181 1 1 5056 20231224203400
+206.85.169.154 1 24 1376787 20231220114319
+120.92.72.220 0 1 41565 
+37.120.203.76 1 1 11259 20231203053403
+72.14.201.204 2 2 7679 20231229201236
+34.132.242.190 4 139 5795689 20231224100838
+34.145.165.227 8 10 29571138 20231228155319
+8.219.102.32 1 1 2261 20231223162508
+191.101.41.32 1 1 3480 20231201201119
+38.133.99.177 8 103 2759805 20231215140900
+174.213.215.75 1 29 606302 20231202151602
+108.235.161.73 1 29 606302 20231227170248
+72.167.57.119 1 1 19234 20231205094558
+49.37.115.6 1 11 104678 20231216091021
+8.36.255.165 1 23 1439382 20231222130235
+154.7.18.70 0 1 642115 
+197.184.177.179 1 1 2943 20231212135229
+43.130.32.224 1 1 5056 20231208102915
+195.123.228.18 1 1 19234 20231220073518
+45.24.177.26 1 29 619409 20231210141013
+65.207.105.10 2 46 622746 20231215092649
+73.167.225.158 0 1 46044 
+34.205.9.241 0 2 42516 
+150.230.179.142 0 1 306652 
+132.145.97.190 1 1 5056 20231220071812
+191.101.41.24 2 2 6530 20231201201035
+47.243.176.34 0 1 306652 
+45.8.68.39 1 1 19234 20231210205159
+174.213.212.252 1 43 1925459 20231219091814
+180.110.203.108 4 4 18245 20231225205938
+43.157.40.112 4 4 20224 20231226102107
+91.92.240.127 4 4 0 20231215231225
+209.99.146.153 1 1 3434 20231207062318
+35.205.236.220 1 1 19234 20231203213801
+166.181.89.71 2 30 607458 20231216124106
+191.101.41.31 1 1 3316 20231201201037
+3.248.252.183 2 5 58806 20231230200738
+35.206.212.199 1 1 5056 20231203221206
+172.98.33.125 0 1 642115 
+3.110.236.102 1 4 50102 20231203171528
+3.252.17.13 1 1 19234 20231230183856
+58.49.233.126 2 2 10112 20231215102107
+54.39.50.123 2 2 38468 20231220184329
+89.32.200.155 1 1 5056 20231221115557
+199.45.155.18 2 2 23494 20231231145316
+43.159.37.5 0 1 91073 
+136.37.62.223 1 29 607458 20231202074408
+20.106.90.80 1 1 19234 20231211101420
+188.130.188.158 1 1 5056 20231210212023
+164.92.104.99 1 1 11746 20231222231741
+8.36.244.74 3 77 2601737 20231218122553
+18.144.100.159 1 16 230286 20231201001358
+20.150.199.33 1 1 19234 20231203120301
+162.213.164.139 1 29 581427 20231211122554
+110.93.150.102 0 1 1709 
+34.171.1.82 1 1 5056 20231224100825
+125.124.133.75 2 2 10112 20231217101421
+208.100.26.236 1 2 5056 20231229120248
+35.208.128.35 16 16 89098 20231207113646
+52.214.133.37 2 5 58815 20231223164500
+3.251.208.57 1 1 36458 20231202212858
+50.18.94.33 2 9 102734 20231224015343
+34.204.206.76 1 5 47832 20231206043639
+93.159.230.89 1 1 5056 20231215133644
+72.201.47.92 0 1 113919 
+172.58.183.95 0 1 113919 
+191.101.41.28 1 1 3285 20231201201136
+3.254.229.123 1 1 36431 20231230202134
+64.227.70.14 1 1 11743 20231209083810
+211.130.63.227 0 4 293298 
+49.7.227.204 1 1 5056 20231208004513
+173.172.96.90 0 1 113919 
+35.208.239.37 16 16 52098 20231224204416
+8.42.91.55 2 50 2007093 20231214144420
+195.181.170.232 2 2 38468 20231217044540
+124.237.181.17 1 1 5056 20231204104703
+54.224.135.98 1 1 3434 20231203023230
+34.216.200.189 1 1 5056 20231201145122
+174.16.108.239 7 56 1990799 20231228050620
+129.222.255.34 1 29 589106 20231226115003
+52.53.197.124 1 20 191329 20231216120250
+99.14.152.101 1 34 583161 20231211165324
+43.154.69.251 2 2 10112 20231214061054
+125.94.144.102 4 4 20224 20231215194945
+174.231.83.111 0 1 113919 
+199.87.205.173 4 52 1933757 20231227124529
+38.59.19.248 0 1 72963 
+52.3.231.146 1 4 50102 20231218120841
+34.241.63.85 2 5 58796 20231209211644
+199.45.154.19 1 1 11746 20231218204251
+35.92.95.226 7 7 88450 20231229093333
+199.244.88.228 1 1 5056 20231213014839
+198.210.69.186 1 28 533689 20231206134836
+24.224.18.160 0 1 642115 
+54.75.6.24 1 1 36443 20231223203304
+80.238.115.2 1 1 3956 20231229033752
+223.240.222.218 1 1 5056 20231229004733
+34.228.156.78 1 1 4314 20231223143842
+23.230.39.50 1 1 10976 20231231030458
+43.153.93.68 1 1 5056 20231228134404
+35.160.237.123 1 1 12719 20231220171940
+207.228.37.59 1 1 5056 20231230180510
+147.135.5.29 1 1 5056 20231213024831
+54.90.204.34 1 1 3316 20231229152315
+46.4.78.218 4 4 20224 20231230053008
+44.201.5.96 1 3 8537 20231208091809
+130.255.166.11 1 1 5056 20231214175338
+195.123.241.30 1 1 3285 20231204151820
+91.92.181.150 1 1 5056 20231226094900
+2.98.226.231 0 1 113919 
+152.131.9.4 1 29 607458 20231215133446
+75.71.112.232 2 49 1979302 20231231182158
+178.63.55.94 1 1 11277 20231204053144
+49.51.206.130 2 2 10112 20231227052331
+128.14.133.50 1 1 5056 20231203071514
+107.178.207.140 1 1 0 20231201140108
+31.220.0.86 1 1 11754 20231202101158
+49.37.117.118 2 2 19234 20231228015301
+172.58.146.200 0 1 113919 
+45.138.16.113 1 1 5056 20231205053422
+35.209.199.191 16 16 63256 20231222054038
+68.103.97.200 2 56 1962419 20231217181841
+5.9.158.7 2 2 29858 20231203203533
+65.109.158.114 2 2 22290 20231204025721
+130.132.173.86 0 1 113919 
+23.127.71.80 0 1 113919 
+93.158.90.73 1 1 5056 20231202235442
+35.208.69.249 16 16 68866 20231221091046
+185.241.208.71 4 5 15756 20231218014832
+54.183.216.128 1 17 156065 20231208131222
+103.160.167.28 1 1 5056 20231203070235
+45.77.170.94 4 12 40548 20231226000100
+3.80.178.33 1 1 0 20231215080555
+191.101.41.221 1 1 2943 20231201201054
+63.32.58.77 1 1 36458 20231202213005
+172.56.54.126 8 88 2450741 20231219004757
+193.186.4.143 1 1 3148 20231211045146
+110.166.71.39 2 2 10112 20231220211524
+5.227.8.101 1 1 19234 20231210063624
+35.209.98.10 16 16 77366 20231202062112
+4.154.232.158 0 1 73045 
+64.140.136.227 1 1 5066 20231214162512
+8.219.139.58 1 1 5056 20231226021557
+18.236.107.215 1 1 5056 20231218071032
+65.109.158.121 3 3 34787 20231226021951
+172.56.241.40 2 30 647885 20231228152833
+34.75.5.14 0 1 306652 
+86.164.114.137 0 1 113919 
+46.101.4.119 1 1 5056 20231211002613
+35.209.103.39 16 16 62303 20231204000349
+52.35.157.79 1 45 1928052 20231204021155
+45.156.129.7 1 1 5056 20231209115254
+67.190.89.144 7 85 1233572 20231220115546
+43.131.48.214 3 3 15168 20231222234735
+67.22.62.40 1 1 5056 20231207062315
+34.16.102.25 1 1 5066 20231224100824
+143.198.34.13 1 1 5056 20231225231203
+209.99.148.73 1 1 3077 20231201061929
+129.226.146.179 1 1 5056 20231206050707
+104.194.192.7 1 1 3247 20231201061938
+191.102.167.172 1 1 5056 20231208173032
+72.209.214.160 0 1 113919 
+34.86.239.201 2 2 36598 20231213175759
+182.44.10.67 3 3 15168 20231216082844
+3.250.78.55 1 1 36458 20231209170448
+52.31.167.114 1 1 19234 20231205004456
+109.248.138.62 1 1 5056 20231210212020
+173.3.114.76 0 1 113919 
+104.128.43.208 1 46 1930211 20231214072815
+107.204.6.114 1 47 1930961 20231208225203
+52.214.17.73 1 1 36443 20231230195212
+8.42.85.88 5 122 24048093 20231209100053
+209.99.146.7 1 1 3650 20231201061929
+54.195.146.213 4 4 47112 20231202211250
+3.86.90.208 2 2 30250 20231211172825
+182.44.12.37 5 5 25280 20231220111557
+209.73.147.132 3 3 36117 20231231030603
+24.2.25.39 1 29 607458 20231224170823
+205.169.39.68 2 33 655791 20231203060642
+8.219.85.193 1 1 3303 20231223021817
+54.71.187.124 1 29 579749 20231217172116
+18.201.118.49 2 5 58830 20231230192027
+132.145.167.122 0 1 73270 
+198.210.86.141 0 1 9413349 
+43.133.38.182 2 2 10112 20231216211036
+43.135.181.13 1 1 5056 20231208033243
+204.100.235.143 6 59 964187 20231219151502
+198.199.76.184 1 1 11747 20231215060738
+18.210.113.192 0 4 759844 
+18.237.251.219 1 1 5056 20231222070615
+159.203.116.103 1 1 5056 20231205021228
+8.222.175.94 2 2 8001 20231225171117
+174.210.167.104 1 46 1930211 20231220101032
+34.76.242.182 1 1 19234 20231201170116
+40.88.6.161 1 1 4314 20231225015836
+181.215.176.21 2 2 38468 20231217035932
+74.125.213.13 1 1 3480 20231226113704
+69.160.160.51 1 46 1930211 20231208173207
+184.154.76.16 12 23 721127 20231227041638
+122.179.169.107 2 2 10112 20231226104322
+128.31.0.13 1 1 5056 20231226003812
+212.102.53.88 1 1 19234 20231225062046
+170.106.104.42 1 1 5056 20231219141344
+74.115.36.180 1 29 606302 20231231152226
+116.203.62.38 16 16 204755 20231231210850
+198.235.24.182 2 2 55665 20231226191134
+87.103.246.30 1 1 0 20231221001417
+66.55.64.153 1 1 19234 20231216122825
+35.209.47.2 16 16 62133 20231203023616
+14.215.163.132 6 6 30336 20231230072045
+149.102.128.93 1 1 3879 20231218014852
+154.28.229.185 1 1 3723 20231218144919
+192.144.39.132 1 1 19234 20231223160552
+174.66.90.132 5 95 2256949 20231215080758
+35.208.85.93 16 16 68019 20231217214150
+24.51.33.73 0 2 756034 
+94.56.103.180 0 1 74163 
+110.93.150.112 0 2 42516 
+194.127.167.84 1 1 11259 20231204104931
+198.235.24.74 1 1 19234 20231205051731
+3.91.81.234 1 1 5056 20231230205348
+35.209.105.133 16 16 66190 20231223025131
+8.222.186.200 1 1 3277 20231223141838
+114.96.103.33 2 2 10112 20231227100452
+43.159.129.209 1 1 5056 20231207065645
+35.182.143.208 2 90 3856104 20231208234950
+98.186.98.106 2 53 824027 20231210062852
+50.17.197.46 2 2 10112 20231220091608
+35.208.15.225 16 16 53264 20231204203939
+101.44.249.127 0 1 73270 
+191.101.41.235 1 1 3277 20231201201103
+8.222.196.172 1 1 3309 20231226104349
+165.225.60.210 1 46 1930211 20231214085648
+195.201.83.132 2 2 30337 20231225131109
+124.225.164.130 2 2 10112 20231217021430
+192.81.133.147 1 1 19234 20231231113615
+174.199.98.165 0 28 576026 
+152.228.243.19 1 1 3723 20231221061151
+165.227.148.208 1 1 5056 20231227002945
+24.225.21.70 2 55 892972 20231211215732
+191.101.41.19 1 1 5056 20231201201024
+193.122.144.16 0 1 73270 
+35.237.100.36 0 1 73270 
+34.215.238.230 1 1 5056 20231228030022
+137.226.113.44 2 2 10112 20231228124851
+62.143.101.212 1 29 647885 20231202085539
+178.254.12.183 2 2 10112 20231223144341
+208.100.26.237 6 6 37028 20231229120248
+174.250.210.90 0 28 643929 
+20.120.74.197 2 8 8341 20231231032854
+66.232.200.231 1 46 1930211 20231213220601
+52.26.243.124 1 1 19234 20231211172825
+206.204.39.49 1 1 5056 20231216054924
+159.89.121.65 1 1 11750 20231201004524
+45.48.236.71 0 1 91073 
+165.22.228.219 1 1 5056 20231201003803
+72.14.201.50 1 1 3148 20231207084106
+34.229.235.66 1 1 5056 20231210181331
+101.198.192.11 0 2 147208 
+145.220.91.19 2 2 10112 20231213083150
+165.154.29.173 1 1 5056 20231218034121
+103.48.197.91 1 1 19234 20231211220920
+191.101.41.219 2 2 9370 20231201201117
+18.237.95.144 1 1 5056 20231211063456
+35.208.245.224 16 16 53209 20231227110020
+67.214.200.52 0 1 113919 
+166.194.158.2 1 29 606302 20231206144303
+35.184.1.147 2 2 10112 20231215133527
+149.56.160.160 17 17 237549 20231219060239
+151.248.1.103 1 1 5056 20231208191622
+170.106.82.193 2 2 7084 20231225205343
+35.225.148.236 1 1 3434 20231224100824
+198.54.120.200 1 1 0 20231216053033
+204.107.216.61 5 42 901602 20231211214957
+174.210.166.135 1 33 762930 20231227212452
+34.243.142.103 4 4 47089 20231205084345
+103.252.118.57 0 4 5444 
+104.3.55.30 1 43 1291609 20231224091353
+192.222.107.6 1 30 607018 20231229084920
+13.57.205.5 1 15 229335 20231209180555
+35.209.54.6 16 16 83566 20231229041844
+103.195.101.232 1 1 5056 20231226004447
+18.201.144.242 5 19 121433 20231229022505
+24.225.21.4 2 51 2009095 20231212154721
+34.244.86.119 1 1 19234 20231209190952
+85.255.20.171 3 3 0 20231215025542
+5.161.56.235 1 1 4314 20231218202159
+120.92.72.104 0 1 41565 
+69.167.41.203 1 1 0 20231226005606
+34.242.118.43 2 5 58809 20231223220705
+142.93.184.104 2 2 38468 20231216144148
+35.208.81.39 16 16 59911 20231214095653
+123.187.240.242 1 1 5056 20231216164748
+44.210.20.90 1 1 5056 20231204112953
+91.208.197.168 1 1 19234 20231228221830
+191.101.41.12 1 1 3303 20231201201115
+34.75.96.15 0 1 73270 
+168.151.58.245 1 1 4304 20231207062258
+172.124.98.129 0 1 74163 
+93.158.91.19 1 1 5056 20231209174845
+35.209.159.173 16 16 64123 20231211183943
+208.68.246.250 0 1 74163 
+154.36.128.151 0 1 93651 
+184.154.76.17 5 8 105489 20231229042124
+199.45.155.34 3 3 15168 20231215185001
+52.32.26.49 1 1 19234 20231215154900
+104.28.116.96 1 7 52743 20231207161237
+34.222.131.166 2 2 22417 20231215204225
+101.44.250.243 0 1 306652 
+20.189.78.144 1 1 19234 20231208135812
+198.235.24.237 1 1 36431 20231215235106
+34.214.111.157 0 2 12404 
+141.148.47.144 0 1 73270 
+174.210.161.59 4 14 257868 20231214204401
+117.33.163.216 7 7 35392 20231226162820
+65.109.155.244 1 1 11103 20231204031411
+199.45.155.32 2 2 16800 20231231205008
+205.210.31.86 1 1 19234 20231214194309
+8.222.173.68 1 1 3723 20231220101858
+154.36.136.146 0 1 71711 
+157.245.46.140 1 1 5056 20231219004208
+154.28.229.180 1 1 3723 20231219032553
+35.87.137.173 1 1 11016 20231210140944
+54.185.198.23 10 10 121450 20231229231411
+198.210.77.218 1 29 606302 20231212095322
+45.76.6.85 1 1 5056 20231201223502
+144.91.106.14 2 12 104648 20231227214004
+45.151.167.11 1 1 5056 20231227172007
+211.249.46.64 0 1 1248 
+24.119.231.134 1 29 539582 20231231192836
+154.28.229.40 1 1 3723 20231210124755
+54.155.166.101 1 1 36431 20231205004834
+191.101.41.230 1 1 5066 20231201201139
+36.41.75.167 2 2 10112 20231220003222
+18.188.67.20 1 1 3434 20231210131323
+54.78.28.68 1 1 36470 20231223194509
+136.226.87.14 0 1 59403 
+34.219.191.165 1 1 5056 20231218070903
+151.115.48.227 1 1 5056 20231225233645
+34.219.100.23 1 1 0 20231214065011
+76.232.92.26 1 29 607458 20231216183639
+91.4.237.179 0 1 17175 
+129.153.25.174 0 1 91073 
+134.96.225.145 1 45 1928052 20231231041746
+212.47.243.119 1 7 98217 20231222164703
+64.140.136.51 1 1 3879 20231201061929
+130.105.226.222 1 1 19234 20231206164903
+207.228.0.205 1 1 5056 20231228012151
+34.220.229.18 1 1 3650 20231227194905
+8.36.245.220 0 1 113919 
+142.147.240.67 9 9 35353 20231221115717
+5.9.157.139 6 6 76371 20231225142735
+52.32.240.62 1 29 579749 20231218124805
+174.250.210.224 2 48 3042171 20231202085836
+199.244.88.231 1 1 5056 20231204061538
+109.70.100.67 1 1 5056 20231213014424
+199.58.181.7 1 24 1439382 20231207080023
+160.176.243.142 1 1 5056 20231216122102
+20.2.208.224 2 2 38468 20231204044714
+24.225.4.106 1 23 1439382 20231218080520
+166.181.81.163 0 1 113919 
+73.228.24.109 3 62 19873332 20231213175758
+35.193.135.109 1 1 3650 20231224100823
+43.133.77.230 1 1 5056 20231207145843
+63.34.162.164 4 4 47102 20231230165145
+198.235.24.248 1 1 36431 20231206032616
+101.44.250.151 1 1 3247 20231228043548
+104.194.192.119 1 1 3687 20231207062318
+54.189.195.200 1 1 11103 20231230090557
+23.23.61.197 1 1 3723 20231217172859
+65.154.226.171 1 1 5056 20231211073110
+182.44.2.148 2 2 10112 20231229155625
+65.108.31.122 4 4 53036 20231204015827
+42.83.147.54 1 1 5056 20231221113340
+43.130.7.211 1 1 5056 20231219000213
+94.247.172.129 1 1 5056 20231216180900
+18.202.250.219 2 5 58808 20231202190923
+43.159.128.68 2 2 10112 20231220075723
+94.228.122.109 1 11 104678 20231228094410
+64.140.141.252 1 1 3723 20231201061938
+183.191.123.174 1 1 5056 20231216001100
+54.234.78.29 1 6 92618 20231209071633
+182.42.105.85 2 2 10112 20231210140641
+50.159.193.52 0 1 113919 
+209.97.190.209 1 1 5056 20231212103929
+172.242.208.70 1 45 1928052 20231230072132
+159.65.93.29 1 1 5056 20231225005956
+124.117.196.186 1 1 5056 20231229201015
+18.194.196.202 1 1 5056 20231212183653
+154.38.168.152 1 1 5056 20231212231442
+34.245.158.2 1 1 36470 20231202201355
+54.202.27.105 1 1 19234 20231215204326
+106.119.167.146 3 3 15168 20231216114218
+172.59.73.60 1 8 1161018 20231222141714
+8.219.40.219 1 1 5056 20231224171801
+13.59.204.6 6 26 229580 20231217034815
+107.150.101.57 1 1 5056 20231218051351
+208.100.26.243 3 3 21861 20231226152923
+192.36.24.172 1 1 5056 20231210045959
+191.101.41.20 2 2 5338 20231201201134
+175.6.217.4 2 2 10112 20231230231705
+75.87.179.213 1 29 579749 20231214125002
+198.235.24.78 1 1 36431 20231209160858
+185.220.100.250 1 1 5056 20231231202714
+104.15.170.47 2 92 3859013 20231222115242
+205.210.31.139 1 1 36443 20231214191847
+72.135.12.232 1 29 579749 20231210140159
+64.140.134.238 1 1 5056 20231201061929
+8.222.204.90 1 1 3148 20231223043826
+193.186.4.204 2 2 6600 20231212070928
+221.212.178.42 1 45 1928052 20231204231038
+35.208.112.129 16 16 69417 20231201085411
+43.135.129.233 2 2 10112 20231212040417
+71.43.87.162 1 1 5056 20231215065100
+35.196.115.169 0 2 613304 
+101.44.249.187 1 1 3879 20231229040637
+8.42.94.43 1 45 1928052 20231229114719
+216.21.169.90 1 31 648601 20231207090943
+209.99.139.142 1 1 3247 20231214162513
+18.203.95.232 1 1 36443 20231202175601
+97.88.173.99 1 29 606302 20231204122026
+14.137.153.211 0 1 73270 
+129.226.158.26 1 1 5056 20231226065902
+5.161.188.96 1 1 3316 20231207122209
+54.201.224.72 3 3 41163 20231215211515
+8.219.193.220 1 1 3434 20231226034338
+45.8.68.70 1 1 19234 20231203104608
+64.44.118.235 1 46 1930211 20231228153859
+34.30.107.98 1 1 3077 20231224100825
+174.16.114.54 1 32 649555 20231218092818
+35.208.177.7 16 16 68134 20231228080834
+45.32.125.95 1 3 10137 20231211083558
+34.244.71.157 1 1 36458 20231230221654
+45.41.141.222 1 1 3434 20231201061929
+172.58.230.177 1 29 579749 20231222202625
+172.56.201.197 0 1 113919 
+35.209.228.95 16 16 81027 20231205180925
+64.227.48.219 1 1 19234 20231213153409
+107.122.189.83 2 66 1126736 20231214135221
+8.222.197.200 1 1 3480 20231226002146
+44.203.179.224 1 1 0 20231214100852
+76.184.35.169 1 1 19234 20231219104627
+139.167.79.64 2 2 10112 20231209170428
+37.140.254.141 1 1 0 20231210083858
+170.85.7.77 1 35 651321 20231218120557
+5.9.157.68 1 1 10356 20231226085221
+35.208.18.114 16 16 61066 20231217001334
+198.235.24.142 1 1 19234 20231223155022
+104.252.30.43 4 4 62299 20231231030550
+70.166.240.130 3 3 57702 20231229095701
+98.168.119.55 3 73 2095803 20231216133736
+65.109.155.245 4 4 52012 20231225145611
+34.78.171.236 1 1 19234 20231208072317
+24.255.238.4 1 29 647885 20231205195024
+174.210.165.173 1 29 579749 20231225111325
+3.253.2.205 1 1 36431 20231216210720
+162.243.4.24 1 1 5056 20231228144754
+3.252.173.46 1 1 19234 20231230202133
+74.115.36.226 1 29 579749 20231217194351
+43.135.130.122 1 1 5056 20231202001527
+172.98.33.69 0 1 113919 
+5.9.69.199 1 1 19234 20231205103616
+8.42.83.53 1 29 606302 20231214213250
+165.201.138.25 10 211 15602766 20231226125026
+103.216.152.126 1 1 5056 20231231201826
+70.179.116.131 0 1 18927513 
+208.100.26.244 2 2 10112 20231231150931
+20.51.214.146 1 1 19234 20231207205013
+120.92.72.149 1 1 5056 20231211190158
+35.190.204.246 1 1 19234 20231228095013
+121.229.185.160 2 2 8303 20231225205943
+164.92.127.169 1 1 5056 20231228022153
+174.198.138.228 2 34 684506 20231208075344
+34.222.228.110 4 4 48406 20231229055439
+34.242.80.143 1 1 36458 20231202213212
+8.36.250.184 11 329 21560883 20231228150107
+64.250.53.102 8 110 2403080 20231231164417
+119.91.250.193 1 1 5056 20231223194949
+198.235.24.89 1 1 19234 20231226122523
+54.87.59.211 1 3 8537 20231205194406
+64.253.86.228 1 1 0 20231230144424
+54.153.65.195 1 14 226805 20231204214658
+174.210.2.192 2 30 608993 20231229130126
+35.208.3.105 16 16 63489 20231226143956
+182.43.70.143 2 2 10112 20231223071041
+171.240.189.49 1 1 5056 20231222014738
+174.56.91.192 4 85 2243121 20231224121119
+8.219.148.51 1 1 5340 20231223201240
+101.44.250.22 0 1 73045 
+146.190.132.102 1 1 5056 20231203002141
+54.78.212.161 1 1 19234 20231202205144
+34.242.204.6 1 1 36470 20231223194355
+34.106.161.236 1 1 19234 20231203033247
+8.222.147.179 1 1 3956 20231223224333
+164.90.182.182 1 1 5056 20231208142739
+87.121.86.4 1 1 0 20231213111308
+65.109.155.237 1 1 12670 20231226114832
+160.19.92.95 1 1 4314 20231207062315
+129.80.6.89 0 1 306652 
+71.196.137.163 1 29 647885 20231228124548
+72.192.120.221 4 62 2001986 20231213133508
+146.148.12.228 2 2 38468 20231226030812
+172.96.95.53 1 1 5056 20231217104044
+54.244.100.89 2 2 10112 20231222070740
+172.58.123.86 0 1 113919 
+101.32.242.201 0 1 91073 
+18.237.230.139 1 1 5056 20231218071104
+98.165.60.155 0 1 113919 
+8.219.123.223 1 1 3353 20231225083628
+204.156.181.44 1 48 1974246 20231218135438
+72.223.81.199 2 37 643408 20231214172152
+66.232.200.250 2 56 2262200 20231218090423
+208.100.26.246 1 1 5056 20231227115342
+75.133.170.222 0 1 45581 
+98.96.193.11 1 1 5056 20231204222825
+5.133.192.136 1 1 5056 20231203130722
+43.159.128.172 2 2 10112 20231222135039
+108.147.94.94 0 1 113919 
+34.148.63.123 0 1 306652 
+65.154.226.170 2 2 10112 20231226124950
+167.71.225.117 1 1 5056 20231212235906
+35.208.200.216 16 16 81308 20231219153546
+220.181.51.118 0 1 10531901 
+34.242.149.126 1 1 11754 20231202185221
+50.19.186.111 1 1 5056 20231210213318
+174.213.213.97 1 29 581427 20231225132620
+43.153.108.194 1 1 5056 20231201042103
+54.215.114.112 0 4 6461 
+38.148.176.141 2 49 1979302 20231225070308
+174.210.169.154 1 29 607458 20231204132104
+3.251.241.205 1 1 19234 20231209155805
+104.219.232.126 1 1 5056 20231224080826
+193.186.4.56 2 2 6296 20231207084118
+207.174.233.97 1 45 1928052 20231226115424
+34.79.114.255 1 1 19234 20231206021722
+65.31.214.112 0 1 93651 
+142.93.213.149 1 1 5056 20231212111634
+67.190.105.139 3 40 10148831 20231208170253
+103.177.95.202 2 2 38468 20231203201136
+83.145.36.70 1 1 0 20231216031821
+113.141.91.58 2 2 10112 20231214175839
+72.14.201.205 1 1 5056 20231218203119
+5.9.158.10 4 4 47500 20231225205338
+182.42.111.156 2 2 10112 20231221023849
+34.240.10.131 1 1 19234 20231202161020
+54.154.210.214 1 1 19234 20231223165708
+191.101.41.35 1 1 3687 20231201201121
+66.249.87.42 1 1 5056 20231222143914
+159.203.6.117 1 1 5056 20231208232115
+34.94.134.42 2 2 38468 20231205112421
+43.130.37.62 1 1 5056 20231224045846
+218.78.107.28 2 2 10112 20231223005805
+66.27.5.110 2 52 868946 20231216191446
+172.59.125.235 1 29 589106 20231211143858
+205.210.31.229 1 1 36431 20231229192649
+51.158.103.83 2 2 0 20231215025257
+35.190.146.49 0 1 91073 
+124.237.181.79 1 1 5056 20231214182246
+174.198.73.117 1 29 647885 20231227130731
+191.101.41.236 1 1 3956 20231201201129
+34.246.174.227 4 4 47088 20231223195703
+43.131.44.218 3 3 15168 20231221210311
+52.32.8.30 1 1 5056 20231218070452
+34.244.37.248 2 5 58809 20231216160700
+34.249.17.67 4 4 47078 20231209203731
+98.159.37.167 2 2 5056 20231224061802
+54.191.236.97 9 9 118239 20231224101732
+110.93.150.31 0 1 150 
+8.36.251.37 1 45 1928052 20231226102052
+207.8.255.190 2 50 595683 20231217112818
+40.88.6.130 2 2 8945 20231225020110
+54.172.234.211 0 3 4752 
+54.177.153.243 1 18 167814 20231215172101
+69.145.145.18 3 77 2228882 20231228173235
+66.102.6.224 0 1 55616 
+35.175.235.84 1 1 19234 20231212093301
+24.4.112.251 0 1 113919 
+34.216.227.189 1 1 3650 20231229163854
+3.139.98.22 1 1 3434 20231209235159
+5.161.190.13 1 1 3353 20231209071530
+178.254.38.45 1 1 5056 20231230100119
+182.42.111.213 1 1 5056 20231204001011
+110.93.150.28 0 1 41358 
+57.128.26.120 1 1 5056 20231223124230
+83.97.79.35 1 1 19234 20231209010525
+46.137.54.99 1 1 19234 20231223174216
+149.56.160.240 12 12 182005 20231202221535
+85.254.40.142 1 1 5066 20231201061929
+149.28.167.136 10 10 126700 20231230103609
+45.41.143.96 1 1 3077 20231207062316
+35.175.237.215 1 1 19234 20231211103846
+35.208.251.83 16 16 75046 20231230221809
+174.210.166.145 3 53 2030233 20231203080654
+65.109.155.161 5 5 59394 20231204014835
+185.172.64.137 1 1 5056 20231209091031
+3.131.94.20 8 8 40448 20231207015335
+108.80.46.68 1 47 11343560 20231228181101
+199.127.56.236 1 45 1928052 20231221142601
+162.55.95.79 1 1 3879 20231201205037
+34.220.194.36 0 1 93436 
+3.88.130.199 1 1 5066 20231214023617
+120.92.72.116 0 1 41565 
+3.251.190.141 1 1 36443 20231223203417
+34.245.128.192 1 1 36431 20231209170628
+174.250.192.56 1 29 647885 20231205204047
+45.141.215.129 3 3 57702 20231226082747
+52.205.223.93 0 2 147208 
+43.142.106.70 1 1 3723 20231211115307
+211.249.46.162 0 1 789 
+45.156.128.7 1 1 5056 20231207100313
+69.149.35.133 0 1 113919 
+35.208.82.100 16 16 62978 20231212161112
+155.190.8.7 2 55 1944770 20231220092749
+24.225.21.5 3 55 3072115 20231203035405
+43.130.62.164 1 1 5056 20231227141107
+34.240.222.40 1 1 19234 20231204221018
+85.254.51.31 1 1 5340 20231207062318
+3.253.141.215 4 4 47106 20231216184618
+5.133.192.168 1 1 5056 20231222033353
+52.143.95.204 1 1 5056 20231207161342
+5.157.20.181 1 1 3309 20231228163746
+111.172.249.49 3 3 15168 20231227021741
+54.245.200.90 1 1 5056 20231218071017
+167.71.180.121 2 2 38468 20231216144158
+5.9.158.6 3 3 40328 20231225205534
+54.164.114.195 1 1 5056 20231217180738
+198.235.24.52 1 1 36443 20231218222022
+172.58.182.248 2 33 612177 20231206100650
+60.188.57.0 1 1 5056 20231212111810
+34.242.223.229 1 1 19234 20231230221712
+62.122.184.194 1 1 19234 20231215042022
+209.99.152.83 1 1 3077 20231214162513
+147.182.196.32 1 1 5056 20231216231702
+20.232.186.250 0 1 74163 
+121.37.163.166 0 1 74163 
+172.59.168.154 0 1 113919 
+137.83.96.41 0 1 113919 
+59.82.21.8 0 1 306652 
+104.192.3.74 1 1 11259 20231203050602
+42.83.147.53 3 3 15168 20231214062901
+34.74.187.228 0 1 73270 
+96.18.170.151 0 1 10531901 
+154.7.24.227 0 1 48146 
+54.246.225.119 1 1 36443 20231216205821
+104.180.37.140 2 53 2008924 20231230105934
+198.235.24.101 1 1 36443 20231226221130
+154.53.59.209 2 2 38468 20231217094529
+101.32.182.190 1 1 5056 20231203013906
+120.92.72.99 0 1 41358 
+104.131.182.42 1 1 5056 20231214233415
+198.210.91.65 1 29 530312 20231217155759
+70.182.242.64 11 102 2445670 20231211181027
+199.45.155.16 1 1 5056 20231202153025
+174.213.213.145 1 29 539582 20231228120334
+192.208.170.117 3 53 2052585 20231205214545
+174.210.163.81 1 45 1928052 20231224224859
+13.57.181.162 1 11 183338 20231231134426
+72.14.201.206 1 1 5056 20231213073015
+148.251.81.231 6 6 80816 20231225140902
+172.59.79.8 1 45 1928052 20231220215218
+42.83.147.55 1 1 5056 20231206133523
+119.8.243.113 0 1 306652 
+54.188.101.46 4 136 3852158 20231205143756
+76.77.160.160 0 46 1925714 
+185.220.100.251 1 1 5056 20231204220255
+64.158.170.212 1 29 579749 20231228084158
+18.191.216.231 1 1 3434 20231210140727
+166.198.32.46 0 1 73270 
+3.252.17.180 1 1 36443 20231205015726
+203.33.203.148 2 2 10112 20231224194534
+3.70.184.20 2 7 138288 20231222064250
+191.101.41.27 1 1 3723 20231201201039
+72.209.214.180 3 35 637451 20231218192948
+3.236.80.183 1 1 5056 20231203150732
+147.182.227.114 1 1 11753 20231228235626
+185.81.128.36 0 1 112107 
+209.182.219.227 1 1 19234 20231218191440
+174.210.168.56 1 45 1928052 20231231081458
+161.35.137.230 1 1 5056 20231221002005
+182.44.67.97 1 1 5056 20231209034951
+5.161.137.178 1 1 19234 20231219173030
+63.33.211.224 4 4 47102 20231205002134
+34.221.125.89 1 1 5056 20231211063918
+209.99.158.185 1 1 5056 20231214162511
+104.28.48.41 2 31 5927301 20231202080857
+174.213.214.231 1 24 1438800 20231225202925
+191.101.41.37 1 1 3879 20231201201055
+184.92.81.17 0 2 186882 
+199.244.88.227 2 2 10112 20231225045351
+119.91.196.110 1 1 5056 20231208173941
+72.70.46.43 6 85 2068233 20231223150525
+199.45.155.17 3 3 21862 20231221021032
+72.14.201.207 1 1 3723 20231222222155
+18.201.60.129 4 4 47101 20231223165406
+71.59.153.51 0 29 757848 
+172.58.111.232 1 8 1161018 20231222123730
+89.99.55.122 0 1 46044 
+8.36.240.32 3 61 1998794 20231211151542
+54.185.133.187 1 1 5056 20231204030546
+192.44.68.190 0 1 74163 
+188.134.80.97 2 2 10112 20231204215835
+34.145.227.243 3 3 44623 20231216135333
+54.171.210.192 1 1 36458 20231223184330
+35.199.25.81 1 1 12719 20231206124950
+170.106.171.77 2 2 10112 20231217220051
+51.38.95.97 2 2 10112 20231230234821
+174.210.163.1 2 29 537376 20231216182538
+64.62.243.165 1 1 5056 20231224214036
+66.240.236.119 1 1 19234 20231213001335
+24.214.12.24 1 45 1928052 20231229102153
+12.74.55.79 4 75 2295440 20231226201409
+138.197.116.180 1 1 5056 20231223011815
+172.58.10.224 1 29 647885 20231225133855
+23.90.165.44 1 1 5056 20231231142622
+69.167.11.88 1 1 0 20231207223018
+174.210.161.62 2 52 2049143 20231223094100
+23.228.130.196 1 45 1928052 20231214001957
+35.208.218.26 16 16 61303 20231230015417
+54.202.7.37 0 1 73270 
+93.174.93.127 1 1 5056 20231230052638
+113.217.254.125 0 1 306652 
+18.237.137.170 1 1 5056 20231231211545
+3.253.239.82 1 1 19234 20231209155905
+106.227.49.113 5 5 25280 20231229013749
+170.178.154.115 1 1 3650 20231214162510
+159.203.43.39 1 1 5056 20231221213047
+223.244.35.77 5 5 25280 20231229064813
+34.105.37.64 2 2 25438 20231213175550
+211.249.46.31 1 1 5056 20231222173243
+174.213.212.195 8 67 2197877 20231216173139
+8.219.197.101 1 1 3316 20231225124525
+65.108.31.123 2 2 22157 20231204043148
+34.220.174.119 1 1 5056 20231220030908
+129.153.128.42 0 1 306652 
+152.86.90.146 1 45 1928052 20231213113722
+66.214.185.44 1 29 578534 20231208180022
+159.223.204.200 1 1 5056 20231208104958
+35.208.114.125 16 16 61319 20231231194515
+45.41.143.94 1 1 3177 20231207062317
+193.186.4.206 7 7 31264 20231226131204
+34.72.17.34 1 1 3879 20231224100823
+43.159.136.231 1 1 5056 20231203102750
+141.138.213.100 1 1 5056 20231228064416
+34.106.65.101 1 1 19234 20231215111538
+35.190.142.237 10 10 39504 20231213194819
+180.76.14.131 0 1 306652 
+8.42.89.215 4 56 2023504 20231221075753
+54.75.51.146 4 4 47081 20231202165627
+198.235.24.50 1 1 19234 20231228133725
+38.45.186.113 1 1 5056 20231204070937
+66.232.200.175 1 45 1928052 20231214204301
+205.210.31.175 1 1 19234 20231225230930
+193.218.118.188 1 1 5056 20231217181239
+5.161.216.157 1 1 4314 20231218201749
+54.237.232.12 1 1 5056 20231203181233
+13.52.97.18 1 12 184289 20231213173240
+76.122.229.166 0 1 113919 
+3.237.200.8 1 6 92618 20231218100219
+174.213.211.183 1 29 624231 20231227151935
+192.44.68.162 0 1 73045 
+92.118.39.243 2 15 157532 20231213060659
+185.220.100.248 1 1 5056 20231219143212
+54.162.87.212 2 2 0 20231215080834
+73.179.230.148 0 1 113919 
+174.210.164.187 4 37 1108863 20231201200019
+174.202.64.200 1 29 563256 20231229082503
+172.59.229.192 3 31 587195 20231222073059
+52.224.21.4 2 2 10112 20231226201214
+139.162.43.205 0 1 1361 
+5.188.87.39 1 1 5056 20231213081812
+191.101.41.223 1 1 3650 20231201201050
+191.101.41.220 1 1 3247 20231201201032
+18.201.143.191 1 1 19234 20231216203309
+3.138.67.224 6 26 229580 20231222062413
+3.90.10.98 1 1 5056 20231231180945
+141.212.113.160 1 1 5056 20231209004732
+35.245.227.115 1 1 19234 20231208225204
+107.77.208.204 1 29 647885 20231210163521
+35.209.162.217 16 16 52375 20231208074629
+206.85.172.82 1 29 619409 20231208155658
+24.243.120.3 1 58 2616404 20231225131544
+49.234.36.156 1 1 3723 20231213214126
+35.208.152.62 16 16 54166 20231210222722
+174.138.66.61 1 1 5056 20231214085819
+34.170.40.194 1 1 3723 20231224100825
+107.178.194.136 1 1 0 20231203050640
+15.204.182.106 2 2 10112 20231210184617
+114.80.36.40 1 1 5056 20231222004618
+54.247.26.78 1 1 36431 20231202162303
+97.118.199.149 0 1 113919 
+101.91.148.219 6 6 30336 20231231044320
+168.151.58.194 1 1 3879 20231207062318
+149.56.150.248 1 45 1928052 20231219060303
+104.196.158.155 0 1 306652 
+35.238.37.188 1 1 5056 20231224100826
+193.186.4.57 1 1 3148 20231203150624
+107.178.194.134 1 1 3285 20231203050641
+35.166.68.208 1 1 19234 20231205175223
+35.208.214.220 16 16 53209 20231210011605
+34.255.180.166 2 5 58823 20231216162905
+39.154.15.188 1 1 5056 20231231131306
+172.59.225.116 1 37 652617 20231226105216
+76.130.79.239 1 46 1930211 20231214102047
+18.208.166.91 0 3 4752 
+43.130.39.101 1 1 5056 20231206165821
+199.244.88.232 1 1 5056 20231205182321
+213.32.25.76 9 19 692669 20231229131359
+192.36.109.131 1 1 5056 20231230145910
+13.52.213.112 1 14 186191 20231208200853
+51.195.199.91 1 29 607458 20231228010944
+157.245.100.246 2 2 38468 20231201091606
+212.102.57.168 0 1 1361 
+52.38.84.120 1 1 10953 20231211172851
+45.154.98.137 2 2 10112 20231218232857
+8.219.175.172 1 1 3177 20231223204030
+98.156.7.50 1 29 606302 20231227200542
+5.133.192.171 1 1 5056 20231215225756
+113.219.218.197 1 1 5056 20231229231624
+54.246.0.30 2 5 58805 20231202162826
+205.210.31.104 1 1 19234 20231223041117
+193.118.51.134 1 1 5056 20231221030017
+54.87.203.118 1 1 0 20231215110128
+149.56.150.134 1 45 1928052 20231202221600
+198.235.24.255 1 1 19234 20231202145240
+182.44.8.254 1 1 5056 20231222170546
+137.184.172.149 1 1 5056 20231231010306
+45.156.129.2 1 1 5056 20231201001718
+66.85.230.233 0 1 642115 
+69.161.163.61 0 1 73045 
+99.147.129.7 0 1 45581 
+68.44.252.4 2 50 1983139 20231229062354
+120.92.72.170 1 1 5056 20231204182047
+164.90.157.94 1 1 19234 20231226070910
+54.188.163.98 1 1 5056 20231206085644
+154.202.124.243 1 1 0 20231214225500
+18.224.137.214 6 26 229580 20231215013514
+179.60.147.121 1 1 5056 20231203223648
+34.171.201.133 1 1 3353 20231224100824
+193.186.4.207 6 6 23661 20231221130132
+98.146.187.78 2 46 1933108 20231222184120
+3.83.109.176 1 1 19234 20231225074119
+35.211.111.19 2 2 10112 20231211092346
+211.249.46.199 0 1 3354 
+34.215.36.58 1 1 0 20231223034950
+205.210.31.197 1 1 36443 20231201134016
+208.104.68.121 5 68 2034303 20231202075509
+5.188.62.76 1 1 5056 20231209201601
+172.252.233.51 1 1 10356 20231231030426
+49.37.116.131 1 1 19234 20231216095036
+165.227.42.124 1 1 11748 20231229013939
+146.66.177.93 1 1 19234 20231217121328
+116.203.99.191 1 1 5056 20231221125427
+155.48.255.207 1 29 647885 20231209140944
+208.100.26.233 1 15 169759 20231215234556
+222.79.103.59 3 3 15168 20231221144210
+172.59.120.104 1 45 1928052 20231215100935
+98.51.6.204 1 1 19234 20231231003810
+54.154.158.133 1 1 19234 20231216184108
+52.215.70.248 1 1 19234 20231223174111
+34.212.36.174 2 2 38468 20231211171631
+50.24.120.139 7 109 2362890 20231207194844
+44.211.88.180 2 8 233177 20231229072505
+87.120.254.48 1 1 5056 20231218135019
+35.208.176.32 16 16 80786 20231223232304
+174.213.213.91 0 1 113919 
+8.222.208.111 1 1 3077 20231226072054
+64.90.64.197 1 45 1928052 20231214001957
+75.71.15.168 7 23 214805 20231220182142
+173.63.207.36 1 30 648601 20231218194011
+172.252.233.66 2 2 22134 20231231030404
+91.107.226.131 0 1 1361 
+103.68.217.103 2 2 10112 20231218105512
+72.202.141.204 2 68 2171450 20231226201130
+18.236.75.183 1 1 5056 20231206085606
+148.76.109.230 0 1 113919 
+136.33.247.223 1 1 3353 20231228183218
+182.42.104.32 2 2 10112 20231205023220
+174.210.162.116 2 54 2029650 20231216181117
+8.218.87.55 3 3 11649 20231225155312
+54.190.5.50 1 1 5056 20231211063947
+34.228.74.241 1 1 0 20231215080543
+145.255.0.31 1 1 19234 20231217022525
+8.219.167.214 1 1 3247 20231224002053
+74.125.213.14 0 1 55616 
+191.101.41.16 1 1 3148 20231201201123
+18.201.168.149 1 1 36470 20231216190727
+8.42.80.72 1 29 647885 20231214141609
+54.188.66.243 0 1 73270 
+174.210.165.90 1 1 5056 20231227110437
+185.241.208.50 2 2 10112 20231208225940
+8.213.134.166 1 1 0 20231201174141
+194.28.28.109 1 1 3723 20231216165651
+198.235.24.12 2 2 72886 20231229062800
+180.102.134.69 2 2 10112 20231231183702
+107.178.194.135 2 2 3285 20231203050601
+208.100.26.249 3 3 21861 20231227115352
+69.254.134.175 0 1 45581 
+74.125.213.12 0 1 55616 
+54.216.119.23 1 1 19234 20231223201141
+101.227.238.116 2 2 10112 20231217185910
+43.155.152.154 3 3 15168 20231223203428
+3.255.144.164 4 4 47084 20231216194249
+5.9.158.9 3 3 33587 20231225221106
+192.71.3.26 1 1 5056 20231218122404
+65.109.158.125 1 1 10356 20231204115234
+120.92.72.106 0 1 2530 
+54.241.219.151 1 15 229335 20231209215159
+63.245.151.29 6 99 2408802 20231214185755
+66.198.222.214 2 50 1981461 20231228134707
+205.210.31.28 1 1 19234 20231209141246
+45.84.0.48 1 1 19234 20231220050816
+184.94.240.88 11 11 163856 20231228074149
+209.99.139.229 1 1 3879 20231214162510
+43.134.89.111 2 2 10112 20231225073309
+94.156.64.43 0 1 4942 
+199.87.206.94 2 57 1969179 20231211172851
+8.218.80.185 4 4 15863 20231225155312
+45.144.65.245 1 1 19234 20231227201457
+199.45.155.33 1 1 11750 20231221031530
+117.200.88.175 1 1 19234 20231220234728
+184.154.76.12 7 12 239723 20231230041829
+185.129.61.4 1 1 5056 20231218014827
+64.140.128.160 1 1 5056 20231201061929
+66.102.7.108 1 2 59096 20231226113704
+152.32.153.148 1 1 5056 20231218012555
+65.110.39.181 2 69 3392299 20231204141509
+45.77.38.236 1 3 10137 20231230211442
+64.44.118.231 1 47 2702906 20231231101921
+35.209.236.104 16 16 74052 20231213122037
+34.243.210.6 1 1 36431 20231223195336
+108.147.176.126 1 29 606302 20231228131439
+174.138.178.58 1 45 1928052 20231227131523
+191.101.41.13 4 4 17139 20231201201126
+24.225.23.129 1 55 1983508 20231220164558
+8.42.83.58 1 46 1930211 20231212154146
+65.21.67.136 6 6 78288 20231203232300
+183.136.225.44 1 1 36443 20231223232221
+8.219.69.203 2 2 6666 20231226221031
+172.58.14.155 1 29 647885 20231213180348
+206.41.170.85 1 1 5056 20231214162513
+54.188.21.82 0 1 306652 
+65.109.127.94 3 3 15168 20231211073853
+35.93.133.204 1 1 12494 20231229151747
+3.252.249.227 4 4 47088 20231230200233
+34.253.209.221 1 1 3723 20231213122749
+208.100.26.235 2 2 10112 20231213235418
+184.154.76.11 2 3 37636 20231213041801
+205.210.31.163 1 1 36431 20231219105839
+154.22.196.126 0 1 73045 
+36.111.67.189 2 2 10112 20231219042359
+13.52.241.219 0 3 4752 
+163.171.132.121 1 1 5056 20231212010252
+205.210.31.89 1 1 36443 20231206172635
+172.104.185.8 3 3 29346 20231207005529
+34.148.200.185 0 1 306652 
+211.249.46.133 0 1 5968 
+5.188.62.174 1 1 5056 20231219135758
+54.88.51.200 1 1 5056 20231224181103
+178.20.189.89 1 1 5056 20231213230214
+43.133.66.151 2 2 10112 20231218201531
+52.154.172.2 1 1 5056 20231219170708
+52.154.170.122 1 1 5056 20231210073622
+65.21.71.9 2 2 30337 20231203181237
+43.159.128.149 2 2 10112 20231225131200
+193.186.4.205 4 4 16169 20231218102915
+161.129.20.3 1 29 589106 20231226113239
+107.127.28.132 2 53 2051302 20231208115024
+178.63.53.93 7 7 90668 20231203190042
+41.133.83.148 0 1 74163 
+120.92.72.199 0 2 43888 
+147.78.47.212 2 2 0 20231213041718
+205.210.31.211 1 1 19234 20231208025132
+208.100.26.247 4 4 20224 20231226121731
+35.209.139.157 16 16 64291 20231216034254
+174.210.161.60 2 50 1981461 20231228083532
+18.188.4.41 1 1 3285 20231203050601
+54.177.195.218 2 22 363518 20231215043249
+221.229.106.25 2 2 10112 20231223024536
+67.214.200.33 0 1 113919 
+3.251.251.154 1 1 36458 20231216154759
+38.158.66.197 1 29 579749 20231210125439
+172.59.201.178 1 7 53280 20231211235049
+68.235.38.142 1 1 11259 20231203053400
+43.159.141.180 1 1 5056 20231223102850
+72.14.201.56 1 1 3148 20231207084015
+52.53.164.202 2 30 352166 20231214071414
+35.196.57.106 0 1 73270 
+71.228.91.11 6 61 1874911 20231213043637
+165.140.199.96 1 1 5056 20231220201516
+114.111.32.96 0 1 2530 
+3.83.245.106 1 1 0 20231202130134
+183.136.225.46 1 1 36431 20231217163613
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20231201 87 142 2777171 58
+20231202 87 478 14879353 43
+20231203 111 310 8926609 54
+20231204 137 402 20365677 51
+20231205 85 348 13140297 34
+20231206 80 178 3896278 30
+20231207 84 370 10853798 43
+20231208 109 509 42455070 45
+20231209 99 237 34114380 45
+20231210 73 339 32318727 39
+20231211 129 678 15819486 54
+20231212 53 298 47258431 34
+20231213 142 646 16189538 49
+20231214 117 813 22062212 60
+20231215 106 505 22209008 56
+20231216 112 489 12115006 48
+20231217 83 344 7442799 38
+20231218 131 657 38532100 61
+20231219 103 432 32516756 33
+20231220 87 389 20983275 35
+20231221 129 348 8569029 37
+20231222 137 369 20425937 43
+20231223 98 297 8513788 52
+20231224 84 431 22975624 38
+20231225 84 301 8740334 41
+20231226 133 615 23206727 52
+20231227 48 311 8211672 28
+20231228 122 664 38709155 45
+20231229 80 332 9341892 44
+20231230 84 191 4998315 42
+20231231 72 426 13143349 40
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 1
+30s-2mn 55
+30mn-1h 11
+15mn-30mn 12
+5mn-15mn 51
+2mn-5mn 26
+0s-30s 1216
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 59
+/ 1344 10342902 984 878
+/html/russell.html 109 604210 40 41
+/html/oil-patch-museum.html 103 629541 58 54
+/html/rchs.html 96 418122 6 19
+/html/bunker-hill.html 88 406300 32 32
+/html/waldo.html 87 390384 22 22
+/html/towns.html 82 394762 7 11
+/html/luray.html 77 377306 11 12
+/html/gorham.html 77 334974 11 13
+/html/events.html 75 416087 6 9
+/html/hours.html 74 199074 6 8
+/html/dorrance.html 73 321062 7 15
+/html/lucas.html 73 311130 3 5
+/html/robert-j-dole.html 72 342293 14 22
+/html/attractions.html 71 472680 6 24
+/html/fossil-station-museum.html 67 352188 20 25
+/html/mission.html 64 422346 10 19
+/html/paradise.html 61 281200 14 17
+/html/milberger.html 58 269890 10 17
+/html/fairport.html 51 263421 9 16
+/html/heym-oliver-museum.html 49 245390 13 15
+/html/gernon-house-museum.html 47 248550 14 15
+/html/get-involved.html 46 322095 6 22
+/autodiscover/autodiscover.json 22 259398 4 7
+/./RestAPI/LogonCustomization 12 437556 12 12
+/./html/russell.html 2 25438 2 0
+/./html/robert-j-dole.html 2 22554 2 1
+/./html/bunker-hill.html 2 22206 1 2
+/./html/fairport.html 2 22032 0 0
+/./html/hours.html 2 14092 0 2
+/global-protect/login.esp 9 105843 6 3
+/.git/config 2 23508 2 2
+/./html/rchs.html 2 21906 0 0
+/owa/auth/logon.aspx 11 129376 0 3
+/installer/index.php 9 328119 5 5
+/./html/events.html 2 38236 2 0
+/./html/fossil-station-museum.html 2 24278 0 0
+/./html/attractions.html 2 34728 0 1
+/./html/milberger.html 2 23354 0 0
+/./html/lucas.html 2 22362 1 0
+/./html/heym-oliver-museum.html 2 24988 1 0
+/./html/waldo.html 2 22518 1 0
+/./html/get-involved.html 2 34426 1 0
+/./html/gorham.html 2 20712 2 2
+/./html/oil-patch-museum.html 2 25340 1 1
+/php/login.php 9 105781 3 6
+/wp-content/themes/ 1 0 0 1
+/./html/luray.html 2 22628 0 1
+/./html/mission.html 2 27864 0 2
+/ecp/ 11 129257 7 1
+/html/donation.html 2 8608 1 1
+/wp-content/ 6 0 6 5
+/./html/dorrance.html 2 22028 1 1
+/./html/gernon-house-museum.html 2 26436 0 0
+/wp-content/index.php 1 0 1 1
+/./html/paradise.html 2 21952 1 1
+/html/thankyou.html 1 1701 0 0
+/./ 2 38468 0 0
+/./html/towns.html 2 30436 0 0
+END_SIDER
